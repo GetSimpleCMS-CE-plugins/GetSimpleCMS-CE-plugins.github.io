@@ -1,0 +1,142 @@
+
+        @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 300;
+            font-display: swap;
+            src: url('/font/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2') format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+          }
+     
+          @font-face {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-display: swap;
+            src: url('/font/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2') format('woff2');
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+          }
+          
+          
+          
+html {font-size: 100%;} /*16px*/
+
+body {
+  background: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #000000;
+}
+
+p {margin-bottom: 1rem;}
+
+h1, h2, h3, h4, h5 {
+  margin: 10px 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2.488rem;
+}
+
+h2 {font-size: 2.074rem;}
+
+h3 {font-size: 1.728rem;}
+
+h4 {font-size: 1.44rem;}
+
+h5 {font-size: 1.2rem;}
+
+small, .text_small {font-size: 0.833rem;}
+
+
+                  .db{
+                      width:80rem;
+                      margin: 0 auto;
+                      display:grid;
+                      grid-template-columns: 1fr 1fr 1fr;
+                  gap:20px;
+                  margin-top:20px;
+                  margin-bottom:20px;
+                  }
+
+                  @media(max-width:768px){
+                    .db{
+                      width:90%;
+                      grid-template-columns: 1fr;
+                    }
+                  }
+
+                  .db-item{
+                      padding:20px;
+                      background: #fafafa;
+                      border:solid 1px #ddd;
+                      border-bottom:solid 4px red;
+                  }
+
+                  hr{
+                    border:dashed 1px #111;
+                    opacity: 0.3;
+                  }
+
+                  .db-item-btn{
+                    display:inline-block;
+                    padding:10px 15px;
+                    background: #000;
+                    color:#fff;
+                    text-decoration: none;
+                    transition: all 250ms linear;
+                  }
+
+                  
+                  .db-item-btn:hover{
+                    display:inline-block;
+                    padding:10px 15px;
+                    background: #333;
+                    color:#fff;
+                    text-decoration: none;
+                  }
+
+                  .db-item-author{
+                    font-size:0.8rem;
+                    opacity:0.8;
+                  }
+
+                  .db-item-info{
+                    min-height:50px
+                  }
+
+
+                  .title{
+                    width:80rem;
+                      margin: 0 auto;
+                      text-align: center;
+                  }
+
+                  .title h1{
+                    margin:0;
+                    padding:0
+                  }
+
+                  .title p{
+                    margin: 15px;
+                    padding: 0;
+                  }
+
+                  .lead{
+                    font-size:1.3rem;
+                    color:#333;
+                    font-weight: 300;
+                  opacity: 0.6;
+                  }
+
+                  @media(max-width:768px){
+                    .title{
+                      width:90%;
+                      margin:0 auto;
+                     }
+                  }
