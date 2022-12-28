@@ -1,14 +1,14 @@
 [
     {
         "name": "I18N Custom Fields",
-        "info": "'Custom Fields (I18N enabled)",
+        "info": "Custom Fields (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
     },
 
     {
         "name": "Multiblock",
-        "info": "'create block what you want",
+        "info": "create block what you want",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
     },
