@@ -1,12 +1,15 @@
 [
-  {
+{
 "name":"Multiblock",
 "info":"Multiblock plugin",
+"author":"multicolor",
 "url":"https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
 },
+  
 {
 "name":"i18n Special Pages",
 "info":"i18n Special Pages plugin",
+"author":"",
 "url":"https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
 }
 ]
