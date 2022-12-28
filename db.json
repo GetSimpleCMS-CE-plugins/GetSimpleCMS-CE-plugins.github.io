@@ -1,15 +1,21 @@
 [
-{
-"name":"Multiblock",
-"info":"Multiblock plugin",
-"author":"multicolor",
-"url":"https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
-},
-  
-{
-"name":"i18n Special Pages",
-"info":"i18n Special Pages plugin",
-"author":"",
-"url":"https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
-}
+    {
+        "name": "I18N Custom Fields",
+        "info": "'Custom Fields (I18N enabled)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
+    },
+
+    {
+        "name": "Multiblock",
+        "info": "'create block what you want",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
+    },
+    {
+        "name": "i18n Special Pages",
+        "info": "i18n Special Pages plugin",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
+    }
 ]
