@@ -1,4 +1,79 @@
 [
+
+    {
+        "name": "I18N Gallery",
+        "info": "Display image galleries (I18N enabled)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
+    },
+
+    {
+        "name": "DY Website Custom Fields",
+        "info": "Adds website custom fields",
+        "author": "Dmitry Yakovlev",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
+    },
+
+
+    {
+        "name": "BetterSEO",
+        "info": "Make Get Simple CMS SEO better!",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/main.zip"
+    },
+
+    {
+        "name": "I18N Navigation & I18N Base",
+        "info": "Multilevel navigation & breadcrumbs (I18N enabled)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
+    },
+    
+
+    {
+        "name": "Multi User",
+        "info": "Adds Multi-User Management Section",
+        "author": "Mike Henken",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
+    },
+    
+
+    {
+        "name": "Simple Input Tabs",
+        "info": "Adds additional user inputs where required in the theme",
+        "author": "Jason Dixon",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
+    },
+    
+    {
+        "name": "Accessibility sidebar",
+        "info": "Accesibilty options for your website",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
+    },
+
+
+    {
+        "name": "I18N Search",
+        "info": "Search (I18N enabled!)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
+    },
+
+    {
+        "name": "I18N Search (RU)",
+        "info": "Search (I18N enabled!)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
+    },
+
+    {
+        "name": "Massive Admin Theme",
+        "info": "Admin theme with new function",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/main.zip"
+    },
+
     {
         "name": "I18N Custom Fields",
         "info": "Custom Fields (I18N enabled)",
