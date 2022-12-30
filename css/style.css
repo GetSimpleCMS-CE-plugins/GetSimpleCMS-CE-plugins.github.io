@@ -155,6 +155,11 @@ small, .text_small {font-size: 0.833rem;}
 		color:#fff !important;
 	}
 	
+	.lead{
+	color:#fff;
+	opacity:1;
+	}
+	
 	.db-item{
 	color:#fff;
 	background:#243763;
