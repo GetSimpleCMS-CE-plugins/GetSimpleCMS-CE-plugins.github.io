@@ -1,19 +1,11 @@
 [
-
+    
     {
-        "name": "I18N Gallery",
-        "info": "Display image galleries (I18N enabled)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
+        "name": "Accessibility sidebar",
+        "info": "Accesibilty options for your website",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
     },
-
-    {
-        "name": "DY Website Custom Fields",
-        "info": "Adds website custom fields",
-        "author": "Dmitry Yakovlev",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
-    },
-
 
     {
         "name": "BetterSEO",
@@ -23,55 +15,24 @@
     },
 
     {
-        "name": "I18N Navigation & I18N Base",
-        "info": "Multilevel navigation & breadcrumbs (I18N enabled)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
-    },
-    
-
-    {
-        "name": "Multi User",
-        "info": "Adds Multi-User Management Section",
-        "author": "Mike Henken",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
-    },
-    
-
-    {
-        "name": "Simple Input Tabs",
-        "info": "Adds additional user inputs where required in the theme",
-        "author": "Jason Dixon",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
-    },
-    
-    {
-        "name": "Accessibility sidebar",
-        "info": "Accesibilty options for your website",
+        "name": "Carousel Creator",
+        "info": "Create carousel with easy creator",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
-    },
-
-
-    {
-        "name": "I18N Search",
-        "info": "Search (I18N enabled!)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/main.zip"
     },
 
     {
-        "name": "I18N Search (RU)",
-        "info": "Search (I18N enabled!)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
+        "name": "DY Website Custom Fields",
+        "info": "Adds website custom fields",
+        "author": "Dmitry Yakovlev",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
     },
 
     {
-        "name": "Massive Admin Theme",
-        "info": "Admin theme with new function",
+        "name": "FBsidebar",
+        "info": "Add fb sidebar to your website",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/main.zip"
     },
 
     {
@@ -82,15 +43,94 @@
     },
 
     {
-        "name": "Multiblock",
-        "info": "create block what you want",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
+        "name": "I18N Gallery",
+        "info": "Display image galleries (I18N enabled)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
     },
+
+    {
+        "name": "I18N Navigation & I18N Base",
+        "info": "Multilevel navigation & breadcrumbs (I18N enabled)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
+    },
+
+    {
+        "name": "I18N Search",
+        "info": "Search (I18N enabled!)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
+    },
+
+    {
+        "name": "I18N Search (ru)",
+        "info": "Search (I18N enabled!)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
+    },
+    
     {
         "name": "i18n Special Pages",
         "info": "i18n Special Pages plugin",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
+    },
+
+    {
+        "name": "MapCreator",
+        "info": "This plugin add maps to your website with MapCreator",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/main.zip"
+    },
+
+    {
+        "name": "Massive Admin Theme",
+        "info": "Admin theme with new function",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/main.zip"
+    },
+
+    {
+        "name": "Multiblock",
+        "info": "create block what you want",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
+    },
+
+    {
+        "name": "MultiblockMigrator",
+        "info": "This is Url Changer for MultiBlock",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
+    },
+    
+    {
+        "name": "Multi User",
+        "info": "Adds Multi-User Management Section",
+        "author": "Mike Henken",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
+    },
+    
+    {
+        "name": "Scrollup",
+        "info": "This plugin add ScrollUp button to your website",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
+    },
+
+    {
+        "name": "Simple Input Tabs",
+        "info": "Adds additional user inputs where required in the theme",
+        "author": "Jason Dixon",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
+    },
+
+    {
+        "name": "uploaderExt",
+        "info": "Upload with compress photo and convert to webp",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/main.zip"
     }
+    
 ]
