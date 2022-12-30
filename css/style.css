@@ -151,6 +151,11 @@ small, .text_small {font-size: 0.833rem;}
 
 @media (prefers-color-scheme: dark) {
 	body {
-		filter:invert(100%);
+		bakground:#0A2647
 	}
+	
+	.db-item{
+	color:#fff;
+	background:#243763;
+	border-bottom: solid 4px blue;}
 }
