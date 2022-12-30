@@ -147,3 +147,10 @@ small, .text_small {font-size: 0.833rem;}
                       margin:0 auto;
                      }
                   }
+
+
+@media (prefers-color-scheme: dark) {
+	body {
+		filter:invert(100%);
+	}
+}
