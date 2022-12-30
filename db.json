@@ -1,5 +1,13 @@
 [
     
+      {
+        "name": "Custom Title",
+        "info": "This plugin adds the ability to use a custom title tag.",
+        "author": "ePirat",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
+    },
+
+    
     {
         "name": "Accessibility sidebar",
         "info": "Accesibilty options for your website",
