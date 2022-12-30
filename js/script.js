@@ -5,7 +5,7 @@ fetch('https://GetSimpleCMS-CE-plugins.github.io/db.json')
         data.forEach(el => {
 
 
-            document.querySelector('.db').insertAdjacentHTML('afterbegin', `
+            document.querySelector('.db').insertAdjacentHTML('beforeend', `
 
 <div class="db-item">
 <h4>${el['name']}</h4>
