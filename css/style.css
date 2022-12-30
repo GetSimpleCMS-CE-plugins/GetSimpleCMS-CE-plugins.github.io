@@ -152,7 +152,7 @@ small, .text_small {font-size: 0.833rem;}
 @media (prefers-color-scheme: dark) {
 	body {
 		background:#0A2647;
-		color:#fff;
+		color:#fff !important;
 	}
 	
 	.db-item{
