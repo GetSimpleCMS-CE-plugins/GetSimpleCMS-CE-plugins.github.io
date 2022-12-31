@@ -1,5 +1,13 @@
 [
+    
 
+     {
+        "name": "CE Downloader",
+        "info": "This plugin is for download plugins supports php 8",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
+    },
+    
     {
         "name": "Accessibility sidebar",
         "info": "Accesibilty options for your website",
