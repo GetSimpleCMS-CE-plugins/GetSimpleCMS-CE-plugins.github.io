@@ -135,6 +135,13 @@
     },
     
     {
+        "name": "News Manager beta",
+        "info": "A blog/news plugin for GetSimple",
+        "author": "Carlos Navarro",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
+    },
+    
+    {
         "name": "Scrollup",
         "info": "This plugin add ScrollUp button to your website",
         "author": "multicolor",
