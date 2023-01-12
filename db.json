@@ -3,7 +3,7 @@
 
      {
         "name": "Accessibility sidebar",
-        "version": "2.0",
+        "version": "1.0.1",
         "info": "Accesibilty options for your website",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
@@ -11,7 +11,7 @@
 
     {
         "name": "BetterSEO",
-        "version": "",
+        "version": "2.0",
         "info": "Make Get Simple CMS SEO better!",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/main.zip"
@@ -19,7 +19,7 @@
 
     {
         "name": "Carousel Creator",
-        "version": "",
+        "version": "2.0",
         "info": "Create carousel with easy creator",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/main.zip"
@@ -27,7 +27,7 @@
     
     {
         "name": "CE Plugin Downloader",
-        "version": "",
+        "version": "1.0",
         "info": "This plugin is to download plugins that supports php8.x",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
@@ -35,7 +35,7 @@
     
     {
         "name": "Custom Title",
-        "version": "",
+        "version": "1.5",
         "info": "This plugin adds the ability to use a custom title tag.",
         "author": "ePirat",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
@@ -43,7 +43,7 @@
 
     {
         "name": "DY Website Custom Fields",
-        "version": "",
+        "version": "1.0",
         "info": "Adds website custom fields",
         "author": "Dmitry Yakovlev",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
@@ -51,7 +51,7 @@
 
     {
         "name": "FBsidebar",
-        "version": "",
+        "version": "2.0",
         "info": "Add fb sidebar to your website",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/main.zip"
@@ -59,7 +59,7 @@
 
     {
         "name": "I18N Custom Fields",
-        "version": "",
+        "version": "1.9.3",
         "info": "Custom Fields (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
@@ -67,7 +67,7 @@
 
     {
         "name": "I18N Gallery",
-        "version": "",
+        "version": "2.2.1",
         "info": "Display image galleries (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
@@ -75,7 +75,7 @@
 
     {
         "name": "I18N Navigation & I18N Base",
-        "version": "",
+        "version": "3.3.1",
         "info": "Multilevel navigation & breadcrumbs (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
@@ -83,7 +83,7 @@
 
     {
         "name": "I18N Search",
-        "version": "",
+        "version": "2.13.1",
         "info": "Search (I18N enabled!)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
@@ -91,7 +91,7 @@
 
     {
         "name": "I18N Search (ru)",
-        "version": "",
+        "version": "9.99",
         "info": "Search (I18N enabled!)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
@@ -99,7 +99,7 @@
     
     {
         "name": "i18n Special Pages",
-        "version": "",
+        "version": "1.3.5",
         "info": "i18n Special Pages plugin",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
@@ -107,7 +107,7 @@
 
     {
         "name": "MapCreator",
-        "version": "",
+        "version": "3.0",
         "info": "This plugin add maps to your website with MapCreator",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/main.zip"
@@ -115,15 +115,23 @@
 
     {
         "name": "Massive Admin Theme",
-        "version": "",
+        "version": "2.5",
         "info": "Admin theme with new function",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/main.zip"
     },
+    
+    {
+        "name": "Multi User",
+        "version": "1.8.2",
+        "info": "Adds Multi-User Management Section",
+        "author": "Mike Henken",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
+    },
 
     {
         "name": "Multiblock",
-        "version": "",
+        "version": "3.0",
         "info": "create block what you want",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
@@ -131,23 +139,15 @@
 
     {
         "name": "MultiblockMigrator",
-        "version": "",
+        "version": "1.0",
         "info": "This is Url Changer for MultiBlock",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
     },
     
     {
-        "name": "Multi User",
-        "version": "",
-        "info": "Adds Multi-User Management Section",
-        "author": "Mike Henken",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
-    },
-    
-    {
         "name": "News Manager Updated",
-        "version": "",
+        "version": "3.6.1",
         "info": "A blog/news plugin for GetSimple",
         "author": "Carlos Navarro",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
@@ -155,7 +155,7 @@
     
     {
         "name": "News Manager beta",
-        "version": "",
+        "version": "3.7",
         "info": "A blog/news plugin for GetSimple",
         "author": "Carlos Navarro",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
@@ -163,7 +163,7 @@
     
     {
         "name": "Scrollup",
-        "version": "",
+        "version": "2.0",
         "info": "This plugin add ScrollUp button to your website",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
@@ -171,7 +171,7 @@
 
     {
         "name": "Simple Input Tabs",
-        "version": "",
+        "version": "2.6",
         "info": "Adds additional user inputs where required in the theme",
         "author": "Jason Dixon",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
@@ -179,7 +179,7 @@
 
     {
         "name": "uploaderExt",
-        "version": "",
+        "version": "1.1",
         "info": "Upload with compress photo and convert to webp",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/main.zip"
