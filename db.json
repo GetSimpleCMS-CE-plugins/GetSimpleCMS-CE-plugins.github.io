@@ -138,6 +138,15 @@
     },
 
     {
+        "name": "MonsterGallery",
+        "version": "1.0.1",
+        "info": "Gallery plugin you want use it!",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/main.zip"
+    },
+
+
+    {
         "name": "MultiblockMigrator",
         "version": "1.0",
         "info": "This is Url Changer for MultiBlock",
