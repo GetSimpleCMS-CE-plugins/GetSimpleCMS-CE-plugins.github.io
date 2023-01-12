@@ -8,11 +8,14 @@ fetch('https://GetSimpleCMS-CE-plugins.github.io/db.json')
             document.querySelector('.db').insertAdjacentHTML('beforeend', `
 
 <div class="db-item">
-<h4>${el['name']}</h4>
-<p class="db-item-info">${el['info']}</p>
-<hr>
-<p class="db-item-author">Author: ${el['author']}</p>
-<a class="db-item-btn" href="${el['url']}">Download</a>
+	<div class="version">
+		<span class="version__content">v. ${el['version']}</span>
+	</div>
+	<h4>${el['name']}</h4>
+	<p class="db-item-info">${el['info']}</p>
+	<hr>
+	<p class="db-item-author">Author: ${el['author']}</p>
+	<a class="db-item-btn" href="${el['url']}">Download</a>
 </div>
 
 
