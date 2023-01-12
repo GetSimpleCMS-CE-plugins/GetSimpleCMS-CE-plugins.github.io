@@ -153,6 +153,15 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
     },
     
+
+    {
+        "name": "Pages Access",
+        "version": "1.21",
+        "info": "Allows only certain pages to be viewed in admin based on user name",
+        "author": "Craig Adams",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/archive/refs/heads/master.zip"
+    },
+
     {
         "name": "Page Lock",
         "version": "1.21",
