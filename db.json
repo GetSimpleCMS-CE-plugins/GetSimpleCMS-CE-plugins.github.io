@@ -152,6 +152,14 @@
         "author": "Carlos Navarro",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
     },
+
+    {
+        "name": "Newsletter",
+        "version": "1.1",
+        "info": "plugin for create newsletter from website",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
+    },
     
 
     {
