@@ -49,6 +49,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
     },
 
+
+    {
+        "name": "Easy_ContactForm",
+        "version": "5.0",
+        "info": "Easy Contact form for your page",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/easy_contactform/archive/main.zip"
+    },
+
+
     {
         "name": "FBsidebar",
         "version": "2.0",
