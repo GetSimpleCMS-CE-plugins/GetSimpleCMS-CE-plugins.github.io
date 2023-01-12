@@ -204,6 +204,14 @@
         "info": "Upload with compress photo and convert to webp",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/main.zip"
+    },
+
+    {
+        "name": "Upload Plugin & Themes",
+        "version": "1.0",
+        "info": "Upload Plugin or Themes direct from CMS",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
     }
     
 ]
