@@ -160,6 +160,15 @@
         "author": "Carlos Navarro",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
     },
+
+    {
+        "name": "Password_protect",
+        "version": "1.0.0",
+        "info": "Allows users to password protect pages in their GetSimple powered site.",
+        "author": "Helge Sverre",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/archive/main.zip"
+    },
+
     
     {
         "name": "Scrollup",
