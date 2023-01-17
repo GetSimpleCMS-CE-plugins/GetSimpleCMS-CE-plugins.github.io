@@ -146,7 +146,7 @@
 
     {
         "name": "Multiblock",
-        "version": "3.0",
+        "version": "4.0",
         "info": "create block what you want",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/main.zip"
@@ -163,7 +163,7 @@
 
     {
         "name": "MultiblockMigrator",
-        "version": "1.0",
+        "version": "2.0",
         "info": "This is Url Changer for MultiBlock",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
