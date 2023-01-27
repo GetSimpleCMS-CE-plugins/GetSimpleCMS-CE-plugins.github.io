@@ -210,6 +210,14 @@
     },
 
     {
+        "name": "Pagify",
+        "version": "1.4.1",
+        "info": "Split long content into pages",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/archive/refs/heads/main.zip"
+    },
+
+    {
         "name": "Password Protect",
         "version": "1.0.0",
         "info": "Allows users to password protect pages in their GetSimple powered site.",
