@@ -98,7 +98,7 @@
 
     {
         "name": "I18N Search",
-        "version": "2.13.2",
+        "version": "2.13.4",
         "info": "Search (I18N enabled!)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
