@@ -74,7 +74,7 @@
 
     {
         "name": "I18N Custom Fields",
-        "version": "1.9.3",
+        "version": "1.9.4",
         "info": "Custom Fields (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
@@ -114,7 +114,7 @@
     
     {
         "name": "i18n Special Pages",
-        "version": "1.4.1",
+        "version": "1.4.2",
         "info": "i18n Special Pages plugin",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
@@ -239,6 +239,14 @@
         "info": "Adds additional user inputs where required in the theme",
         "author": "Jason Dixon",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
+    },
+
+    {
+        "name": "Translate",
+        "version": "1.1",
+        "info": "Everybody can translate GetSimple!",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
     },
 
     {
