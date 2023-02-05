@@ -57,6 +57,14 @@
     },
 
     {
+        "name": "EasyContactButton",
+        "version": "1.0",
+        "info": "Add a Contact or WhatsApp button to your theme",
+        "author": "islander",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/main.zip"
+    },
+
+    {
         "name": "Easy_ContactForm",
         "version": "5.0",
         "info": "Easy Contact form for your page",
