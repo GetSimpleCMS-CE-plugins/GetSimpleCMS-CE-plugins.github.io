@@ -73,6 +73,14 @@
     },
 
     {
+        "name": "Extra Gallery ",
+        "version": "1.09",
+        "info": "Created galleries are available as structured PHP arrays to use in theme.",
+        "author": "mganko",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Extra_Gallery/archive/refs/heads/main.zip"
+    },
+
+    {
         "name": "FBsidebar",
         "version": "2.0",
         "info": "Add fb sidebar to your website",
