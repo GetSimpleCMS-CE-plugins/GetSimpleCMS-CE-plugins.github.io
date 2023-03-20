@@ -266,6 +266,17 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/main.zip"
     },
     
+    
+    
+      {
+        "name": "Harmony",
+        "version": "1.0",
+        "info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/main.zip"
+    },
+    
+    
     {
         "name": "Simple Input Tabs",
         "version": "2.6",
