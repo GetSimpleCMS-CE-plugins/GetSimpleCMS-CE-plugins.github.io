@@ -159,6 +159,14 @@
         "author": "Mike Henken",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
     },
+    
+    {
+        "name": "MultiMenu",
+        "version": "1.0.1",
+        "info": "Plugin to create multiple menus",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/main.zip"
+    },
 
     {
         "name": "Multiblock",
