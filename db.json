@@ -241,6 +241,14 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/archive/main.zip"
     },
     
+      {
+        "name": "PhotoGrabber",
+        "version": "1.0.0",
+        "info": "Get free commercial use photos direct to cms",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/main.zip"
+    },
+    
     {
         "name": "Scrollup",
         "version": "2.0",
