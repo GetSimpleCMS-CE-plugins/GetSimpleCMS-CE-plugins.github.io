@@ -178,10 +178,10 @@
 
     {
         "name": "MonsterGallery",
-        "version": "2.1",
+        "version": "2.2",
         "info": "Gallery plugin you want use it!",
         "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/2.0.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/2.2.zip"
     },
 
 
