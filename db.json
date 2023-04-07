@@ -282,13 +282,6 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/main.zip"
     },
     
-      {
-        "name": "SEOGPT",
-        "version": "1.0",
-        "info": "Plugin for SEO text based on OpenAI",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/main.zip"
-    },
     
       {
         "name": "Harmony",
