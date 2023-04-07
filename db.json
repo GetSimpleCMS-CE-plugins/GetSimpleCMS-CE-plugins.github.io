@@ -251,10 +251,10 @@
     
       {
         "name": "PhotoGrabber",
-        "version": "1.0.0",
+        "version": "1.1",
         "info": "Get free commercial use photos direct to cms",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.1.zip"
     },
     
     {
