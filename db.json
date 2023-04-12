@@ -146,10 +146,10 @@
 
     {
         "name": "Massive Admin Theme",
-        "version": "2.5.1",
+        "version": "3.0",
         "info": "Admin theme with new function",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/3.0.zip"
     },
     
     {
