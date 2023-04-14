@@ -307,6 +307,14 @@
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
     },
+	
+	    {
+        "name": "InfoPop",
+        "version": "1.1",
+        "info": "Info for site users ( you can use it for all info what do you want, never show after close)",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
+    },
 
     {
         "name": "uploaderExt",
