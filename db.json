@@ -276,10 +276,10 @@
     
       {
         "name": "Read Time",
-        "version": "1.0",
+        "version": "1.1",
         "info": "This plugin will show estimated time for read page content",
         "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/1.1.zip"
     },
     
     
