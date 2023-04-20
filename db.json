@@ -31,6 +31,14 @@
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/main.zip"
     },
+	
+	{
+        "name": "Company Slider",
+        "version": "1.1",
+        "info": "If you want to show the partners' logo in an effective way...",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
+    },
     
     {
         "name": "CE Plugin Downloader",
