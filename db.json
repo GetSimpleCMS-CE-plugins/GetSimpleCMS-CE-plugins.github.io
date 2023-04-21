@@ -146,10 +146,10 @@
 
     {
         "name": "MapCreator",
-        "version": "3.0",
+        "version": "4.1",
         "info": "This plugin add maps to your website with MapCreator",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/4.1.zip"
     },
 
     {
