@@ -90,10 +90,10 @@
 
     {
         "name": "FBsidebar",
-        "version": "2.0",
+        "version": "2.1",
         "info": "Add fb sidebar to your website",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
     },
 
     {
