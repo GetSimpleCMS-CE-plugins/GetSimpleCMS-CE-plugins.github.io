@@ -1,7 +1,7 @@
 [
     
      {
-        "name": "Accessibility sidebar",
+        "name": "Accessibility Sidebar 🗚",
         "version": "1.0.1",
         "info": "Accesibilty options for your website",
         "author": "Multicolor",
@@ -95,6 +95,14 @@
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
     },
+    
+      {
+        "name": "Harmony 🪗",
+        "version": "1.0",
+        "info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/main.zip"
+    },
 
     {
         "name": "I18N Custom Fields",
@@ -143,6 +151,14 @@
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
     },
+	
+    {
+        "name": "InfoPop",
+        "version": "1.1",
+        "info": "Info for site users ( you can use it for all info what do you want, never show after close)",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
+    },
 
     {
         "name": "MapCreator 📍",
@@ -159,6 +175,14 @@
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/3.1.zip"
     },
+
+    {
+        "name": "MonsterGallery 👹",
+        "version": "2.2",
+        "info": "Gallery plugin you want use it!",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/2.2.zip"
+    },
     
     {
         "name": "Multi User",
@@ -166,14 +190,6 @@
         "info": "Adds Multi-User Management Section",
         "author": "Mike Henken",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
-    },
-    
-    {
-        "name": "MultiMenu",
-        "version": "1.0.1",
-        "info": "Plugin to create multiple menus",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/main.zip"
     },
 
     {
@@ -185,20 +201,19 @@
     },
 
     {
-        "name": "MonsterGallery 👹",
-        "version": "2.2",
-        "info": "Gallery plugin you want use it!",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/2.2.zip"
-    },
-
-
-    {
         "name": "MultiblockMigrator",
         "version": "2.0",
         "info": "This is Url Changer for MultiBlock",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
+    },
+    
+    {
+        "name": "MultiMenu",
+        "version": "1.0.1",
+        "info": "Plugin to create multiple menus",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/main.zip"
     },
     
     {
@@ -265,6 +280,14 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.1.zip"
     },
     
+      {
+        "name": "Read Time ⏲️",
+        "version": "1.2",
+        "info": "This plugin will show estimated time for read page content",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/1.2.zip"
+    },
+    
     {
         "name": "Scrollup",
         "version": "2.0",
@@ -275,30 +298,12 @@
 
     
       {
-        "name": "SEOGPT",
+        "name": "SEOGPT 🤖",
         "version": "1.1",
         "info": "Plugin for SEO text based on OpenAI",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/refs/heads/1.1.zip"
     },
-    
-      {
-        "name": "Read Time ⏲️",
-        "version": "1.2",
-        "info": "This plugin will show estimated time for read page content",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/1.2.zip"
-    },
-    
-    
-      {
-        "name": "Harmony",
-        "version": "1.0",
-        "info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/main.zip"
-    },
-    
     
     {
         "name": "Simple Input Tabs",
@@ -314,14 +319,6 @@
         "info": "Everybody can translate GetSimple!",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
-    },
-	
-	    {
-        "name": "InfoPop",
-        "version": "1.1",
-        "info": "Info for site users ( you can use it for all info what do you want, never show after close)",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
     },
 
     {
