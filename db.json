@@ -326,10 +326,10 @@
 
     {
         "name": "uploaderExt",
-        "version": "2.1",
+        "version": "3.1",
         "info": "Upload with compress photo and convert to webp",
         "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/2.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.1.zip"
     },
 
     {
