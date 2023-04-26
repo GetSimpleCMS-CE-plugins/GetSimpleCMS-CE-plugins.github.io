@@ -239,15 +239,6 @@
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
     },
-	
-	{
-        "name": "Popup Plugin",
-        "version": "2.1",
-        "info": "Popup Plugin for your website",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/archive/refs/heads/main.zip"
-    },
-
     
     {
         "name": "Pages Access",
@@ -288,8 +279,16 @@
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.1.zip"
     },
+	
+    {
+        "name": "Popup Plugin 🎈",
+        "version": "2.1",
+        "info": "Popup Plugin for your website",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/archive/refs/heads/main.zip"
+    },
     
-      {
+    {
         "name": "Read Time ⏲️",
         "version": "1.2",
         "info": "This plugin will show estimated time for read page content",
