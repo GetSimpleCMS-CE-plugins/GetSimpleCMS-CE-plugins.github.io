@@ -170,10 +170,10 @@
 
     {
         "name": "Massive Admin Theme",
-        "version": "3.1",
+        "version": "3.2",
         "info": "Admin theme with new function",
         "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/3.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/3.2.zip"
     },
 
     {
@@ -239,6 +239,15 @@
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
     },
+	
+	{
+        "name": "Popup Plugin",
+        "version": "2.1",
+        "info": "Popup Plugin for your website",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/archive/refs/heads/main.zip"
+    },
+
     
     {
         "name": "Pages Access",
