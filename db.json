@@ -114,7 +114,7 @@
 
     {
         "name": "I18N Gallery",
-        "version": "2.2.1",
+        "version": "2.3.0",
         "info": "Display image galleries (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
