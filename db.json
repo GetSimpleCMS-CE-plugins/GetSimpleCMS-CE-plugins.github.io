@@ -209,6 +209,14 @@
     },
     
     {
+        "name": "MultiField 🏖️",
+        "version": "1.0",
+        "info": "Creator for Custom Fields for concrete page",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/main.zip"
+    },
+
+    {
         "name": "MultiMenu",
         "version": "1.0.1",
         "info": "Plugin to create multiple menus",
