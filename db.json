@@ -312,6 +312,15 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
     },
 
+
+    {
+        "name": "SA Toc / Anchors Plugin ",
+        "version": "0.3",
+        "info": "Adds Table of Contents and anchors headings",
+        "author": "Shawn Alverson",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/archive/refs/heads/main.zip"
+    },
+
     
       {
         "name": "SEOGPT 🤖",
