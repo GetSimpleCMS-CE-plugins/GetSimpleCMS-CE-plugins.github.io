@@ -217,11 +217,11 @@
     },
 
     {
-        "name": "MultiMenu",
-        "version": "1.0.1",
+        "name": "MultiMenu 🚩",
+        "version": "2.0",
         "info": "Plugin to create multiple menus",
         "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/refs/heads/2.0.zip"
     },
     
     {
