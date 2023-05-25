@@ -98,10 +98,10 @@
     
       {
         "name": "Harmony 🪗",
-        "version": "1.0",
+        "version": "1.1",
         "info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
         "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/refs/heads/v1.1.zip"
     },
 
     {
