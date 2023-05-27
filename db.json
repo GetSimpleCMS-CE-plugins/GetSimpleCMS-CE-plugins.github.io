@@ -56,6 +56,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
     },
 
+    
+    {
+        "name": "DynPages",
+        "version": "0.7.2",
+        "info": "Replace place holders in pages with dynamic content from components (I18N enabled!)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/archive/refs/heads/main.zip"
+    },
+
+
     {
         "name": "DY Website Custom Fields",
         "version": "1.0",
