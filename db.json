@@ -131,8 +131,8 @@
     },
 
     {
-        "name": "I18N Navigation & I18N Base",
-        "version": "3.3.2",
+        "name": "I18N Navigation & I18N Base (CE)",
+        "version": "3.3.2.1",
         "info": "Multilevel navigation & breadcrumbs (I18N enabled)",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
@@ -155,8 +155,8 @@
     },
     
     {
-        "name": "i18n Special Pages",
-        "version": "1.4.3 CE",
+        "name": "i18n Special Pages (CE)",
+        "version": "1.4.3.1",
         "info": "i18n Special Pages plugin",
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
