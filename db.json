@@ -91,6 +91,14 @@
     },
 
     {
+        "name": "EasySearch",
+        "version": "1.0",
+        "info": "Freakin easy searchbar for your website",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/archive/refs/heads/main.zip"
+    },
+
+    {
         "name": "Extra Gallery ",
         "version": "1.09",
         "info": "Created galleries are available as structured PHP arrays to use in theme.",
