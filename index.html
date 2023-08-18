@@ -1,40 +1,217 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<!--
+	Industrious by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GetSimple CMS CE Plugins repo</title>
-    <link rel="preload" href="/font/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2" as="font" type="font/woff2" crossorigin>
+	<title>Get Simple CMS CE Plugins Repository</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description"
+		content="Project focusing on improving Get Simple CMS for today's needs. PHP 8, new features, more " out of the
+		box" solutions" />
+	<meta name="keywords"
+		content="get simple cms, get simple cms ce, get simple cms ce project, get simple cms error 500, get simple php 8" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="icon" type="image/png" href="images/fav.png">
 
-    <link rel="stylesheet" href="css/style.css?v=7">
-    
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-<meta http-equiv="Pragma" content="no-cache" />
-<meta http-equiv="Expires" content="0" />
+
+	<style>
+		.highlights .icon {
+			margin-bottom: 20px;
+		}
+	</style>
+
 </head>
 
-<body>
-   
-    <div class="title">
-        <h1>Plugins repository for GetSimple CMS CE</h1>
-        <p class="lead">All Plugins fixed for support php > 8.2 </p>
-        <p style="padding:30px;">
-			<span style="float:left;">📅 <strong>Repo Last Updated:</strong> <span style="color:red;">2023.08.18</span></span>
-			<span style="float:right;"><a href="https://getsimplecms-ce.github.io/" target="_blank" style="text-decoration:none; color:black;">Get Simple CMS CE 🔗</a></span>
-		</p>
-		
-        <hr>
+<body class="is-preload">
 
-        <input type="text" class="title-search" placeholder="🔍 Search Plugins...">
-    </div>
+	<!-- Header -->
+	<header id="header">
+		<a class="logo" href="index.html"> <img src="images/fav.png" style="width:30px;" alt=""> GetSimple CMS CE</a>
+		<nav>
+			<a href="#menu">Menu</a>
+		</nav>
+	</header>
 
-    
-    <div class="db">
-    </div>
+	<!-- Nav -->
+	<nav id="menu">
+		<ul class="links">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="https://getsimplecms-ce.github.io/whatsnew.html">What Changed on CE?</a></li>
+			<li><a href="https://getsimplecms-ce.github.io/download.html">Download GetSimple CE</a></li>
 
-    <script src="js/script.js?v=11"></script>
+		</ul>
+	</nav>
+
+	<!-- Banner -->
+	<section id="banner">
+		<div class="inner">
+			<h1>Get Simple CMS <br>Community Edition Plugins</h1>
+			<p>All Plugins fixed for support php > 8.2 </p>
+
+		</div>
+	</section>
+
+	<section class="wrapper" style="padding: 5rem 0 6rem 0">
+		<div class="inner">
+			<div class="content" style="margin:50px 0">
+
+				<span style="text-align: center;margin-bottom:20px;display: block;">📅 <strong>Repo Last
+						Updated:</strong> <span style="color:red;">2023.08.18</span></span>
+
+				<input type="text" class="title-search" placeholder="🔍 Search Plugins...">
+
+
+				<style>
+					*,
+					*::after,
+					*::before {
+						box-sizing: border-box;
+					}
+
+
+					.version {
+						float: right;
+						display: inline-table;
+						vertical-align: middle;
+						width: 40px;
+						height: 40px;
+
+						background-color: #bbb;
+						border-radius: 50%;
+					}
+
+					.version__content {
+						display: table-cell;
+						vertical-align: middle;
+						text-align: center;
+						font-size: .7em;
+					}
+
+					.db {
+						width: auto;
+						margin: 0 auto;
+						display: grid;
+						grid-template-columns: 1fr 1fr 1fr;
+						gap: 20px;
+						margin-top: 20px;
+						margin-bottom: 20px;
+					}
+
+					@media(max-width:768px) {
+						.db {
+							width: 90%;
+							grid-template-columns: 1fr;
+						}
+					}
+
+					.db-item {
+						padding: 20px;
+						background: #fafafa;
+						border: solid 1px #ddd;
+						border-bottom: solid 4px red;
+					}
+
+					hr {
+						border: dashed 1px #111;
+						opacity: 0.3;
+					}
+
+					.db-item-btn {
+						display: inline-block;
+						padding: 10px 15px;
+						background: #000;
+						color: #fff;
+						text-decoration: none;
+						transition: all 250ms linear;
+					}
+
+					.db-item-btn:hover {
+						display: inline-block;
+						padding: 10px 15px;
+						background: #333;
+						color: #fff;
+						text-decoration: none;
+					}
+
+					.db-item-author {
+						font-size: 0.8rem;
+						opacity: 0.8;
+					}
+
+					.db-item-info {
+						min-height: 50px
+					}
+
+					@media (prefers-color-scheme: dark) {
+
+						.db-item {
+							color: #333;
+							background: #fff;
+							border-bottom: solid 4px black;
+						}
+					}
+				</style>
+
+				<div class="db">
+				</div>
+
+				<script src="assets/js/script.js?v=11"></script>
+			</div>
+		</div>
+	</section>
+
+	<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<div class="content">
+				<section>
+					<h3>What is GetSimple CMS?</h3>
+					<p>GetSimple is an XML based, stand-alone, fully independent and lite Content Management System. To
+						go along with its best-in-class user interface, we have loaded it with features that every
+						website needs, but with nothing it doesn't. GetSimple is truly the simplest way to manage a
+						small-business website.</p>
+
+					<small>Source: <a href="http://get-simple.info/start/">GetSimple Homepage</a></small>
+				</section>
+				<section>
+					<h4>worth checking out</h4>
+					<ul class="alt">
+						<li><a href="https://getsimplecms-ce-plugins.github.io/">Plugins CE Repo</a></li>
+						<li><a href="http://get-simple.info/forums/">GetSimple CMS Forum</a></li>
+						<li><a href="http://get-simple.info/wiki/">GetSimple CMS Documentation</a></li>
+						<li><a href="http://get-simple.info/">GetSimple CMS homepage</a></li>
+
+					</ul>
+				</section>
+				<section>
+					<h4>CE Website</h4>
+					<ul class="plain">
+						<li><a href="https://github.com/GetSimpleCMS-CE-plugins"><i class="icon fa-github">&nbsp;</i>GS
+								CMS CE Plugins</a></li>
+
+						<li><a href="https://github.com/GetSimpleCMS-CE"><i class="icon fa-github">&nbsp;</i>GetSimple
+								CMS CE</a></li>
+					</ul>
+				</section>
+			</div>
+			<div class="copyright">
+				&copy; GetSimple CMS CE 2023 | templated edited from <a href="https://templated.co">templated.co</a>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
 
 </body>
 
