@@ -331,6 +331,14 @@
     },
     
     {
+        "name": "Safe Email 📧",
+        "version": "1.0",
+        "info": "Easy way to obfuscate email addresses to have spam protection against scraping bots.",
+        "author": "islander",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SafeEmail/archive/refs/heads/main.zip"
+    },
+    
+    {
         "name": "Scrollup",
         "version": "2.0",
         "info": "This plugin add ScrollUp button to your website",
