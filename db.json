@@ -83,6 +83,15 @@
     },
 
     {
+        "name": "EasyIcons 😏",
+        "version": "1.0",
+        "info": "Use Shortcode on Ckeditor for support FontAwesome or Unicons",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/archive/refs/heads/main.zip"
+    },
+
+
+    {
         "name": "Easy_ContactForm",
         "version": "5.0",
         "info": "Easy Contact form for your page",
