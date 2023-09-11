@@ -90,6 +90,15 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/archive/refs/heads/main.zip"
     },
 
+    {
+        "name": "EasyStats 📊",
+        "version": "1.0",
+        "info": "this plugin shows statistics by counting only unique IP addresses on a website ",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/archive/refs/heads/main.zip"
+    },
+
+
 
     {
         "name": "Easy_ContactForm",
