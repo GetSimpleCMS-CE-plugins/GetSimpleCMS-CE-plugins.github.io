@@ -125,6 +125,14 @@
     },
 
     {
+        "name": "FAQ",
+        "version": "1.3",
+        "info": "Display frequently asked questions (FAQs)",
+        "author": "Martin Vlcek",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FAQ/archive/refs/heads/main.zip"
+    },
+
+    {
         "name": "FBsidebar",
         "version": "2.1",
         "info": "Add fb sidebar to your website",
