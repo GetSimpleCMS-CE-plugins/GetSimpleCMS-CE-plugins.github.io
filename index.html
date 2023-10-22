@@ -48,6 +48,46 @@
 		</ul>
 	</nav>
 
+	<p>Downloads: <span id="downloadCount">0</span></p>
+    <button id="downloadButton">Download</button>
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+    const downloadButton = document.getElementById('downloadButton');
+    const downloadCount = document.getElementById('downloadCount');
+
+    // Obsługuje kliknięcie przycisku "Download"
+    downloadButton.addEventListener('click', () => {
+        // Pobiera aktualną liczbę pobrań z pliku JSON za pomocą Fetch
+        fetch('downloads.json')
+            .then(response => response.json())
+            .then(data => {
+                // Zwiększa liczbę pobrań o 1
+                data.count += 1;
+                // Aktualizuje wyświetlaną liczbę pobrań
+                downloadCount.textContent = data.count;
+
+                // Zapisuje zaktualizowaną liczbę pobrań w pliku JSON
+                fetch('http://multicolor.ovh/ce-downloads.json', {
+                    method: 'PUT', // Przy założeniu, że serwer obsługuje aktualizację zasobu
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+            })
+            .catch(error => console.error('Błąd podczas pobierania danych:', error));
+    });
+
+    // Pobiera początkową liczbę pobrań z pliku JSON przy ładowaniu strony
+    fetch('downloads.json')
+        .then(response => response.json())
+        .then(data => {
+            downloadCount.textContent = data.count;
+        })
+        .catch(error => console.error('Błąd podczas pobierania danych:', error));
+});
+</script>
+
 	<!-- Banner -->
 	<section id="banner">
 		<div class="inner">
