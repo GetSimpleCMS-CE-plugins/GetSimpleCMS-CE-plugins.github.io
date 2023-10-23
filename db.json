@@ -56,7 +56,6 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
     },
 
-    
     {
         "name": "DynPages",
         "version": "0.7.2",
@@ -64,7 +63,6 @@
         "author": "Martin Vlcek",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/archive/refs/heads/main.zip"
     },
-
 
     {
         "name": "DY Website Custom Fields",
@@ -97,8 +95,6 @@
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/archive/refs/heads/main.zip"
     },
-
-
 
     {
         "name": "Easy_ContactForm",
@@ -238,10 +234,10 @@
 
     {
         "name": "Multiblock 🧱",
-        "version": "5.2.1",
+        "version": "5.2.2",
         "info": "create block what you want",
         "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.2.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.2.2.zip"
     },
 
     {
