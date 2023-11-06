@@ -105,6 +105,15 @@
     },
 
     {
+        "name": "Easy_ContactForm",
+        "version": "5.0b",
+        "info": "Easy Contact form for your page (redirect to page edition)",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
+    },
+
+
+    {
         "name": "EasySearch",
         "version": "1.0",
         "info": "Freakin easy searchbar for your website",
