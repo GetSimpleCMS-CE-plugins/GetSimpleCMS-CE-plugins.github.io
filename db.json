@@ -112,6 +112,15 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
     },
 
+    {
+        "name": "EasySMTPmail",
+        "version": "1.0",
+        "info": "Easy Contact form based on PHPMailer with SMTP and Captcha from google",
+        "author": "multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/main.zip"
+    },
+
+
 
     {
         "name": "EasySearch",
