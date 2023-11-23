@@ -39,6 +39,15 @@
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
     },
+
+    {
+        "name": "Current Events 📅",
+        "version": "3.0",
+        "info": "Easy to use plugin calendar",
+        "author": "Multicolor",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/main.zip"
+    },
+    
     
     {
         "name": "CE Plugin Downloader 📦",
