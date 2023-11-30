@@ -206,40 +206,7 @@
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 
-	<style>
-		.hidden {
-		  display: none;
-		}
-	  </style>
-	<script>
-		  // Funkcja do pokazywania konkretnego diva na podstawie kotwicy w URL
-		  function showDivBasedOnAnchor() {
-    // Odczytaj fragment (kotwicę) z adresu URL
-    var hash = window.location.hash.substring(1);
 
-    // Jeśli fragment jest niepusty
-    if (hash) {
-      // Ukryj wszystkie divy
-      var allDivs = document.querySelectorAll('.db-item');
-      allDivs.forEach(function(div) {
-        div.style.display = 'none';
-      });
-
-      // Pokaż tylko ten div, który ma pasujące ID
-      var targetDiv = document.getElementById(hash);
-      if (targetDiv) {
-        targetDiv.style.display = 'block';
-      }
-    }
-  }
-
-  // Wywołaj funkcję po załadowaniu strony
-
-setTimeout( 
-	showDivBasedOnAnchor()	
-,1500)
-
-	</script>
 </body>
 
 </html>
