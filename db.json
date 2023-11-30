@@ -1,456 +1,507 @@
 [
-    
-     {
-        "name": "Accessibility Sidebar 🗚",
-        "version": "1.0.1",
-        "info": "Accesibilty options for your website",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
-    },
-
-    {
-        "name": "Auto-open Page Options",
-        "version": "2.0",
-        "info": "Automatically opens the page options when editing pages",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "BetterSEO 🌐",
-        "version": "2.0",
-        "info": "Make Get Simple CMS SEO better!",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/main.zip"
-    },
-
-    {
-        "name": "Carousel Creator 🎠",
-        "version": "4.0",
-        "info": "Create carousel with easy creator",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/refs/heads/4.0.zip"
-    },
 	
 	{
-        "name": "Company Slider 🏢",
-        "version": "1.1",
-        "info": "If you want to show the partners' logo in an effective way...",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
-    },
+		"name": "Accessibility Sidebar 🗚",
+		"version": "1.0.1",
+		"info": "Accesibilty options for your website",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
+	},
 
-    {
-        "name": "Current Events 📅",
-        "version": "3.2",
-        "info": "Easy to use plugin calendar",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/3.2.zip"
-    },
-    
-    
-    {
-        "name": "CE Plugin Downloader 📦",
-        "version": "1.0",
-        "info": "This plugin is to download plugins that supports php8.x",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
-    },
-    
-    {
-        "name": "Custom Title",
-        "version": "1.5",
-        "info": "This plugin adds the ability to use a custom title tag.",
-        "author": "ePirat",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
-    },
+	{
+		"name": "Auto-open Page Options",
+		"version": "2.0",
+		"info": "Automatically opens the page options when editing pages",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
+	},
 
-    {
-        "name": "DynPages",
-        "version": "0.7.2",
-        "info": "Replace place holders in pages with dynamic content from components (I18N enabled!)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/archive/refs/heads/main.zip"
-    },
+	{
+		"name": "BetterSEO 🌐",
+		"version": "2.0",
+		"info": "Make Get Simple CMS SEO better!",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/main.zip"
+	},
 
-    {
-        "name": "DY Website Custom Fields",
-        "version": "1.0",
-        "info": "Adds website custom fields",
-        "author": "Dmitry Yakovlev",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
-    },
-
-    {
-        "name": "EasyContactButton 🛎️",
-        "version": "1.4",
-        "info": "Add a Contact or WhatsApp button to your theme",
-        "author": "islander",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "EasyIcons 😏",
-        "version": "1.0",
-        "info": "Use Shortcode on Ckeditor for support FontAwesome or Unicons",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "EasyStats 📊",
-        "version": "1.0",
-        "info": "this plugin shows statistics by counting only unique IP addresses on a website ",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "Easy_ContactForm",
-        "version": "5.0",
-        "info": "Easy Contact form for your page",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/archive/main.zip"
-    },
-
-    {
-        "name": "Easy_ContactForm",
-        "version": "5.0b",
-        "info": "Easy Contact form for your page (redirect to page edition)",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
-    },
-
-    {
-        "name": "EasySMTPmail",
-        "version": "2.0",
-        "info": "Easy Contact form based on PHPMailer with SMTP and Captcha from google",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/2.0.zip"
-    },
-
-
-
-    {
-        "name": "EasySearch",
-        "version": "1.0",
-        "info": "Freakin easy searchbar for your website",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "Extra Gallery ",
-        "version": "1.09",
-        "info": "Created galleries are available as structured PHP arrays to use in theme.",
-        "author": "mganko",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Extra_Gallery/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "FAQ",
-        "version": "1.3",
-        "info": "Display frequently asked questions (FAQs)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FAQ/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "FBsidebar",
-        "version": "2.1",
-        "info": "Add fb sidebar to your website",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
-    },
-    
-      {
-        "name": "Harmony 🪗",
-        "version": "1.1",
-        "info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/refs/heads/v1.1.zip"
-    },
-
-    {
-        "name": "I18N Custom Fields",
-        "version": "1.9.4",
-        "info": "Custom Fields (I18N enabled)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
-    },
-
-    {
-        "name": "I18N Gallery",
-        "version": "2.3.0",
-        "info": "Display image galleries (I18N enabled)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
-    },
-
-    {
-        "name": "I18N Navigation & I18N Base (CE)",
-        "version": "3.3.2.1",
-        "info": "Multilevel navigation & breadcrumbs (I18N enabled)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
-    },
-
-    {
-        "name": "I18N Search",
-        "version": "2.13.4",
-        "info": "Search (I18N enabled!)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
-    },
-
-    {
-        "name": "I18N Search (ru)",
-        "version": "9.99",
-        "info": "Search (I18N enabled!)",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
-    },
-    
-    {
-        "name": "i18n Special Pages (CE)",
-        "version": "1.4.3.1",
-        "info": "i18n Special Pages plugin",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
-    },
+	{
+		"name": "Carousel Creator 🎠",
+		"version": "4.0",
+		"info": "Create carousel with easy creator",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/refs/heads/4.0.zip"
+	},
 	
-    {
-        "name": "InfoPop",
-        "version": "1.1",
-        "info": "Info for site users ( you can use it for all info what do you want, never show after close)",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
-    },
+	{
+		"name": "Company Slider 🏢",
+		"version": "1.1",
+		"info": "If you want to show the partners' logo in an effective way...",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
+	},
 
-    {
-        "name": "MapCreator 📍",
-        "version": "4.1",
-        "info": "This plugin add maps to your website with MapCreator",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/4.1.zip"
-    },
-
-    {
-        "name": "Massive Admin Theme 🦸‍♂️",
-        "version": "4.1",
-        "info": "Admin theme with new function",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/4.1.zip"
-    },
-
-    {
-        "name": "MonsterGallery 👹",
-        "version": "3.1",
-        "info": "Gallery plugin you want use it!",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/3.1.zip"
-    },
-    
-    {
-        "name": "Multi User",
-        "version": "1.8.2",
-        "info": "Adds Multi-User Management Section",
-        "author": "Mike Henken",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
-    },
-
-    {
-        "name": "Multiblock 🧱",
-        "version": "5.2.3",
-        "info": "create block what you want",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.2.3.zip"
-    },
-
-    {
-        "name": "MultiblockMigrator",
-        "version": "2.0",
-        "info": "This is Url Changer for MultiBlock",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
-    },
-    
-    {
-        "name": "MultiField 🏖️",
-        "version": "3.1",
-        "info": "Creator for Custom Fields for concrete page",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/3.1.zip"
-    },
-
-    {
-        "name": "MultiMenu 🚩",
-        "version": "2.0",
-        "info": "Plugin to create multiple menus",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/refs/heads/2.0.zip"
-    },
-    
-    {
-        "name": "News Manager Updated",
-        "version": "3.6.1",
-        "info": "A blog/news plugin for GetSimple",
-        "author": "Carlos Navarro",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
-    },
-    
-    {
-        "name": "News Manager Beta",
-        "version": "3.7 beta 2",
-        "info": "A blog/news plugin for GetSimple",
-        "author": "Carlos Navarro",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
-    },
-    
-    {
-        "name": "News Manager Addons",
-        "version": "0.9.5.1",
-        "info": "Additional functions/template tags for News Manager",
-        "author": "Carlos Navarro",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/archive/refs/heads/master.zip"
-    },
-    
-    {
-        "name": "News Manager Auto-open Post Options",
-        "version": "0.2",
-        "info": "Automatically open the post options when editing News Manager posts",
-        "author": "Carlos Navarro",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "Newsletter",
-        "version": "1.1",
-        "info": "plugin for create newsletter from website",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
-    },
-    
-    {
-        "name": "Pages Access",
-        "version": "1.0.8",
-        "info": "Allows only certain pages to be viewed in admin based on user name",
-        "author": "Craig Adams",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/archive/refs/heads/master.zip"
-    },
-
-    {
-        "name": "Page Lock",
-        "version": "1.21",
-        "info": "With this plugin you can limit changes in page options, deleting, creating selected pages.",
-        "author": "Michał Gańko",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/archive/refs/heads/master.zip"
-    },
-
-    {
-        "name": "Pagify",
-        "version": "1.4.1",
-        "info": "Split long content into pages",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/archive/refs/heads/main.zip"
-    },
-
-    {
-        "name": "Password Protect",
-        "version": "1.0.0",
-        "info": "Allows users to password protect pages in their GetSimple powered site.",
-        "author": "Helge Sverre",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/archive/main.zip"
-    },
-    
-      {
-        "name": "PhotoGrabber 📷",
-        "version": "1.1",
-        "info": "Get free commercial use photos direct to cms",
-        "author": "Multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.1.zip"
-    },
+	{
+		"name": "Current Events 📅",
+		"version": "3.2",
+		"info": "Easy to use event calendar plugin",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/3.2.zip"
+	},
 	
-    {
-        "name": "Popup Plugin 🎈",
-        "version": "2.1",
-        "info": "Popup Plugin for your website",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/archive/refs/heads/main.zip"
-    },
-    
-    {
-        "name": "Read Time ⏲️",
-        "version": "1.2",
-        "info": "This plugin will show estimated time for read page content",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/1.2.zip"
-    },
-    
-    {
-        "name": "Safe Email 📧",
-        "version": "1.0",
-        "info": "Easy way to obfuscate email addresses to have spam protection against scraping bots.",
-        "author": "islander",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SafeEmail/archive/refs/heads/main.zip"
-    },
-    
-    {
-        "name": "Scrollup",
-        "version": "2.0",
-        "info": "This plugin add ScrollUp button to your website",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
-    },
+	{
+		"name": "CE Plugin Downloader 📦",
+		"version": "1.0",
+		"info": "This plugin is to download plugins that supports php8.x",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
+	},
+	
+	{
+		"name": "Custom Title",
+		"version": "1.5",
+		"info": "This plugin adds the ability to use a custom title tag.",
+		"author": "ePirat",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
+	},
 
+	{
+		"name": "DynPages",
+		"version": "0.7.2",
+		"info": "Replace place holders in pages with dynamic content from components (I18N enabled!)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/archive/refs/heads/main.zip"
+	},
 
-    {
-        "name": "SA Toc / Anchors Plugin ",
-        "version": "0.3",
-        "info": "Adds Table of Contents and anchors headings",
-        "author": "Shawn Alverson",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/archive/refs/heads/main.zip"
-    },
+	{
+		"name": "DY Website Custom Fields",
+		"version": "1.0",
+		"info": "Adds website custom fields",
+		"author": "Dmitry Yakovlev",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
+	},
 
-    
-      {
-        "name": "SEOGPT 🤖",
-        "version": "1.1",
-        "info": "Plugin for SEO text based on OpenAI",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/refs/heads/1.1.zip"
-    },
-    
-    {
-        "name": "Simple Input Tabs",
-        "version": "2.6",
-        "info": "Adds additional user inputs where required in the theme",
-        "author": "Jason Dixon",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
-    },
+	{
+		"name": "EasyContactButton 🛎️",
+		"version": "1.4",
+		"info": "Add a Contact or WhatsApp button to your theme",
+		"author": "islander",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/main.zip"
+	},
 
-    {
-        "name": "Translate",
-        "version": "1.1",
-        "info": "Everybody can translate GetSimple!",
-        "author": "Martin Vlcek",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
-    },
+	{
+		"name": "EasyIcons 😏",
+		"version": "1.0",
+		"info": "Use Shortcode on Ckeditor for support FontAwesome or Unicons",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/archive/refs/heads/main.zip"
+	},
 
-    {
-        "name": "uploaderExt",
-        "version": "3.1",
-        "info": "Upload with compress photo and convert to webp",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.1.zip"
-    },
+	{
+		"name": "EasyStats 📊",
+		"version": "1.0",
+		"info": "this plugin shows statistics by counting only unique IP addresses on a website ",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/archive/refs/heads/main.zip"
+	},
 
-    {
-        "name": "Upload Plugin & Themes",
-        "version": "1.0",
-        "info": "Upload Plugin or Themes direct from CMS",
-        "author": "multicolor",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
-    }
-    
+	{
+		"name": "Easy_ContactForm",
+		"version": "5.0",
+		"info": "Easy Contact form for your page",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/archive/main.zip"
+	},
+
+	{
+		"name": "Easy_ContactForm",
+		"version": "5.0b",
+		"info": "Easy Contact form for your page (redirect to page edition)",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
+	},
+
+	{
+		"name": "EasySMTPmail",
+		"version": "2.0",
+		"info": "Easy Contact Form based on PHPMailer with SMTP and Google Captcha",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/2.0.zip"
+	},
+
+	{
+		"name": "EasySearch",
+		"version": "1.0",
+		"info": "Freakin easy searchbar for your website",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "Extra Gallery ",
+		"version": "1.09",
+		"info": "Created galleries are available as structured PHP arrays to use in theme.",
+		"author": "mganko",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Extra_Gallery/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Extra_Gallery/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "FAQ",
+		"version": "1.3",
+		"info": "Display frequently asked questions (FAQs)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FAQ/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-FAQ/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "FBsidebar",
+		"version": "2.1",
+		"info": "Add FaceBook sidebar to your website",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
+	},
+	
+	  {
+		"name": "Harmony 🪗",
+		"version": "1.1",
+		"info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/refs/heads/v1.1.zip"
+	},
+
+	{
+		"name": "I18N Custom Fields",
+		"version": "1.9.4",
+		"info": "Custom Fields (I18N enabled)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
+	},
+
+	{
+		"name": "I18N Gallery",
+		"version": "2.3.0",
+		"info": "Display image galleries (I18N enabled)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
+	},
+
+	{
+		"name": "I18N Navigation & I18N Base (CE)",
+		"version": "3.3.2.1",
+		"info": "Multilevel navigation & breadcrumbs (I18N enabled)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
+	},
+
+	{
+		"name": "I18N Search",
+		"version": "2.13.4",
+		"info": "Search (I18N enabled!)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
+	},
+
+	{
+		"name": "I18N Search (ru)",
+		"version": "9.99",
+		"info": "Search (I18N enabled!)",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
+	},
+	
+	{
+		"name": "i18n Special Pages (CE)",
+		"version": "1.4.3.1",
+		"info": "i18n Special Pages plugin",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
+	},
+	
+	{
+		"name": "InfoPop",
+		"version": "1.1",
+		"info": "Info for site users ( you can use it for all info what do you want, never show after close)",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "MapCreator 📍",
+		"version": "4.1",
+		"info": "This plugin add maps to your website with MapCreator",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/4.1.zip"
+	},
+
+	{
+		"name": "Massive Admin Theme 🦸‍♂️",
+		"version": "4.1",
+		"info": "Admin theme with new function",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/4.1.zip"
+	},
+
+	{
+		"name": "MonsterGallery 👹",
+		"version": "3.1",
+		"info": "Gallery plugin you want use it!",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/3.1.zip"
+	},
+	
+	{
+		"name": "Multi User",
+		"version": "1.8.2",
+		"info": "Adds Multi-User Management Section",
+		"author": "Mike Henken",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
+	},
+
+	{
+		"name": "Multiblock 🧱",
+		"version": "5.2.3",
+		"info": "create block what you want",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.2.3.zip"
+	},
+
+	{
+		"name": "MultiblockMigrator",
+		"version": "2.0",
+		"info": "This is Url Changer for MultiBlock",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
+	},
+	
+	{
+		"name": "MultiField 🏖️",
+		"version": "3.1",
+		"info": "Creator for Custom Fields for concrete page",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/3.1.zip"
+	},
+
+	{
+		"name": "MultiMenu 🚩",
+		"version": "2.0",
+		"info": "Plugin to create multiple menus",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/refs/heads/2.0.zip"
+	},
+	
+	{
+		"name": "News Manager Updated",
+		"version": "3.6.1",
+		"info": "A blog/news plugin for GetSimple",
+		"author": "Carlos Navarro",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
+	},
+	
+	{
+		"name": "News Manager Beta",
+		"version": "3.7 beta 2",
+		"info": "A blog/news plugin for GetSimple",
+		"author": "Carlos Navarro",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
+	},
+	
+	{
+		"name": "News Manager Addons",
+		"version": "0.9.5.1",
+		"info": "Additional functions/template tags for News Manager",
+		"author": "Carlos Navarro",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/archive/refs/heads/master.zip"
+	},
+	
+	{
+		"name": "News Manager Auto-open Post Options",
+		"version": "0.2",
+		"info": "Automatically open the post options when editing News Manager posts",
+		"author": "Carlos Navarro",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "Newsletter",
+		"version": "1.1",
+		"info": "plugin for create newsletter from website",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
+	},
+	
+	{
+		"name": "Pages Access",
+		"version": "1.0.8",
+		"info": "Allows only certain pages to be viewed in admin based on user name",
+		"author": "Craig Adams",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/archive/refs/heads/master.zip"
+	},
+
+	{
+		"name": "Page Lock",
+		"version": "1.21",
+		"info": "With this plugin you can limit changes in page options, deleting, creating selected pages.",
+		"author": "Michał Gańko",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/archive/refs/heads/master.zip"
+	},
+
+	{
+		"name": "Pagify",
+		"version": "1.4.1",
+		"info": "Split long content into pages",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "Password Protect",
+		"version": "1.0.0",
+		"info": "Allows users to password protect pages in their GetSimple powered site.",
+		"author": "Helge Sverre",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/archive/main.zip"
+	},
+	
+	  {
+		"name": "PhotoGrabber 📷",
+		"version": "1.1",
+		"info": "Get free commercial use photos direct to cms",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.1.zip"
+	},
+	
+	{
+		"name": "Popup Plugin 🎈",
+		"version": "2.1",
+		"info": "Popup Plugin for your website",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/archive/refs/heads/main.zip"
+	},
+	
+	{
+		"name": "Read Time ⏲️",
+		"version": "1.2",
+		"info": "This plugin will show estimated time for read page content",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/1.2.zip"
+	},
+	
+	{
+		"name": "Safe Email 📧",
+		"version": "1.0",
+		"info": "Easy way to obfuscate email addresses to have spam protection against scraping bots.",
+		"author": "islander",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SafeEmail/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SafeEmail/archive/refs/heads/main.zip"
+	},
+	
+	{
+		"name": "Scrollup",
+		"version": "2.0",
+		"info": "This plugin add ScrollUp button to your website",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
+	},
+
+	{
+		"name": "SA Toc / Anchors Plugin ",
+		"version": "0.3",
+		"info": "Adds Table of Contents and anchors headings",
+		"author": "Shawn Alverson",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/archive/refs/heads/main.zip"
+	},
+	
+	{
+		"name": "SEOGPT 🤖",
+		"version": "1.1",
+		"info": "Plugin for SEO text based on OpenAI",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/refs/heads/1.1.zip"
+	},
+	
+	{
+		"name": "Simple Input Tabs",
+		"version": "2.6",
+		"info": "Adds additional user inputs where required in the theme",
+		"author": "Jason Dixon",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
+	},
+
+	{
+		"name": "Translate",
+		"version": "1.1",
+		"info": "Everybody can translate GetSimple!",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "uploaderExt",
+		"version": "3.1",
+		"info": "Upload with compress photo and convert to webp",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.1.zip"
+	},
+
+	{
+		"name":	"Upload Plugin & Themes",
+		"version": "1.0",
+		"info": "Upload Plugin or Themes direct from CMS",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
+	}
+	
 ]
