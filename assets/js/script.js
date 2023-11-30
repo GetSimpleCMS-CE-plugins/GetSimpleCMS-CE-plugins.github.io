@@ -4,7 +4,6 @@ fetch('https://GetSimpleCMS-CE-plugins.github.io/db.json')
 
         data.forEach(el => {
 
-
             document.querySelector('.db').insertAdjacentHTML('beforeend', `
 
 <div class="db-item">
@@ -14,19 +13,13 @@ fetch('https://GetSimpleCMS-CE-plugins.github.io/db.json')
 	<h4>${el['name']}</h4>
 	<p class="db-item-info">${el['info']}</p>
 	<hr>
-	<p class="db-item-author">Author: ${el['author']}</p>
+	<p class="db-item-author">Author: ${el['author']} <a href="${el['repo']}" target="_blank" class="db-item-repo">🔗 Repo</a></p>
 	<a class="db-item-btn" href="${el['url']}">Download</a>
 </div>
 
-
 `)
-
-
         });
-
-
     });
-
 
 document.querySelector('.title-search').addEventListener('keyup', (e) => {
 
