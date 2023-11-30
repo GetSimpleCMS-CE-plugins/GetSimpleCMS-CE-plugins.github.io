@@ -43,7 +43,7 @@
     {
         "name": "Current Events 📅",
         "version": "3.2",
-        "info": "Easy to use plugin calendar",
+        "info": "Easy to use event calendar plugin",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/3.2.zip"
     },
@@ -124,12 +124,10 @@
     {
         "name": "EasySMTPmail",
         "version": "2.0",
-        "info": "Easy Contact form based on PHPMailer with SMTP and Captcha from google",
+        "info": "Easy Contact Form based on PHPMailer with SMTP and Google Captcha",
         "author": "multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/2.0.zip"
     },
-
-
 
     {
         "name": "EasySearch",
@@ -158,7 +156,7 @@
     {
         "name": "FBsidebar",
         "version": "2.1",
-        "info": "Add fb sidebar to your website",
+        "info": "Add FaceBook sidebar to your website",
         "author": "Multicolor",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
     },
