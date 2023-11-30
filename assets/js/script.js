@@ -42,6 +42,11 @@ document.querySelector('.title-search').addEventListener('keyup', (e) => {
             c.style.display="block";
         }
 
+
+        if(c.querySelector('.db-item-info').innerHTML.toLowerCase().indexOf(document.querySelector('.title-search').value.toLowerCase()) > -1){
+            c.style.display="block";
+        }
+
     })
 
 });
