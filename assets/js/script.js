@@ -6,7 +6,7 @@ fetch('https://GetSimpleCMS-CE-plugins.github.io/db.json')
 
             document.querySelector('.db').insertAdjacentHTML('beforeend', `
 
-<div class="db-item">
+<div class="db-item" id="${el['name'].replace(/ /g, '-').replace(/[^\w\s]|_/g, '')}">
 	<div class="version">
 		<span class="version__content">v. ${el['version']}</span>
 	</div>
