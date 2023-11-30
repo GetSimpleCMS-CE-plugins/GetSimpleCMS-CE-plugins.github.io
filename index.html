@@ -220,15 +220,15 @@
     // Jeśli fragment jest niepusty
     if (hash) {
       // Ukryj wszystkie divy
-      var allDivs = document.querySelectorAll('div');
+      var allDivs = document.querySelectorAll('.db-item');
       allDivs.forEach(function(div) {
-        div.classList.add('hidden');
+        div.style.display = 'none';
       });
 
       // Pokaż tylko ten div, który ma pasujące ID
       var targetDiv = document.getElementById(hash);
       if (targetDiv) {
-        targetDiv.classList.remove('hidden');
+        targetDiv.style.display = 'block';
       }
     }
   }
