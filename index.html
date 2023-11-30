@@ -234,7 +234,9 @@
   }
 
   // Wywołaj funkcję po załadowaniu strony
-  window.addEventListener('load', showDivBasedOnAnchor);
+  document.addEventListener('DOMContentLoaded', function() {
+  showDivBasedOnAnchor();
+});
 	</script>
 </body>
 
