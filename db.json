@@ -137,11 +137,11 @@
 
 	{
 		"name": "EasySMTPmail",
-		"version": "2.0",
+		"version": "3.0",
 		"info": "Easy Contact Form based on PHPMailer with SMTP and Google Captcha",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/2.0.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/3.0.zip"
 	},
 
 	{
