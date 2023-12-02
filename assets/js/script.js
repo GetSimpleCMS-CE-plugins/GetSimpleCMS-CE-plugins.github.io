@@ -13,7 +13,7 @@ fetch('https://GetSimpleCMS-CE-plugins.github.io/db.json')
 	<h4>${el['name']}</h4>
 	<p class="db-item-info">${el['info']}</p>
 	<hr>
-	<p class="db-item-author">👤 Author: ${el['author']} <a href="${el['repo']}" target="_blank" class="db-item-repo">🔗 Repo</a></p>
+	<p class="db-item-author"> ${el['author']} <span class="db-item-update">${el['update']}</span> <a href="${el['repo']}" target="_blank" class="db-item-repo">Repo</a></p>
 	<a class="db-item-btn" href="${el['url']}">Download</a>
 </div>
 
