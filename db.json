@@ -559,5 +559,15 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
 	}
+
+	{
+		"name":	"pluginManager 🔌",
+		"version": "1.0",
+		"update": "2023.13.12",
+		"info": " Plugin for download from ce repo/unistall plugins from system (grabbed options from MassiveAdmin theme) ",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
+	}
 	
 ]
