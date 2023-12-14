@@ -459,6 +459,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.1.zip"
 	},
+
+	{
+		"name":	"pluginManager 🔌",
+		"version": "1.0",
+		"update": "2023.13.12",
+		"info": " Plugin for download from ce repo/unistall plugins from system (grabbed options from MassiveAdmin theme) ",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
+	},
 	
 	{
 		"name": "Popup Plugin 🎈",
@@ -541,6 +551,16 @@
 	},
 
 	{
+		"name": "Uploadcare",
+		"version": "1.0",
+		"update": "2021.01.19",
+		"info": "Externalise your images, edit on the fly. URL transformations. No need for Photoshop.",
+		"author": "zekoolweb",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Uploadcare/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Uploadcare/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name": "uploaderExt",
 		"version": "3.1",
 		"update": "2023.04.04",
@@ -558,16 +578,6 @@
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
-	},
-
-	{
-		"name":	"pluginManager 🔌",
-		"version": "1.0",
-		"update": "2023.13.12",
-		"info": " Plugin for download from ce repo/unistall plugins from system (grabbed options from MassiveAdmin theme) ",
-		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
 	}
 	
 ]
