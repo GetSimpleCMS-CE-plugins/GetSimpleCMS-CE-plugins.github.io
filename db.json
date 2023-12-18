@@ -322,12 +322,12 @@
 
 	{
 		"name": "Multiblock 🧱",
-		"version": "5.2.3",
-		"update": "2023.10.27",
+		"version": "5.3",
+		"update": "2023.12.18",
 		"info": "Create category blocks from templates and custom fields. (Catalogue, product listing, services, team, food menu, etc.)",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.2.3.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.3.zip"
 	},
 
 	{
