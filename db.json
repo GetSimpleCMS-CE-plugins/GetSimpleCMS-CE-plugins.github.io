@@ -209,6 +209,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/refs/heads/v1.1.zip"
 	},
+	
+	 {
+		"name": "Hosting Space Detector",
+		"version": "1.1",
+		"update": "2022.03.20",
+		"info": "Hosting Space Detector (great for small hosting just like OVH 10MB)",
+		"author": "multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/archive/refs/heads/main.zip"
+	},
 
 	{
 		"name": "I18N Custom Fields",
