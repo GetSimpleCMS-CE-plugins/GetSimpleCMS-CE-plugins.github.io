@@ -191,6 +191,16 @@
 	},
 
 	{
+		"name": "File Editor",
+		"version": "1.0.33",
+		"update": "2021.06.14",
+		"info": "A simple .htaccess and robots.txt file editor.",
+		"author": "Nico Hemkes",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name": "FBsidebar",
 		"version": "2.1",
 		"update": "2022.12.12",
@@ -501,6 +511,16 @@
 	},
 	
 	{
+		"name": "Redirect",
+		"version": "0.1",
+		"update": "2013.08.17",
+		"info": "Simple page redirection",
+		"author": "Carlos Navarro",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Redirect/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Redirec/archive/refs/heads/main.zip"
+	},
+	
+	{
 		"name": "Safe Email 📧",
 		"version": "1.0",
 		"update": "2023.09.08",
@@ -538,6 +558,16 @@
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/refs/heads/1.1.zip"
+	},
+	
+	{
+		"name": "SelectFilter",
+		"version": "0.1",
+		"update": "2015.12.02",
+		"info": "Filtering of selects with many entries",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SelectFilter/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SelectFilter/archive/archive/main.zip"
 	},
 	
 	{
