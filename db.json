@@ -30,6 +30,18 @@
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/main.zip"
 	},
 
+	
+	{
+		"name": "BlockContent 🧊",
+		"version": "3.0",
+		"update": "2024.01.08",
+		"info": "New editor wysywig based on editor.js",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-blockContent/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-blockContent/archive/refs/heads/main.zip"
+	},
+
+
 	{
 		"name": "Carousel Creator 🎠",
 		"version": "4.0",
