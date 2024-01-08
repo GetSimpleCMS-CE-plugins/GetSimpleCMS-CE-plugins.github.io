@@ -60,10 +60,13 @@
 		<div class="inner">
 			<div class="content" style="margin:50px 0">
 
-				<span style="text-align: center;margin-bottom:20px;display: block;">📅 <strong>Repo Last
+				<span style="text-align: center; margin-bottom:20px; display: block;">
+					<span id="dbItemCount">
+						🔌 <strong id="countDisplay" style="color:red;"></strong> Plugins Available
+					</span>
 
-						Updated:</strong> <span style="color:red;">2024.01.08</span></span>
-
+					|| 📅 <strong>Repo Last Updated:</strong> <span style="color:red;">2024.01.08</span>
+				</span>
  
 				<input type="text" class="title-search" placeholder="🔍 Search Plugins...">
 
@@ -228,6 +231,11 @@
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 
+	// Count "db-item"
+	const dbItems = document.querySelectorAll('div.db-item');
+	const numberOfDbItems = dbItems.length;
+	const countDisplay = document.getElementById('countDisplay');
+	countDisplay.textContent = numberOfDbItems;
 
 </body>
 
