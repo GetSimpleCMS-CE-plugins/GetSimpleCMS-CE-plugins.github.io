@@ -630,6 +630,16 @@
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
+	},
+
+	{
+		"name":	"URI Redirect Plus",
+		"version": "0.2.4",
+		"update": "2024.01.19",
+		"info": "Redirect URIs to internal or external pages (with '301 Moved Permanently' header). Also view the count and date of last redirection for each redirect. ",
+		"author": "jlyon1515",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/archive/refs/heads/master.zip"
 	}
 	
 ]
