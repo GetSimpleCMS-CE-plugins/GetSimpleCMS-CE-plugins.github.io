@@ -334,12 +334,12 @@
 
 	{
 		"name": "Massive Admin Theme 🦸‍♂️",
-		"version": "5.0",
-		"update": "2024.01.22",
+		"version": "5.0.1",
+		"update": "2024.01.29",
 		"info": "Admin theme with new function",
 		"author": "Multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/5.0.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/5.0.1.zip"
 	},
 
 	{
