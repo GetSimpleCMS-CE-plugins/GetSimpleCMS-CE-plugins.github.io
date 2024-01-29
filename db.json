@@ -311,6 +311,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
 	},
+	
+	{
+		"name": "KT Block Login",
+		"version": "2.1",
+		"update": "2024.01.29",
+		"info": "Block an IP adress after 3 failed login attempts from login for 1 hour.",
+		"author": "MWK, islander",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login/archive/refs/heads/main.zip"
+	},
 
 	{
 		"name": "MapCreator 📍",
