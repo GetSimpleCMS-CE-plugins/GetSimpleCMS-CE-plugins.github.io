@@ -451,7 +451,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
 	},
-	
+
+	{
+		"name": "My SMTP Contact",
+		"version": "1.1.2 (edited by multicolor)",
+		"update": "2024.02.19",
+		"info": "This plugin will help you to set up a contact form with captcha and checkbox. Plugin can be used SMTP (Simple Mail Transfer Protocol) to send mail.",
+		"author": " NetExplorer",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_my-smtp-contact/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_my-smtp-contact/archive/refs/heads/master.zip"
+	},
+
+ 
 	{
 		"name": "Pages Access",
 		"version": "1.0.8",
