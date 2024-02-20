@@ -81,6 +81,17 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
 	},
+
+	{
+		"name": "Cookies plugin",
+		"version": "1.3.1",
+		"update": "2016.04.25",
+		"info": "The plugin writes a message in the page of the web for to accept cookies.",
+		"author": "cumbe",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cookies-plugin-",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cookies-plugin-/archive/main.zip"
+	},
+	
 	
 	{
 		"name": "Custom Title",
