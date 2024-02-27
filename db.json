@@ -263,6 +263,18 @@
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
 	},
 
+	
+	{
+		"name": "I18N Special Pages Extras",
+		"version": "1.25",
+		"update": "2019.02.04",
+		"info": "This plugin allows you to control which special page fields are required, validate fields by regex, it allows you to add additional info text next to field label, add special field types and set some page options like: 
+		title label, content label, hide keywords and meta descriptions fields etc",
+		"author": "mganko",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/archive/refs/heads/main.zip"
+	},
+
 	{
 		"name": "I18N Gallery",
 		"version": "2.3.0",
