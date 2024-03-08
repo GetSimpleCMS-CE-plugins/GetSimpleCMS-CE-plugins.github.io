@@ -205,12 +205,12 @@
 
 	{
 		"name": "EasyComments",
-		"version": "1.0",
+		"version": "1.1",
 		"update": "2024.03.04",
 		"info": "Easy Comments system for everyone for normal page and NewsManager!",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyComments",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyComments/archive/refs/heads/main.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyComments/archive/refs/heads/1.1.zip"
 	},
 
 	{
