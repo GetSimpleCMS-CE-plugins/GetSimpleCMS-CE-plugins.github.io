@@ -657,12 +657,12 @@
 
 	{
 		"name": "Uploadcare",
-		"version": "1.0",
-		"update": "2021.01.19",
+		"version": "1.1",
+		"update": "2024.05.07",
 		"info": "Externalise your images, edit on the fly. URL transformations. No need for Photoshop.",
 		"author": "zekoolweb",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Uploadcare/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Uploadcare/archive/refs/heads/main.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Uploadcare/archive/refs/heads/1.1.zip"
 	},
 
 	{
