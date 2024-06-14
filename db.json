@@ -61,6 +61,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
 	},
+	
+	{
+		"name": "Create Static HTML 📑",
+		"version": "1.0",
+		"update": "2024.06.14",
+		"info": "Generate static HTML files from site navigation.",
+		"author": "risingisland",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Create_Static_HTML/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Create_Static_HTML/archive/refs/heads/main.zip"
+	},
 
 	{
 		"name": "Current Events 📅",
