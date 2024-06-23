@@ -577,12 +577,12 @@
 	
 	{
 		"name": "Read Time ⏲️",
-		"version": "1.2",
-		"update": "2023.03.20",
+		"version": "2.2",
+		"update": "2023.04.21",
 		"info": "This plugin will show estimated time for read page content",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/1.2.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/2.2.zip"
 	},
 	
 	{
