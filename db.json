@@ -288,7 +288,7 @@
 		"name": "I18N Special Pages Extras",
 		"version": "1.25",
 		"update": "2019.02.04",
-		"info": "This plugin allows you to add special field types and set some page options like: title label, content label, hide keywords and meta descriptions fields etc",
+		"info": "This plugin allows you to add special field types and options like: title label, content label, description fields etc",
 		"author": "mganko",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/archive/refs/heads/main.zip"
