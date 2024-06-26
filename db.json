@@ -119,6 +119,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
 	},
+	
+	{
+		"name": "debugCE 🐛",
+		"version": "1.0",
+		"update": "2024.06.25",
+		"info": "Turn On & Off DEBUG MODE without editing gsConfig.",
+		"author": "islander",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE/archive/refs/heads/main.zip"
+	},
 
 	{
 		"name": "DynPages",
@@ -128,6 +138,16 @@
 		"author": "Martin Vlcek",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "DY Breadcrumbs",
+		"version": "1.5",
+		"update": "2024.06.24",
+		"info": "Breadcrumbs navigation for web-site",
+		"author": "Dmitry Yakovlev",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/archive/refs/heads/main.zip"
 	},
 
 	{
@@ -658,6 +678,16 @@
 		"author": "Martin Vlcek",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SelectFilter/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SelectFilter/archive/archive/main.zip"
+	},
+	
+	{
+		"name": "ShareOn 📯",
+		"version": "1.0",
+		"update": "2024.06.24",
+		"info": "Lightweight, stylish, and ethical share buttons for popular social networks.",
+		"author": "islander",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/archive/refs/heads/main.zip"
 	},
 	
 	{
