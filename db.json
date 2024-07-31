@@ -442,12 +442,12 @@
 	
 	{
 		"name": "MultiField 🏖️",
-		"version": "3.1",
-		"update": "2023.05.08",
+		"version": "3.1.1",
+		"update": "2023.07.31",
 		"info": "Creator for Custom Fields for concrete page",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/3.1.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/3.1.1.zip"
 	},
 
 	{
