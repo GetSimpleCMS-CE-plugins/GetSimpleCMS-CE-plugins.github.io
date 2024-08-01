@@ -531,6 +531,16 @@
 	},
 
 	{
+		"name":	"OnePage Creator",
+		"version": "1.0",
+		"update": "2024.07.31",
+		"info": "Plugin for create OnePage website",
+		"author": "mutlicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name": "Pages Access",
 		"version": "1.0.8",
 		"update": "2023.01.12",
@@ -748,17 +758,6 @@
 		"author": "jlyon1515",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/archive/refs/heads/master.zip"
-	},
-
-	{
-		"name":	"OnePage Creator",
-		"version": "1.0",
-		"update": "2024.07.31",
-		"info": "Plugin for create OnePage website",
-		"author": "mutlicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/archive/refs/heads/main.zip"
 	}
-	
 	
 ]
