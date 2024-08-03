@@ -532,12 +532,12 @@
 
 	{
 		"name":	"OnePage Creator",
-		"version": "1.1",
+		"version": "1.2",
 		"update": "2024.08.02",
 		"info": "Plugin for create OnePage website",
 		"author": "mutlicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/archive/refs/heads/1.1.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/OnePage-Creator-Plugin/archive/refs/heads/1.2.zip"
 	},
 
 	{
