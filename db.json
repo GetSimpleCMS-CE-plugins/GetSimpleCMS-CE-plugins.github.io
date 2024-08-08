@@ -412,12 +412,12 @@
 
 	{
 		"name": "MonsterGallery 👹",
-		"version": "3.2",
-		"update": "2024.06.07",
+		"version": "4.0",
+		"update": "2024.08.08",
 		"info": "Gallery plugin you want use it!",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/3.2.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.0.zip"
 	},
 
 	{
