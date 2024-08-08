@@ -392,12 +392,12 @@
 
 	{
 		"name": "MapCreator 📍",
-		"version": "4.1",
-		"update": "2022.12.18",
+		"version": "5.0",
+		"update": "2024.08.08",
 		"info": "This plugin add maps to your website with MapCreator",
 		"author": "Multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/4.1.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/5.0.zip"
 	},
 
 	{
