@@ -21,6 +21,17 @@
 	},
 
 	{
+		"name": "AdminRenamer ☔",
+		"version": "1.0",
+		"update": "2024.08.09",
+		"info": "replace Admin name for security reason without use GSDEBUG",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/main.zip"
+	},
+
+
+	{
 		"name": "BetterSEO 🌐",
 		"version": "2.0",
 		"update": "2023.11.29",
