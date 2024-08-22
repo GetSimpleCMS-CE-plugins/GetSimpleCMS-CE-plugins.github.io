@@ -146,8 +146,8 @@
 		"update": "2023.05.27",
 		"info": "Replace place holders in pages with dynamic content from components (I18N enabled!)",
 		"author": "Martin Vlcek",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_DynPages/archive/refs/heads/main.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DynPages/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DynPages/archive/refs/heads/main.zip"
 	},
 
 	{
@@ -196,8 +196,8 @@
 		"update": "2023.09.10",
 		"info": "Use Shortcode on Ckeditor for support FontAwesome or Unicons",
 		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyIcons/archive/refs/heads/main.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyIcons/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyIcons/archive/refs/heads/main.zip"
 	},
 
 	{
@@ -206,8 +206,8 @@
 		"update": "2023.19.14",
 		"info": "this plugin shows statistics by counting only unique IP addresses on a website ",
 		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_EasyStats/archive/refs/heads/main.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/archive/refs/heads/main.zip"
 	},
 
 	{
@@ -296,8 +296,8 @@
 		"update": "2023.05.25",
 		"info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
 		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_harmony/archive/refs/heads/v1.1.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/archive/refs/heads/v1.1.zip"
 	},
 	
 	 {
@@ -478,8 +478,8 @@
 		"update": "2023.03.20",
 		"info": "Plugin to create multiple menus",
 		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_multiMenu/archive/refs/heads/2.0.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/archive/refs/heads/2.0.zip"
 	},
 	
 	{
@@ -498,8 +498,8 @@
 		"update": "2024.02.19",
 		"info": "This plugin will help you to set up a contact form with captcha and checkbox. Plugin can be used SMTP (Simple Mail Transfer Protocol) to send mail.",
 		"author": " NetExplorer",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_my-smtp-contact/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_my-smtp-contact/archive/refs/heads/master.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-my-smtp-contact/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-my-smtp-contact/archive/refs/heads/master.zip"
 	},
 
 	{
@@ -608,8 +608,8 @@
 		"update": "2023.04.21",
 		"info": "Get free commercial use photos direct to cms",
 		"author": "Multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_photoGrabber/archive/refs/heads/1.2.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-photoGrabber/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-photoGrabber/archive/refs/heads/1.2.zip"
 	},
 
 	{
@@ -648,8 +648,8 @@
 		"update": "2023.04.21",
 		"info": "This plugin will show estimated time for read page content",
 		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_Read_Time/archive/refs/heads/2.2.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Read_Time/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Read_Time/archive/refs/heads/2.2.zip"
 	},
 	
 	{
@@ -698,8 +698,8 @@
 		"update": "2024.02.26",
 		"info": "Plugin for SEO text based on OpenAI",
 		"author": "multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin_SEOGPT/archive/refs/heads/1.2.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SEOGPT/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SEOGPT/archive/refs/heads/1.2.zip"
 	},
 	
 	{
