@@ -289,6 +289,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/archive/refs/heads/main.zip"
 	},
+
+	{
+		"name": "FormCreator",
+		"version": "1.0",
+		"update": "2024.08.24",
+		"info": "Create own form!",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/main.zip"
+	},
 	
 	{
 		"name": "Harmony 🪗",
