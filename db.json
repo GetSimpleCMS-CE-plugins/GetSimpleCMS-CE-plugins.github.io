@@ -292,12 +292,12 @@
 
 	{
 		"name": "FormCreator",
-		"version": "1.0",
-		"update": "2024.08.24",
+		"version": "2.0",
+		"update": "2024.09.02",
 		"info": "Create own form!",
 		"author": "Multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/main.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/2.0.zip"
 	},
 	
 	{
