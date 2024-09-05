@@ -401,6 +401,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/archive/refs/heads/main.zip"
 	},
+
+	
+	{
+		"name": "IPblocker",
+		"version": "1.0",
+		"update": "2024.09.05",
+		"info": "Block Dangerous IP Access on yours website based on abuseipdb",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker/archive/refs/heads/main.zip"
+	},
+	
 	
 	{
 		"name": "InfoPop",
