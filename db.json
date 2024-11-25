@@ -573,6 +573,16 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
 	},
+	
+	{
+		"name": "Non-Canonical to 404",
+		"version": "1.0",
+		"update": "2024.11.25",
+		"info": "Redirect non-canonical addresses to a 404 page.",
+		"author": "Raushan",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Non_Canonical_to_404/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Non_Canonical_to_404/archive/refs/heads/main.zip"
+	},
 
 	{
 		"name":	"OnePage Creator",
