@@ -675,6 +675,16 @@
 	},
 	
 	{
+		"name": "Regenerate Thumbnails",
+		"version": "1.2",
+		"update": "2024.11.14",
+		"info": "Regenerate Thumbnails",
+		"author": "jjancel",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/main.zip"
+	},
+	
+	{
 		"name": "Read Time ⏲️",
 		"version": "2.2",
 		"update": "2023.04.21",
