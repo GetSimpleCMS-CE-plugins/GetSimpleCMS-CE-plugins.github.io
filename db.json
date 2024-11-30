@@ -496,12 +496,12 @@
 
 	{
 		"name": "MultiMenu 🚩",
-		"version": "2.0",
-		"update": "2023.03.20",
+		"version": "3.0",
+		"update": "2024.11.30",
 		"info": "Plugin to create multiple menus",
 		"author": "multicolor",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/archive/refs/heads/2.0.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/archive/refs/heads/3.0.zip"
 	},
 	
 	{
