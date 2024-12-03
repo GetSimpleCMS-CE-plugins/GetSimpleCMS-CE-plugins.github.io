@@ -217,6 +217,19 @@
 	},
 
 	{
+		"name": "Easy Social Bar",
+		"version": "1.0",
+		"update": "2024.12.03",
+		"info": "Easy to use social Link sidebar",
+		"author": "multicolor",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar/archive/refs/heads/main.zip"
+	},
+
+
+	{
 		"name": "EasyContactButton 🛎️",
 		"version": "1.4",
 		"update": "2023.02.10",
