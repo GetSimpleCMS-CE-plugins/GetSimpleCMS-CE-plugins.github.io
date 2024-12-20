@@ -228,7 +228,6 @@
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar/archive/refs/heads/main.zip"
 	},
 
-
 	{
 		"name": "EasyContactButton 🛎️",
 		"version": "1.4",
@@ -397,7 +396,6 @@
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/archive/refs/heads/main.zip"
 	},
 
-		
 	{
 		"name": "HelloWorld",
 		"version": "1.0",
@@ -410,7 +408,6 @@
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-HelloWorld/archive/refs/heads/main.zip"
 	},
 
-
 	{
 		"name": "I18N Custom Fields",
 		"version": "1.9.4",
@@ -421,6 +418,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
+	},
+
+	{
+		"name": "i18n DeepL Page Translation",
+		"version": "1.0.5",
+		"update": "2024.12.20",
+		"info": "Translates page content and other fields using the DeepL API",
+		"author": "Astrid Hanssen",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/archive/refs/heads/main.zip"
 	},
 
 	{
