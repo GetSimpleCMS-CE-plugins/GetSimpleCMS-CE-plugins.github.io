@@ -422,13 +422,13 @@
 
 	{
 		"name": "i18n DeepL Page Translation",
-		"version": "1.0.5",
-		"update": "2024.12.20",
+		"version": "1.0.6",
+		"update": "2024.12.21",
 		"info": "Translates page content and other fields using the DeepL API",
 		"author": "Astrid Hanssen",
 		"tags": "",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/",
-		"wiki": "",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/archive/refs/heads/main.zip"
 	},
 
