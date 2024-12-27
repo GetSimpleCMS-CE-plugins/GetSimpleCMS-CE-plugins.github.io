@@ -1008,6 +1008,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/archive/refs/heads/master.zip"
+	},
+
+	{
+		"name":	"WJ Notepad",
+		"version": "1.1",
+		"update": "2024.12.27",
+		"info": "Store your notes, guides, hints, and todos for later usage.",
+		"author": "W Jodła",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-WJ_Notepad/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-WJ_Notepad/archive/refs/heads/main.zip"
 	}
 	
 ]
