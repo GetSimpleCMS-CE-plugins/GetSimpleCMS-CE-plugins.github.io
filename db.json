@@ -18,7 +18,7 @@
 		"update": "2024.08.09",
 		"info": "Rename admin panel for better security without gsconfig.",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/main.zip"
@@ -30,7 +30,7 @@
 		"update": "2023.01.17",
 		"info": "Automatically opens the page options when editing pages",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
@@ -54,7 +54,7 @@
 		"update": "2024.01.12",
 		"info": "New editor wysywig based on editor.js",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-blockContent/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-blockContent/archive/refs/heads/4.0.zip"
@@ -66,7 +66,7 @@
 		"update": "2023.05.09",
 		"info": "Create carousel with easy creator",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-gallery",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/refs/heads/4.0.zip"
@@ -78,7 +78,7 @@
 		"update": "2022.12.31",
 		"info": "This plugin is to download plugins that supports php8.x",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
@@ -90,7 +90,7 @@
 		"update": "2023.04.20",
 		"info": "If you want to show the partners' logo in an effective way...",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-gallery",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
@@ -162,7 +162,7 @@
 		"update": "2024.06.25",
 		"info": "Turn On & Off DEBUG MODE without editing gsConfig.",
 		"author": "islander",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE/archive/refs/heads/main.zip"
@@ -174,7 +174,7 @@
 		"update": "2023.05.27",
 		"info": "Replace place holders in pages with dynamic content from components (I18N enabled!)",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DynPages/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DynPages/archive/refs/heads/main.zip"
@@ -186,7 +186,7 @@
 		"update": "2024.06.24",
 		"info": "Breadcrumbs navigation for web-site",
 		"author": "Dmitry Yakovlev",
-		"tags": "",
+		"tags": "tag-nav",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/archive/refs/heads/main.zip"
@@ -198,7 +198,7 @@
 		"update": "2022.12.12",
 		"info": "Adds website custom fields",
 		"author": "Dmitry Yakovlev",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
@@ -222,7 +222,7 @@
 		"update": "2024.12.03",
 		"info": "Easy to use social Link sidebar",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-social",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar/archive/refs/heads/main.zip"
@@ -234,7 +234,7 @@
 		"update": "2023.02.10",
 		"info": "Add a Contact or WhatsApp button to your theme",
 		"author": "islander",
-		"tags": "",
+		"tags": "tag-social",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/main.zip"
@@ -246,7 +246,7 @@
 		"update": "2023.09.10",
 		"info": "Use Shortcode on Ckeditor for support FontAwesome or Unicons",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyIcons/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyIcons/archive/refs/heads/main.zip"
@@ -258,7 +258,7 @@
 		"update": "2023.19.14",
 		"info": "this plugin shows statistics by counting only unique IP addresses on a website ",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/archive/refs/heads/main.zip"
@@ -270,7 +270,7 @@
 		"update": "2023.11.30",
 		"info": "Easy Contact Form based on PHPMailer with SMTP and Google Captcha",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/3.0.zip"
@@ -282,7 +282,7 @@
 		"update": "2023.08.03",
 		"info": "Freakin easy searchbar for your website",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-search",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/archive/refs/heads/main.zip"
@@ -294,7 +294,7 @@
 		"update": "2023.01.12",
 		"info": "Easy Contact form for your page",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/archive/main.zip"
@@ -306,7 +306,7 @@
 		"update": "2023.11.06",
 		"info": "Easy Contact form for your page (redirect to page edition)",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
@@ -318,7 +318,7 @@
 		"update": "2023.03.20",
 		"info": "Created galleries are available as structured PHP arrays to use in theme.",
 		"author": "mganko",
-		"tags": "",
+		"tags": "tag-gallery",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Extra_Gallery/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Extra_Gallery/archive/refs/heads/main.zip"
@@ -330,7 +330,7 @@
 		"update": "2023.09.29",
 		"info": "Display frequently asked questions (FAQs)",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FAQ/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-FAQ/archive/refs/heads/main.zip"
@@ -342,7 +342,7 @@
 		"update": "2022.12.12",
 		"info": "Add FaceBook sidebar to your website",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-social",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
@@ -354,7 +354,7 @@
 		"update": "2021.06.14",
 		"info": "A simple .htaccess and robots.txt file editor.",
 		"author": "Nico Hemkes",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/archive/refs/heads/main.zip"
@@ -366,7 +366,7 @@
 		"update": "2024.09.02",
 		"info": "Create own form!",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/2.0.zip"
@@ -378,7 +378,7 @@
 		"update": "2023.05.25",
 		"info": "Easy accordion and tabs creator based on Bootstrap and prebuild styles",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/archive/refs/heads/v1.1.zip"
@@ -390,7 +390,7 @@
 		"update": "2022.03.20",
 		"info": "Hosting Space Detector (great for small hosting just like OVH 10MB)",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/archive/refs/heads/main.zip"
@@ -414,7 +414,7 @@
 		"update": "2023.02.01",
 		"info": "Custom Fields (I18N enabled)",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
@@ -426,7 +426,7 @@
 		"update": "2024.12.21",
 		"info": "Translates page content and other fields using the DeepL API",
 		"author": "Astrid Hanssen",
-		"tags": "",
+		"tags": "tag-translate",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/archive/refs/heads/main.zip"
@@ -438,7 +438,7 @@
 		"update": "2023.07.22",
 		"info": "Display image galleries (I18N enabled)",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-gallery",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
@@ -450,7 +450,7 @@
 		"update": "2023.17.20",
 		"info": "Multilevel navigation & breadcrumbs (I18N enabled)",
 		"author": "Martin Vlcek / CE",
-		"tags": "",
+		"tags": "tag-nav",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
@@ -462,7 +462,7 @@
 		"update": "2023.08.03",
 		"info": "Search (I18N enabled!)",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-search",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
@@ -474,7 +474,7 @@
 		"update": "2023.08.03",
 		"info": "Search (I18N enabled!)",
 		"author": "Martin Vlcek / CE",
-		"tags": "",
+		"tags": "tag-search",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
@@ -486,7 +486,7 @@
 		"update": "2023.11.25",
 		"info": "i18n Special Pages plugin",
 		"author": "Martin Vlcek / CE",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
@@ -498,7 +498,7 @@
 		"update": "2019.02.04",
 		"info": "This plugin allows you to add special field types and options like: title label, content label, description fields etc",
 		"author": "mganko",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/archive/refs/heads/main.zip"
@@ -511,7 +511,7 @@
 		"update": "2024.09.05",
 		"info": "Block Dangerous IP Access on yours website based on abuseipdb",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker/archive/refs/heads/main.zip"
@@ -524,7 +524,7 @@
 		"update": "2023.04.14",
 		"info": "Info for site users ( you can use it for all info what do you want, never show after close)",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
@@ -536,7 +536,7 @@
 		"update": "2024.01.29",
 		"info": "Block an IP address after 3 failed login attempts from login for 1 hour.",
 		"author": "MWK, islander",
-		"tags": "",
+		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login/archive/refs/heads/main.zip"
@@ -560,7 +560,7 @@
 		"update": "2024.12.13",
 		"info": "Admin theme with new function",
 		"author": "Multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/5.0.10.zip"
@@ -572,7 +572,7 @@
 		"update": "2024.08.08",
 		"info": "Gallery plugin you want use it!",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-gallery",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.0.zip"
@@ -584,7 +584,7 @@
 		"update": "2024.06.18",
 		"info": "Create category blocks from templates and custom fields. (Catalogue, product listing, services, team, food menu, etc.)",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.5.zip"
@@ -596,7 +596,7 @@
 		"update": "2023.01.17",
 		"info": "This is Url Changer for MultiBlock",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
@@ -608,7 +608,7 @@
 		"update": "2024.09.26",
 		"info": "Creator for Custom Fields for concrete page",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/4.1.zip"
@@ -620,7 +620,7 @@
 		"update": "2024.11.30",
 		"info": "Plugin to create multiple menus",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-nav",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/archive/refs/heads/3.0.zip"
@@ -632,7 +632,7 @@
 		"update": "2023.07.22",
 		"info": "Adds Multi-User Management Section",
 		"author": "Mike Henken",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
@@ -644,7 +644,7 @@
 		"update": "2024.02.19",
 		"info": "This plugin will help you to set up a contact form with captcha and checkbox. Plugin can be used SMTP (Simple Mail Transfer Protocol) to send mail.",
 		"author": " NetExplorer",
-		"tags": "",
+		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-my-smtp-contact/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-my-smtp-contact/archive/refs/heads/master.zip"
@@ -656,7 +656,7 @@
 		"update": "2023.01.12",
 		"info": "plugin for create newsletter from website",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
@@ -668,7 +668,7 @@
 		"update": "2022.12.17",
 		"info": "A blog/news plugin for GetSimple",
 		"author": "Carlos Navarro",
-		"tags": "",
+		"tags": "tag-content tag-blog",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
@@ -680,7 +680,7 @@
 		"update": "2022.02.01",
 		"info": "A blog/news plugin for GetSimple",
 		"author": "Carlos Navarro",
-		"tags": "",
+		"tags": "tag-content tag-blog",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
@@ -692,7 +692,7 @@
 		"update": "2022.10.02",
 		"info": "Additional functions/template tags for News Manager",
 		"author": "Carlos Navarro",
-		"tags": "",
+		"tags": "tag-content tag-blog",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/archive/refs/heads/master.zip"
@@ -704,7 +704,7 @@
 		"update": "2023.08.17",
 		"info": "Automatically open the post options when editing News Manager posts",
 		"author": "Carlos Navarro",
-		"tags": "",
+		"tags": "tag-content tag-blog",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
@@ -728,7 +728,7 @@
 		"update": "2024.08.02",
 		"info": "Plugin for create OnePage website",
 		"author": "mutlicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-OnePage-Creator/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-OnePage-Creator/archive/refs/heads/1.2.zip"
@@ -740,7 +740,7 @@
 		"update": "2025.01.03",
 		"info": "Simply add contact forms in your pages",
 		"author": "NLiautaud",
-		"tags": "",
+		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact/archive/refs/heads/main.zip"
@@ -752,7 +752,7 @@
 		"update": "2023.01.12",
 		"info": "Allows only certain pages to be viewed in admin based on user name",
 		"author": "Craig Adams",
-		"tags": "",
+		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/archive/refs/heads/master.zip"
@@ -764,7 +764,7 @@
 		"update": "2023.01.12",
 		"info": "With this plugin you can limit changes in page options, deleting, creating selected pages.",
 		"author": "Michał Gańko",
-		"tags": "",
+		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/archive/refs/heads/master.zip"
@@ -776,7 +776,7 @@
 		"update": "2023.07.22",
 		"info": "Split long content into pages",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/archive/refs/heads/main.zip"
@@ -788,7 +788,7 @@
 		"update": "2023.07.22",
 		"info": "Allows users to password protect pages in their GetSimple powered site.",
 		"author": "Helge Sverre",
-		"tags": "",
+		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/archive/main.zip"
@@ -812,7 +812,7 @@
 		"update": "2023.13.12",
 		"info": " Plugin for download from ce repo/unistall plugins from system (grabbed options from MassiveAdmin theme) ",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
@@ -824,7 +824,7 @@
 		"update": "2023.04.26",
 		"info": "Popup Plugin for your website",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/Plugin-Popup-Plugin/archive/refs/heads/main.zip"
@@ -836,7 +836,7 @@
 		"update": "2024.03.16",
 		"info": "Allows For Easy Insertion of Random Content or Banners",
 		"author": "Mike Henken/AuraFX",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Random_Content/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Random_Content/archive/refs/heads/main.zip"
@@ -848,7 +848,7 @@
 		"update": "2024.11.14",
 		"info": "Regenerate Thumbnails",
 		"author": "jjancel",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/main.zip"
@@ -872,7 +872,7 @@
 		"update": "2013.08.17",
 		"info": "Simple page redirection",
 		"author": "Carlos Navarro",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Redirect/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Redirec/archive/refs/heads/main.zip"
@@ -932,7 +932,7 @@
 		"update": "2015.12.02",
 		"info": "Filtering of selects with many entries",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SelectFilter/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SelectFilter/archive/archive/main.zip"
@@ -944,7 +944,7 @@
 		"update": "2024.06.24",
 		"info": "Lightweight, stylish, and ethical share buttons for popular social networks.",
 		"author": "islander",
-		"tags": "",
+		"tags": "tag-social",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/archive/refs/heads/main.zip"
@@ -956,7 +956,7 @@
 		"update": "2022.12.18",
 		"info": "Adds additional user inputs where required in the theme",
 		"author": "Jason Dixon",
-		"tags": "",
+		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
@@ -968,7 +968,7 @@
 		"update": "2023.17.22",
 		"info": "Everybody can translate GetSimple!",
 		"author": "Martin Vlcek",
-		"tags": "",
+		"tags": "tag-translate",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
@@ -992,7 +992,7 @@
 		"update": "2023.04.04",
 		"info": "Upload with compress photo and convert to webp",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.1.zip"
@@ -1004,7 +1004,7 @@
 		"update": "2023.01.12",
 		"info": "Upload Plugin or Themes direct from CMS",
 		"author": "multicolor",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
@@ -1028,7 +1028,7 @@
 		"update": "2024.12.27",
 		"info": "Store your notes, guides, hints, and todos for later usage.",
 		"author": "W Jodła",
-		"tags": "",
+		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-WJ_Notepad/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-WJ_Notepad/archive/refs/heads/main.zip"
