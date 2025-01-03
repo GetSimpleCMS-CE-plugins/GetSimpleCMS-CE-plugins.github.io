@@ -735,6 +735,18 @@
 	},
 
 	{
+		"name":	"p01-contact",
+		"version": "1.1.5",
+		"update": "2025.01.03",
+		"info": "Simply add contact forms in your pages",
+		"author": "NLiautaud",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact/wiki",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name": "Pages Access",
 		"version": "1.0.8",
 		"update": "2023.01.12",
