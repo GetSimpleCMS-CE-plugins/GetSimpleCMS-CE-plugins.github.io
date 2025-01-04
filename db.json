@@ -831,6 +831,18 @@
 	},
 	
 	{
+		"name": "PubDate Fix",
+		"version": "0.3",
+		"update": "2025.01.04",
+		"info": "Makes pubDate field fixed and editable (with date/time picker), adds lastUpdate field",
+		"author": "Carlos Navarro",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix/wiki",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix/archive/refs/heads/main.zip"
+	},
+	
+	{
 		"name": "Random Content",
 		"version": "1.1b",
 		"update": "2024.03.16",
