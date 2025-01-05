@@ -188,7 +188,7 @@
 		"author": "Dmitry Yakovlev",
 		"tags": "tag-nav",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs",
-		"wiki": "",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/archive/refs/heads/main.zip"
 	},
 
@@ -640,10 +640,10 @@
 
 	{
 		"name": "My SMTP Contact",
-		"version": "1.1.2 (edited by multicolor)",
+		"version": "1.1.2 (CE)",
 		"update": "2024.02.19",
 		"info": "This plugin will help you to set up a contact form with captcha and checkbox. Plugin can be used SMTP (Simple Mail Transfer Protocol) to send mail.",
-		"author": " NetExplorer",
+		"author": " NetExplorer/multicolor",
 		"tags": "tag-form",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-my-smtp-contact/",
 		"wiki": "",
