@@ -14,14 +14,14 @@
 
 	{
 		"name": "AdminRenamer ☔",
-		"version": "1.0",
+		"version": "1.1",
 		"update": "2024.08.09",
 		"info": "Rename admin panel for better security without gsconfig.",
 		"author": "Multicolor",
 		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer",
 		"wiki": "",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/main.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/1.1.zip"
 	},
 
 	{
