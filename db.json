@@ -20,7 +20,7 @@
 		"author": "Multicolor",
 		"tags": "tag-security",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer",
-		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/wiki",
+		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/1.1.zip"
 	},
 
@@ -32,7 +32,7 @@
 		"author": "Martin Vlcek",
 		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/",
-		"wiki": "",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
 	},
 
