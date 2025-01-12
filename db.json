@@ -167,6 +167,18 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE/archive/refs/heads/main.zip"
 	},
+	
+	{
+		"name": "Display errors log",
+		"version": "1.0",
+		"update": "2024.01.08",
+		"info": "Description:  Save and display errors 404, and other errors.",
+		"author": "Cumbe",
+		"tags": "tag-admin",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Display_errors_log/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Display_errors_log/archive/refs/heads/main.zip"
+	},
 
 	{
 		"name": "DynPages",
@@ -190,6 +202,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "DY Maintenance",
+		"version": "1.0",
+		"update": "2024.01.08",
+		"info": "Enabling maintenance mode of the website",
+		"author": "Dmitry Yakovlev",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Maintenance",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Maintenance/archive/refs/heads/main.zip"
 	},
 
 	{
@@ -383,18 +407,6 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/archive/refs/heads/v1.1.zip"
 	},
-	
-	 {
-		"name": "Hosting Space Detector",
-		"version": "1.1",
-		"update": "2022.03.20",
-		"info": "Hosting Space Detector (great for small hosting just like OVH 10MB)",
-		"author": "multicolor",
-		"tags": "tag-admin",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/",
-		"wiki": "",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/archive/refs/heads/main.zip"
-	},
 
 	{
 		"name": "HelloWorld",
@@ -406,6 +418,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HelloWorld",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-HelloWorld/archive/refs/heads/main.zip"
+	},
+	
+	 {
+		"name": "Hosting Space Detector",
+		"version": "1.1",
+		"update": "2022.03.20",
+		"info": "Hosting Space Detector (great for small hosting just like OVH 10MB)",
+		"author": "multicolor",
+		"tags": "tag-admin",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/archive/refs/heads/main.zip"
 	},
 
 	{
@@ -503,20 +527,6 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/archive/refs/heads/main.zip"
 	},
-
-	
-	{
-		"name": "IPblocker",
-		"version": "1.0",
-		"update": "2024.09.05",
-		"info": "Block Dangerous IP Access on yours website based on abuseipdb",
-		"author": "Multicolor",
-		"tags": "tag-security",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker",
-		"wiki": "",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker/archive/refs/heads/main.zip"
-	},
-	
 	
 	{
 		"name": "InfoPop",
@@ -528,6 +538,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "IPblocker",
+		"version": "1.0",
+		"update": "2024.09.05",
+		"info": "Block Dangerous IP Access on yours website based on abuseipdb",
+		"author": "Multicolor",
+		"tags": "tag-security",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker/archive/refs/heads/main.zip"
 	},
 	
 	{
@@ -678,7 +700,7 @@
 		"name": "News Manager Beta",
 		"version": "3.7 beta 2",
 		"update": "2022.02.01",
-		"info": "A blog/news plugin for GetSimple",
+		"info": "A blog/news plugin for GetSimple (extended template placeholders)",
 		"author": "Carlos Navarro",
 		"tags": "tag-content tag-blog",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/",
@@ -855,18 +877,6 @@
 	},
 	
 	{
-		"name": "Regenerate Thumbnails",
-		"version": "1.2",
-		"update": "2024.11.14",
-		"info": "Regenerate Thumbnails",
-		"author": "jjancel",
-		"tags": "tag-admin",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/",
-		"wiki": "",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/main.zip"
-	},
-	
-	{
 		"name": "Read Time ⏲️",
 		"version": "2.2",
 		"update": "2023.04.21",
@@ -891,6 +901,30 @@
 	},
 	
 	{
+		"name": "Regenerate Thumbnails",
+		"version": "1.2",
+		"update": "2024.11.14",
+		"info": "Regenerate Thumbnails",
+		"author": "jjancel",
+		"tags": "tag-admin",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "SA Toc / Anchors Plugin ",
+		"version": "0.3",
+		"update": "2023.05.09",
+		"info": "Adds Table of Contents and anchors headings",
+		"author": "Shawn Alverson",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/archive/refs/heads/main.zip"
+	},
+	
+	{
 		"name": "Safe Email 📧",
 		"version": "1.0",
 		"update": "2023.09.08",
@@ -912,18 +946,6 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
-	},
-
-	{
-		"name": "SA Toc / Anchors Plugin ",
-		"version": "0.3",
-		"update": "2023.05.09",
-		"info": "Adds Table of Contents and anchors headings",
-		"author": "Shawn Alverson",
-		"tags": "",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/",
-		"wiki": "",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/archive/refs/heads/main.zip"
 	},
 	
 	{
