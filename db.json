@@ -25,6 +25,18 @@
 	},
 
 	{
+		"name": "autoLightbox",
+		"version": "1.0",
+		"update": "2025.01.13",
+		"info": "Automatically adds Lightbox to all images in content areas, gallery plugins not needed.",
+		"author": "Multi",
+		"tags": "tag-gallery",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name": "Auto-open Page Options",
 		"version": "2.0",
 		"update": "2023.01.17",
