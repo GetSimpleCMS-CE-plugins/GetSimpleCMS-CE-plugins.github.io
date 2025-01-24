@@ -1009,6 +1009,19 @@
 	},
 
 	{
+		"name": "SiteData",
+		"version": "1.0",
+		"update": "2025.01.24",
+		"info": "Add custom easy to update fields in your site templates, like Phone Number, Email Address, Business Hours, etc.",
+		"author": "Multicolor",
+		"tags": "tag-content",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/tree/main",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/archive/refs/heads/main.zip"
+	},
+
+
+	{
 		"name": "Translate",
 		"version": "1.1",
 		"update": "2023.17.22",
