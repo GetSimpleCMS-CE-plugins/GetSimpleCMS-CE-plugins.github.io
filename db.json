@@ -1020,6 +1020,18 @@
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/archive/refs/heads/2.1.zip"
 	},
 
+	{
+		"name": "siteFX",
+		"version": "1.0",
+		"update": "2025.01.29",
+		"info": "Festivus for the rest of us. Add some special occasion or holiday decor to your site.",
+		"author": "risingisland",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/wiki",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/archive/refs/heads/main.zip"
+	},
+
 
 	{
 		"name": "Translate",
