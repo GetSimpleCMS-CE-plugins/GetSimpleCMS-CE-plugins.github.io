@@ -30,7 +30,7 @@
 		"update": "2025.02.13",
 		"info": "Rename admin panel for better security without gsconfig.",
 		"author": "JVCMS",
-		"tags": "tag-nav tag-lang",
+		"tags": "tag-nav tag-langs",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/archive/refs/heads/2.0.4.zip"
@@ -498,7 +498,7 @@
 		"update": "2024.12.21",
 		"info": "Translates page content and other fields using the DeepL API",
 		"author": "Astrid Hanssen",
-		"tags": "tag-translate",
+		"tags": "tag-langs",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/archive/refs/heads/main.zip"
@@ -522,7 +522,7 @@
 		"update": "2023.17.20",
 		"info": "Multilevel navigation & breadcrumbs (I18N enabled)",
 		"author": "Martin Vlcek / CE",
-		"tags": "tag-nav",
+		"tags": "tag-nav tag-langs",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
@@ -1099,7 +1099,7 @@
 		"update": "2023.17.22",
 		"info": "Everybody can translate GetSimple!",
 		"author": "Martin Vlcek",
-		"tags": "tag-translate",
+		"tags": "tag-langs",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
