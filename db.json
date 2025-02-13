@@ -25,6 +25,18 @@
 	},
 
 	{
+		"name": "AlterLang",
+		"version": "2.0.4",
+		"update": "2025.02.13",
+		"info": "Rename admin panel for better security without gsconfig.",
+		"author": "JVCMS",
+		"tags": "tag-nav tag-lang",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/wiki",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/archive/refs/heads/2.0.4.zip"
+	},
+
+	{
 		"name": "autoLightbox",
 		"version": "1.0",
 		"update": "2025.01.13",
