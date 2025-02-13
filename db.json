@@ -28,7 +28,7 @@
 		"name": "AlterLang",
 		"version": "2.0.4",
 		"update": "2025.02.13",
-		"info": "Rename admin panel for better security without gsconfig.",
+		"info": "Real Multilingual for Getsimple. Uniques URLs. Better SEO. Helps dealing with several translated version of one page by allowing you to select equivalent pages in different languages.",
 		"author": "JVCMS",
 		"tags": "tag-nav tag-langs",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang",
