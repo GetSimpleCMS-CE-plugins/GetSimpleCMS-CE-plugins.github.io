@@ -428,7 +428,7 @@
 		"author": "Nico Hemkes",
 		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/",
-		"wiki": "",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Manager_CE/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/archive/refs/heads/main.zip"
 	},
 
@@ -1112,7 +1112,7 @@
 		"author": "CE Team",
 		"tags": "",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE",
-		"wiki": "",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/archive/refs/heads/main.zip"
 	},
 
