@@ -433,6 +433,18 @@
 	},
 
 	{
+		"name": "File Manager CE",
+		"version": "1.0",
+		"update": "2025.02.18",
+		"info": "Upload, edit, and manage your files and folders directly, without the need for ftp.",
+		"author": "CE Team",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Manager_CE",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Manager_CE/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name": "FormCreator",
 		"version": "2.0",
 		"update": "2024.09.02",
@@ -1090,6 +1102,18 @@
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/archive/refs/heads/main.zip"
+	},
+
+	{
+		"name": "Theme Manager CE",
+		"version": "1.0",
+		"update": "2025.02.18",
+		"info": "Upload, edit, and manage your themes files and folders directly, without the need for ftp.",
+		"author": "CE Team",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/archive/refs/heads/main.zip"
 	},
 
 
