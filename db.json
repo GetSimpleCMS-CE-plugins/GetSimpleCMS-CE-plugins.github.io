@@ -419,7 +419,19 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
 	},
-
+	
+	{
+		"name": "focusReminder",
+		"version": "1.0",
+		"update": "2025.02.24",
+		"info": "Plugin that reminds the user to return to the page",
+		"author": "Multicolor & Slaveous",
+		"tags": "tag-content",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-focusReminder",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-focusReminder/archive/refs/heads/main.zip"
+	},
+	
 	{
 		"name": "File Editor",
 		"version": "1.0.33",
