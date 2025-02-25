@@ -109,6 +109,18 @@
 	},
 	
 	{
+		"name": "Child Menu",
+		"version": "1.9",
+		"update": "2025.02.25",
+		"info": "Prints parent title, children and siblings titles as a cached menu on parent and child pages.",
+		"author": "Erik / CE Team",
+		"tags": "tag-nav",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu/wiki",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu/archive/refs/heads/main.zip"
+	},
+	
+	{
 		"name": "Company Slider 🏢",
 		"version": "1.1",
 		"update": "2023.04.20",
