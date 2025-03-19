@@ -479,6 +479,21 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/2.0.zip"
 	},
+
+	
+	{
+		"name": "mapFromGoogle 📍",
+		"version": "1.0",
+		"update": "2025.03.19",
+		"info": "Google Maps based on ShortCode without API needed",
+		"author": "Multicolor",
+		"tags": "tag-content",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-mapFromGoogle/",
+		"wiki": "",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-mapFromGoogle/archive/refs/heads/main.zip"
+	},
+
+	
 	
 	{
 		"name": "Harmony 🪗",
