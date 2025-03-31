@@ -1190,6 +1190,18 @@
 	},
 
 	{
+		"name":	"Upate CE",
+		"version": "1.0",
+		"update": "2025.03.31",
+		"info": "Update your install to the latest version.",
+		"author": "risingisland",
+		"tags": "tag-admin",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/wiki",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/main.zip"
+	},
+
+	{
 		"name":	"Upload Plugin & Themes",
 		"version": "1.0",
 		"update": "2023.01.12",
