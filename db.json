@@ -66,7 +66,7 @@
 		"update": "2025.03.28",
 		"info": "Make Get Simple CMS SEO better!",
 		"author": "Multicolor",
-		"tags": "tag-seo",
+		"tags": "tag-seo tag-rec",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/refs/heads/3.1.zip"
@@ -102,7 +102,7 @@
 		"update": "2022.12.31",
 		"info": "This plugin is to download plugins that supports php8.x",
 		"author": "Multicolor",
-		"tags": "tag-admin",
+		"tags": "tag-admin  tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
@@ -678,7 +678,7 @@
 		"update": "2025.03.19",
 		"info": "Google Maps based on ShortCode without API needed",
 		"author": "Multicolor",
-		"tags": "tag-content",
+		"tags": "tag-content  tag-rec",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-mapFromGoogle/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-mapFromGoogle/archive/refs/heads/main.zip"
@@ -690,7 +690,7 @@
 		"update": "2025.03.26",
 		"info": "Admin theme with new function",
 		"author": "Multicolor",
-		"tags": "tag-admin",
+		"tags": "tag-admin  tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.zip"
@@ -714,7 +714,7 @@
 		"update": "2024.08.08",
 		"info": "Gallery plugin you want use it!",
 		"author": "multicolor",
-		"tags": "tag-gallery",
+		"tags": "tag-gallery tag-rec",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.0.zip"
@@ -750,7 +750,7 @@
 		"update": "2024.09.26",
 		"info": "Creator for Custom Fields for concrete page",
 		"author": "multicolor",
-		"tags": "tag-content",
+		"tags": "tag-content  tag-rec",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/4.1.zip"
@@ -954,7 +954,7 @@
 		"update": "2023.13.12",
 		"info": " Plugin for download from ce repo/unistall plugins from system (grabbed options from MassiveAdmin theme) ",
 		"author": "multicolor",
-		"tags": "tag-admin",
+		"tags": "tag-admin  tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
@@ -1098,7 +1098,7 @@
 		"update": "2024.06.24",
 		"info": "Lightweight, stylish, and ethical share buttons for popular social networks.",
 		"author": "risingisland",
-		"tags": "tag-social",
+		"tags": "tag-social  tag-rec",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/archive/refs/heads/main.zip"
@@ -1122,7 +1122,7 @@
 		"update": "2025.02.05",
 		"info": "Add custom easy to update fields in your site templates, like Phone Number, Email Address, Business Hours, etc.",
 		"author": "Multicolor",
-		"tags": "tag-content",
+		"tags": "tag-content tag-rec",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/archive/refs/heads/2.2.zip"
@@ -1146,12 +1146,11 @@
 		"update": "2025.02.18",
 		"info": "Upload, edit, and manage your themes files and folders directly, without the need for ftp.",
 		"author": "CE Team",
-		"tags": "",
+		"tags": "tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/archive/refs/heads/main.zip"
 	},
-
 
 	{
 		"name": "Translate",
@@ -1195,7 +1194,7 @@
 		"update": "2025.03.31",
 		"info": "Update your current install to the latest version from within the admin.",
 		"author": "risingisland",
-		"tags": "tag-admin",
+		"tags": "tag-admin tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/wiki",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/main.zip"
@@ -1207,7 +1206,7 @@
 		"update": "2023.01.12",
 		"info": "Upload Plugin or Themes direct from CMS",
 		"author": "multicolor",
-		"tags": "tag-admin",
+		"tags": "tag-admin tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
