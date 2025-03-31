@@ -1193,7 +1193,7 @@
 		"name":	"Upate CE",
 		"version": "1.0",
 		"update": "2025.03.31",
-		"info": "Update your install to the latest version.",
+		"info": "Update your current install to the latest version from within the admin.",
 		"author": "risingisland",
 		"tags": "tag-admin",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE",
