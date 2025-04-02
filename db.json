@@ -1189,7 +1189,7 @@
 	},
 
 	{
-		"name":	"Upate CE",
+		"name":	"Update CE",
 		"version": "1.0",
 		"update": "2025.03.31",
 		"info": "Update your current install to the latest version from within the admin.",
