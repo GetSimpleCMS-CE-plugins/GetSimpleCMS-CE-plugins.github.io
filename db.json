@@ -1122,7 +1122,7 @@
 		"update": "2025.04.03",
 		"info": "SimpleBlog for Simple CMS! Based on Sqlite3",
 		"author": "Multicolor",
-		"tags": "tag-pro",
+		"tags": "tag-pro tag-blog",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/blob/main/readme.md",
 		"wiki": "",
 		"url":  "https://ko-fi.com/s/e03bbbfedf"
