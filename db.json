@@ -1115,6 +1115,19 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/archive/refs/heads/main.zip"
 	},
+
+	{
+		"name": "SimpleBlog",
+		"version": "1.0",
+		"update": "2025.04.03",
+		"info": "SimpleBlog for Simple CMS! Based on Sqlite3",
+		"author": "Multicolor",
+		"tags": "tag-pro",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/blob/main/readme.md",
+		"wiki": "",
+		"url":  "https://ko-fi.com/s/e03bbbfedf"
+	},
+
 	
 	{
 		"name": "Simple Input Tabs",
