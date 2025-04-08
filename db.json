@@ -746,14 +746,14 @@
 
 	{
 		"name": "Multiblock 🧱",
-		"version": "5.5",
-		"update": "2024.06.18",
+		"version": "5.6",
+		"update": "2025.04.08",
 		"info": "Create category blocks from templates and custom fields. (Catalogue, product listing, services, team, food menu, etc.)",
 		"author": "multicolor",
 		"tags": "tag-content",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/",
 		"wiki": "",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.5.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.6.zip"
 	},
 
 	{
