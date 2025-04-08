@@ -143,6 +143,18 @@
 		"wiki": "",
 		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cookies-plugin-/archive/main.zip"
 	},
+
+	{
+		"name": "Cookie Monster 🍪",
+		"version": "1.0",
+		"update": "2025.04.08",
+		"info": "Advanced cookieconsent plugin with GDPR options, styles and categories.",
+		"author": "multicolor",
+		"tags": "",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-cookieMonster/",
+		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-cookieMonster/blob/main/README.md",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-cookieMonster/archive/refs/heads/main.zip"
+	},
 	
 	{
 		"name": "Create Static HTML 📑",
