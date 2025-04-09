@@ -1228,13 +1228,13 @@
 	{
 		"name":	"Update CE",
 		"version": "1.0",
-		"update": "2025.03.31",
+		"update": "2025.04.09",
 		"info": "Update your current install to the latest version from within the admin.",
 		"author": "risingisland",
 		"tags": "tag-admin tag-gsce",
 		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE",
 		"wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/wiki",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/1.0.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/1.1.zip"
 	},
 
 	{
