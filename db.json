@@ -48,7 +48,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/archive/refs/heads/main.zip"
     },
     {
-        "id": "autoopenpageoptions",
+        "id": "pageoptions_auto_open",
         "name": "Auto-open Page Options",
         "version": "2.0",
         "update": "2023.01.17",
@@ -144,7 +144,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cookies-plugin-/archive/main.zip"
     },
     {
-        "id": "cookiemonster",
+        "id": "cookieMonster",
         "name": "Cookie Monster 🍪",
         "version": "1.0",
         "update": "2025.04.08",
@@ -708,7 +708,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-mapFromGoogle/archive/refs/heads/main.zip"
     },
     {
-        "id": "massiveadmintheme",
+        "id": "massiveAdmin",
         "name": "Massive Admin Theme 🦸‍♂️",
         "version": "6.0",
         "update": "2025.03.26",
@@ -1224,7 +1224,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.1.zip"
     },
     {
-        "id": "updatece",
+        "id": "UpdateCE",
         "name": "Update CE",
         "version": "1.1",
         "update": "2025.04.09",
