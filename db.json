@@ -336,7 +336,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/main.zip"
     },
     {
-        "id": "easyicons",
+        "id": "EasyIcons",
         "name": "EasyIcons 😏",
         "version": "1.0",
         "update": "2023.09.10",
@@ -348,7 +348,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyIcons/archive/refs/heads/main.zip"
     },
     {
-        "id": "easystats",
+        "id": "easyStats",
         "name": "EasyStats 📊",
         "version": "1.0",
         "update": "2023.19.14",
@@ -360,7 +360,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/archive/refs/heads/main.zip"
     },
     {
-        "id": "easysmtpmail",
+        "id": "easySMTPmail",
         "name": "EasySMTPmail",
         "version": "3.0",
         "update": "2023.11.30",
@@ -372,7 +372,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySMTPmail/archive/refs/heads/3.0.zip"
     },
     {
-        "id": "easysearch",
+        "id": "easySearch",
         "name": "EasySearch",
         "version": "1.0",
         "update": "2023.08.03",
@@ -384,7 +384,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/archive/refs/heads/main.zip"
     },
     {
-        "id": "easycontactform",
+        "id": "easy_contactform",
         "name": "Easy_ContactForm",
         "version": "5.0",
         "update": "2023.01.12",
@@ -396,7 +396,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/archive/main.zip"
     },
     {
-        "id": "easycontactformb",
+        "id": "easy_contactform",
         "name": "Easy_ContactForm",
         "version": "5.0b",
         "update": "2023.11.06",
@@ -408,7 +408,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
     },
     {
-        "id": "extragallery",
+        "id": "ExtraGallery",
         "name": "Extra Gallery ",
         "version": "1.09",
         "update": "2023.03.20",
@@ -444,19 +444,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
     },
     {
-        "id": "focusreminder",
+        "id": "focusReminder",
         "name": "focusReminder",
         "version": "1.0",
         "update": "2025.02.24",
         "info": "Plugin that reminds the user to return to the page",
         "author": "Multicolor & Slaveous",
         "tags": "tag-content",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-focusReminder",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-focusReminder/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-focusReminder/archive/refs/heads/main.zip"
     },
     {
-        "id": "fileeditor",
+        "id": "nokes_fileeditor",
         "name": "File Editor",
         "version": "1.0.33",
         "update": "2021.06.14",
@@ -468,19 +468,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Editor/archive/refs/heads/main.zip"
     },
     {
-        "id": "filemanagerce",
+        "id": "filemanagerCE",
         "name": "File Manager CE",
         "version": "1.0",
         "update": "2025.02.18",
         "info": "Upload, edit, and manage your files and folders directly, without the need for ftp.",
         "author": "CE Team",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Manager_CE",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Manager_CE/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-File_Manager_CE/archive/refs/heads/main.zip"
     },
     {
-        "id": "formcreator",
+        "id": "formCreator",
         "name": "FormCreator",
         "version": "2.0",
         "update": "2024.09.02",
@@ -492,7 +492,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/2.0.zip"
     },
     {
-        "id": "galleryfolder",
+        "id": "gallery_folder",
         "name": "gallery_folder",
         "version": "1.3",
         "update": "2025.04.02",
@@ -516,19 +516,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/archive/refs/heads/v1.1.zip"
     },
     {
-        "id": "helloworld",
+        "id": "HelloWorld",
         "name": "HelloWorld",
         "version": "1.0",
         "update": "2024.08.09",
         "info": "Starter Plugin for yours next project",
         "author": "GetSimpleCE",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HelloWorld",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HelloWorld/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HelloWorld/archive/refs/heads/main.zip"
     },
     {
-        "id": "hostingspacedetector",
+        "id": "hostingSpace",
         "name": "Hosting Space Detector",
         "version": "1.1",
         "update": "2022.03.20",
@@ -540,7 +540,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Hosting_Space_Detector/archive/refs/heads/main.zip"
     },
     {
-        "id": "i18ncustomfields",
+        "id": "i18n_customfields",
         "name": "I18N Custom Fields",
         "version": "1.9.4",
         "update": "2023.02.01",
@@ -552,7 +552,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-CustomFields/archive/main.zip"
     },
     {
-        "id": "i18ndeeplpagetranslation",
+        "id": "i18n_deepl_translation",
         "name": "i18n DeepL Page Translation",
         "version": "1.0.6",
         "update": "2024.12.21",
@@ -564,7 +564,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n_DeepL_Page_Translation/archive/refs/heads/main.zip"
     },
     {
-        "id": "i18ngallery",
+        "id": "i18n_gallery",
         "name": "I18N Gallery",
         "version": "2.3.0",
         "update": "2023.07.22",
@@ -576,7 +576,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
     },
     {
-        "id": "i18nnavigationi18nbasece",
+        "id": "i18n_base",
         "name": "I18N Navigation & I18N Base (CE)",
         "version": "3.3.2.1",
         "update": "2023.17.20",
@@ -588,7 +588,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n/archive/main.zip"
     },
     {
-        "id": "i18nsearch",
+        "id": "i18n_search",
         "name": "I18N Search",
         "version": "2.13.4",
         "update": "2023.08.03",
@@ -600,7 +600,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search/archive/main.zip"
     },
     {
-        "id": "i18nsearchru",
+        "id": "i18n_search",
         "name": "I18N Search (ru)",
         "version": "9.99",
         "update": "2023.08.03",
@@ -612,7 +612,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Search-r/archive/main.zip"
     },
     {
-        "id": "i18nspecialpagesce",
+        "id": "i18n_specialpages",
         "name": "i18n Special Pages (CE)",
         "version": "1.4.3.1",
         "update": "2023.11.25",
@@ -624,19 +624,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Special-Pages/archive/main.zip"
     },
     {
-        "id": "i18nspecialpagesextras",
+        "id": "SpecialPagesExtras",
         "name": "I18N Special Pages Extras",
         "version": "1.25",
         "update": "2019.02.04",
         "info": "This plugin allows you to add special field types and options like: title label, content label, description fields etc",
         "author": "mganko",
         "tags": "tag-content",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras-/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras/archive/refs/heads/main.zip"
     },
     {
-        "id": "infopop",
+        "id": "info-pop",
         "name": "InfoPop",
         "version": "1.1",
         "update": "2023.04.14",
@@ -648,7 +648,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-infopop/archive/refs/heads/main.zip"
     },
     {
-        "id": "ipblocker",
+        "id": "IPblocker",
         "name": "IPblocker",
         "version": "1.0",
         "update": "2024.09.05",
@@ -660,31 +660,31 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-IPblocker/archive/refs/heads/main.zip"
     },
     {
-        "id": "ktblocklogin",
+        "id": "kt-blocklogin",
         "name": "KT Block Login",
         "version": "2.1",
         "update": "2024.01.29",
         "info": "Block an IP address after 3 failed login attempts from login for 1 hour.",
         "author": "MWK, risingisland",
         "tags": "tag-security",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login/archive/refs/heads/main.zip"
     },
     {
-        "id": "lazyloading",
+        "id": "lazyLoading",
         "name": "LazyLoading",
         "version": "1.0",
         "update": "2020.07.25",
         "info": "Lazy Loading for images in page content",
         "author": "multi",
         "tags": "tag-content",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-LazyLoading",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-LazyLoading/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-LazyLoading/archive/refs/heads/main.zip"
     },
     {
-        "id": "mapcreator",
+        "id": "mapCreator",
         "name": "MapCreator 📍",
         "version": "5.0",
         "update": "2024.08.08",
@@ -696,7 +696,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/5.0.zip"
     },
     {
-        "id": "mapfromgoogle",
+        "id": "mapFromGoogle",
         "name": "mapFromGoogle 📍",
         "version": "1.0",
         "update": "2025.03.19",
@@ -720,19 +720,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.zip"
     },
     {
-        "id": "metarobots",
+        "id": "metaRobots",
         "name": "MetaRobots",
         "version": "1.1",
         "update": "2025.02.09",
         "info": "Choose pages that should not be followed by search engines",
         "author": "Mike Henken",
         "tags": "tag-seo",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MetaRobots",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MetaRobots/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MetaRobots/archive/refs/heads/main.zip"
     },
     {
-        "id": "monstergallery",
+        "id": "monsterGallery",
         "name": "MonsterGallery 👹",
         "version": "4.0",
         "update": "2024.08.08",
@@ -744,7 +744,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.0.zip"
     },
     {
-        "id": "multiblock",
+        "id": "multiBlock",
         "name": "Multiblock 🧱",
         "version": "5.6.1",
         "update": "2025.04.08",
@@ -756,7 +756,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.6.1.zip"
     },
     {
-        "id": "multiblockmigrator",
+        "id": "MultiBlockMigrator",
         "name": "MultiblockMigrator",
         "version": "2.0",
         "update": "2023.01.17",
@@ -768,7 +768,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiblockMigrator/archive/main.zip"
     },
     {
-        "id": "multifield",
+        "id": "multiField",
         "name": "MultiField 🏖️",
         "version": "4.1",
         "update": "2024.09.26",
@@ -780,7 +780,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/4.1.zip"
     },
     {
-        "id": "multimenu",
+        "id": "multiMenu",
         "name": "MultiMenu 🚩",
         "version": "4.0",
         "update": "2025.02.24",
@@ -792,7 +792,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/archive/refs/heads/4.0.zip"
     },
     {
-        "id": "multiuser",
+        "id": "user-managment",
         "name": "Multi User",
         "version": "1.8.2",
         "update": "2023.07.22",
@@ -804,7 +804,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
     },
     {
-        "id": "mysmtpcontact",
+        "id": "my-smtp-contact",
         "name": "My SMTP Contact",
         "version": "1.1.2 (CE)",
         "update": "2024.02.19",
