@@ -48,7 +48,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/archive/refs/heads/main.zip"
     },
     {
-        "id": "auto-openpageoptions",
+        "id": "autoopenpageoptions",
         "name": "Auto-open Page Options",
         "version": "2.0",
         "update": "2023.01.17",
@@ -384,7 +384,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasySearch/archive/refs/heads/main.zip"
     },
     {
-        "id": "easy_contactform",
+        "id": "easycontactform",
         "name": "Easy_ContactForm",
         "version": "5.0",
         "update": "2023.01.12",
@@ -396,7 +396,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easy_contactform/archive/main.zip"
     },
     {
-        "id": "easy_contactform5b",
+        "id": "easycontactformb",
         "name": "Easy_ContactForm",
         "version": "5.0b",
         "update": "2023.11.06",
@@ -492,7 +492,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/2.0.zip"
     },
     {
-        "id": "gallery_folder",
+        "id": "galleryfolder",
         "name": "gallery_folder",
         "version": "1.3",
         "update": "2025.04.02",
@@ -576,7 +576,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-i18n-Gallery/archive/main.zip"
     },
     {
-        "id": "i18nnavigation&i18nbasece",
+        "id": "i18nnavigationi18nbasece",
         "name": "I18N Navigation & I18N Base (CE)",
         "version": "3.3.2.1",
         "update": "2023.17.20",
@@ -864,7 +864,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/archive/refs/heads/master.zip"
     },
     {
-        "id": "newsmanagerauto-openpostoptions",
+        "id": "newsmanagerautoopenpostoptions",
         "name": "News Manager Auto-open Post Options",
         "version": "0.2",
         "update": "2023.08.17",
@@ -876,7 +876,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
     },
     {
-        "id": "non-canonicalto404",
+        "id": "noncanonicalto404",
         "name": "Non-Canonical to 404",
         "version": "1.0",
         "update": "2024.11.25",
@@ -900,7 +900,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-OnePage-Creator/archive/refs/heads/1.2.zip"
     },
     {
-        "id": "p01-contact",
+        "id": "p01contact",
         "name": "p01-contact",
         "version": "1.1.5",
         "update": "2025.01.03",
@@ -1056,7 +1056,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/main.zip"
     },
     {
-        "id": "satoc/anchorsplugin",
+        "id": "satocanchorsplugin",
         "name": "SA Toc / Anchors Plugin ",
         "version": "0.3",
         "update": "2023.05.09",
