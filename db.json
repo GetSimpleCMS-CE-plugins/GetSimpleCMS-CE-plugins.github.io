@@ -1,6 +1,6 @@
 [
     {
-        "id": "accessibilitysidebar",
+        "id": "accessibilitySidebar",
         "name": "Accessibility Sidebar 🗚",
         "version": "1.0.1",
         "update": "2022.12.23",
@@ -12,14 +12,14 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
     },
     {
-        "id": "adminrenamer",
+        "id": "AdminRenamer",
         "name": "AdminRenamer ☔",
         "version": "1.1",
         "update": "2025.01.05",
         "info": "Rename admin panel for better security without gsconfig.",
         "author": "Multicolor",
         "tags": "tag-security",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/1.1.zip"
     },
@@ -31,19 +31,19 @@
         "info": "Real Multilingual for Getsimple. Uniques URLs. Better SEO. Helps dealing with several translated version of one page by allowing you to select equivalent pages in different languages.",
         "author": "JVCMS",
         "tags": "tag-nav tag-langs",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/archive/refs/heads/2.0.4.zip"
     },
     {
-        "id": "autolightbox",
+        "id": "autoLightbox",
         "name": "autoLightbox",
         "version": "1.0",
         "update": "2025.01.13",
         "info": "Automatically adds Lightbox to all images in content areas, gallery plugins not needed.",
         "author": "Multicolor",
         "tags": "tag-gallery",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/archive/refs/heads/main.zip"
     },
@@ -60,7 +60,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
     },
     {
-        "id": "betterseo",
+        "id": "BetterSeo",
         "name": "BetterSEO 🌐",
         "version": "3.1",
         "update": "2025.03.28",
@@ -72,7 +72,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/refs/heads/3.1.zip"
     },
     {
-        "id": "blockcontent",
+        "id": "blockContent",
         "name": "BlockContent 🧊",
         "version": "4.0",
         "update": "2024.01.12",
@@ -84,7 +84,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-blockContent/archive/refs/heads/4.0.zip"
     },
     {
-        "id": "carouselcreator",
+        "id": "carouselCreator",
         "name": "Carousel Creator 🎠",
         "version": "4.0",
         "update": "2023.05.09",
@@ -96,7 +96,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Carousel_Creator/archive/refs/heads/4.0.zip"
     },
     {
-        "id": "ceplugindownloader",
+        "id": "CEdownloader",
         "name": "CE Plugin Downloader 📦",
         "version": "1.0",
         "update": "2022.12.31",
@@ -108,19 +108,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
     },
     {
-        "id": "childmenu",
+        "id": "child_menu",
         "name": "Child Menu",
         "version": "1.9",
         "update": "2025.02.25",
         "info": "Prints parent title, children and siblings titles as a cached menu on parent and child pages.",
         "author": "Erik / CE Team",
         "tags": "tag-nav",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu/archive/refs/heads/main.zip"
     },
     {
-        "id": "companyslider",
+        "id": "companySlider",
         "name": "Company Slider 🏢",
         "version": "1.1",
         "update": "2023.04.20",
@@ -132,16 +132,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
     },
     {
-        "id": "cookiesplugin",
-        "name": "Cookies plugin",
+        "id": "cbcookies",
+        "name": "CB Cookies",
         "version": "1.3.1",
         "update": "2016.04.25",
         "info": "The plugin writes a message in the page of the web for to accept cookies.",
         "author": "cumbe",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cookies-plugin-",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CB_Cookies/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cookies-plugin-/archive/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CB_Cookies/archive/refs/heads/main.zip"
     },
     {
         "id": "cookieMonster",
@@ -156,7 +156,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-cookieMonster/archive/refs/heads/main.zip"
     },
     {
-        "id": "createstatichtml",
+        "id": "Create_Static_HTML",
         "name": "Create Static HTML 📑",
         "version": "1.0",
         "update": "2024.06.14",
@@ -180,7 +180,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/3.2.zip"
     },
     {
-        "id": "currentevents24h",
+        "id": "current-events",
         "name": "Current Events (24h) 📅",
         "version": "3.2",
         "update": "2023.11.30",
@@ -192,31 +192,31 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/3.2---24-hours-edit.zip"
     },
     {
-        "id": "customcss",
+        "id": "CustomCSSPlugin",
         "name": "Custom CSS",
         "version": "0.1.3",
         "update": "2025.02.10",
         "info": "Add custom CSS to your theme",
         "author": "Bokor / CE Team",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_CSS",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_CSS/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_CSS/archive/refs/heads/main.zip"
     },
     {
-        "id": "customjs",
+        "id": "CustomJSPlugin",
         "name": "Custom JS",
         "version": "0.2",
         "update": "2025.02.10",
         "info": "Add custom JavaScript to footer of theme",
         "author": "Bokor / CE Team",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_JS",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_JS/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_JS/archive/refs/heads/main.zip"
     },
     {
-        "id": "customtitle",
+        "id": "custom_title",
         "name": "Custom Title",
         "version": "1.5",
         "update": "2022.12.30",
@@ -228,19 +228,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
     },
     {
-        "id": "debugce",
+        "id": "debugCE",
         "name": "debugCE 🐛",
         "version": "1.0",
         "update": "2024.06.25",
         "info": "Turn On & Off DEBUG MODE without editing gsConfig.",
         "author": "risingisland",
         "tags": "tag-admin",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE/archive/refs/heads/main.zip"
     },
     {
-        "id": "displayerrorslog",
+        "id": "displayerror",
         "name": "Display errors log",
         "version": "1.0",
         "update": "2024.01.08",
@@ -264,19 +264,19 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DynPages/archive/refs/heads/main.zip"
     },
     {
-        "id": "dybreadcrumbs",
+        "id": "DY_Breadcrumbs",
         "name": "DY Breadcrumbs",
         "version": "1.5",
         "update": "2024.06.24",
         "info": "Breadcrumbs navigation for web-site",
         "author": "Dmitry Yakovlev",
         "tags": "tag-nav",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Breadcrumbs/archive/refs/heads/main.zip"
     },
     {
-        "id": "dymaintenance",
+        "id": "DY_Maintenance",
         "name": "DY Maintenance",
         "version": "1.0",
         "update": "2024.01.08",
@@ -288,7 +288,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_Maintenance/archive/refs/heads/main.zip"
     },
     {
-        "id": "dywebsitecustomfields",
+        "id": "DY_WebsiteCustomFields",
         "name": "DY Website Custom Fields",
         "version": "1.0",
         "update": "2022.12.12",
@@ -300,31 +300,31 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DY_WebsiteCustomFields/archive/main.zip"
     },
     {
-        "id": "easycomments",
+        "id": "easyComments",
         "name": "EasyComments",
         "version": "2.0",
         "update": "2024.08.08",
         "info": "Easy Comments system for everyone for normal page and NewsManager!",
         "author": "multicolor",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyComments",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyComments/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyComments/archive/refs/heads/2.0.zip"
     },
     {
-        "id": "easysocialbar",
+        "id": "easySocialBar",
         "name": "Easy Social Bar",
         "version": "1.0",
         "update": "2024.12.03",
         "info": "Easy to use social Link sidebar",
         "author": "multicolor",
         "tags": "tag-social",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easySocialBar/archive/refs/heads/main.zip"
     },
     {
-        "id": "easycontactbutton",
+        "id": "EasyContactButton",
         "name": "EasyContactButton 🛎️",
         "version": "1.4",
         "update": "2023.02.10",
