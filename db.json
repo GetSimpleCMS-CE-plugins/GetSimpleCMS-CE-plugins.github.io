@@ -828,7 +828,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/master.zip"
     },
     {
-        "id": "newsmanagerupdated",
+        "id": "news_manager",
         "name": "News Manager Updated",
         "version": "3.6.1",
         "update": "2022.12.17",
@@ -840,7 +840,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
     },
     {
-        "id": "newsmanagerbeta",
+        "id": "news_manager",
         "name": "News Manager Beta",
         "version": "3.7 beta 2",
         "update": "2022.02.01",
@@ -852,7 +852,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager-beta/archive/refs/heads/master.zip"
     },
     {
-        "id": "newsmanageraddons",
+        "id": "news_manager_addons",
         "name": "News Manager Addons",
         "version": "0.9.5.1",
         "update": "2022.10.02",
@@ -864,7 +864,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Addons/archive/refs/heads/master.zip"
     },
     {
-        "id": "newsmanagerautoopenpostoptions",
+        "id": "news_manager_auto_open",
         "name": "News Manager Auto-open Post Options",
         "version": "0.2",
         "update": "2023.08.17",
@@ -876,7 +876,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
     },
     {
-        "id": "noncanonicalto404",
+        "id": "Non_Canonical_to_404",
         "name": "Non-Canonical to 404",
         "version": "1.0",
         "update": "2024.11.25",
@@ -888,7 +888,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Non_Canonical_to_404/archive/refs/heads/main.zip"
     },
     {
-        "id": "onepagecreator",
+        "id": "onePageCreator",
         "name": "OnePage Creator",
         "version": "1.2",
         "update": "2024.08.02",
@@ -900,7 +900,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-OnePage-Creator/archive/refs/heads/1.2.zip"
     },
     {
-        "id": "p01contact",
+        "id": "p01-contact_gs",
         "name": "p01-contact",
         "version": "1.1.5",
         "update": "2025.01.03",
@@ -912,7 +912,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-p01-contact/archive/refs/heads/main.zip"
     },
     {
-        "id": "pagesaccess",
+        "id": "pages_access",
         "name": "Pages Access",
         "version": "1.0.8",
         "update": "2023.01.12",
@@ -924,7 +924,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pages-access/archive/refs/heads/master.zip"
     },
     {
-        "id": "pagelock",
+        "id": "PageLock",
         "name": "Page Lock",
         "version": "1.21",
         "update": "2023.01.12",
@@ -948,7 +948,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Pagify/archive/refs/heads/main.zip"
     },
     {
-        "id": "passwordprotect",
+        "id": "password_protect",
         "name": "Password Protect",
         "version": "1.0.0",
         "update": "2023.07.22",
@@ -960,7 +960,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-password_protect/archive/main.zip"
     },
     {
-        "id": "photograbber",
+        "id": "photoGrabber",
         "name": "PhotoGrabber 📷",
         "version": "1.2",
         "update": "2023.04.21",
@@ -972,7 +972,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-photoGrabber/archive/refs/heads/1.2.zip"
     },
     {
-        "id": "pluginmanager",
+        "id": "pluginManager",
         "name": "pluginManager 🔌",
         "version": "1.0",
         "update": "2023.13.12",
@@ -984,7 +984,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
     },
     {
-        "id": "popupplugin",
+        "id": "popup_plugin",
         "name": "Popup Plugin 🎈",
         "version": "2.1",
         "update": "2023.04.26",
@@ -1003,12 +1003,12 @@
         "info": "Makes pubDate field fixed and editable (with date/time picker), adds lastUpdate field",
         "author": "Carlos Navarro",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PubDate_Fix/archive/refs/heads/main.zip"
     },
     {
-        "id": "randomcontent",
+        "id": "RandomContent",
         "name": "Random Content",
         "version": "1.1b",
         "update": "2024.03.16",
@@ -1020,7 +1020,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Random_Content/archive/refs/heads/main.zip"
     },
     {
-        "id": "readtime",
+        "id": "readTime",
         "name": "Read Time ⏲️",
         "version": "2.2",
         "update": "2023.04.21",
@@ -1044,7 +1044,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Redirect/archive/refs/heads/main.zip"
     },
     {
-        "id": "regeneratethumbnails",
+        "id": "regenerate_thumbnails",
         "name": "Regenerate Thumbnails",
         "version": "1.2",
         "update": "2024.11.14",
@@ -1056,7 +1056,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/main.zip"
     },
     {
-        "id": "satocanchorsplugin",
+        "id": "sa_toc_anchors",
         "name": "SA Toc / Anchors Plugin ",
         "version": "0.3",
         "update": "2023.05.09",
@@ -1068,7 +1068,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SA-Toc-Anchors-Plugin/archive/refs/heads/main.zip"
     },
     {
-        "id": "safeemail",
+        "id": "SafeEmail",
         "name": "Safe Email 📧",
         "version": "1.0",
         "update": "2023.09.08",
@@ -1092,7 +1092,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Scrollup/archive/main.zip"
     },
     {
-        "id": "seogpt",
+        "id": "seoGPT",
         "name": "SEOGPT 🤖",
         "version": "1.2",
         "update": "2024.02.26",
@@ -1123,12 +1123,12 @@
         "info": "Lightweight, stylish, and ethical share buttons for popular social networks.",
         "author": "risingisland",
         "tags": "tag-social  tag-rec",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/archive/refs/heads/main.zip"
     },
     {
-        "id": "simpleblog",
+        "id": "simpleBlog",
         "name": "SimpleBlog",
         "version": "1.0",
         "update": "2025.04.03",
@@ -1140,7 +1140,7 @@
         "url": "https://ko-fi.com/s/e03bbbfedf"
     },
     {
-        "id": "simpleinputtabs",
+        "id": "simple_input_tabs",
         "name": "Simple Input Tabs",
         "version": "2.6",
         "update": "2022.12.18",
@@ -1152,38 +1152,38 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Input_Tabs/archive/main.zip"
     },
     {
-        "id": "sitedata",
+        "id": "siteData",
         "name": "SiteData",
         "version": "2.2",
         "update": "2025.02.05",
         "info": "Add custom easy to update fields in your site templates, like Phone Number, Email Address, Business Hours, etc.",
         "author": "Multicolor",
         "tags": "tag-content tag-rec",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteData/archive/refs/heads/2.2.zip"
     },
     {
-        "id": "sitefx",
+        "id": "siteFX",
         "name": "siteFX",
         "version": "1.0",
         "update": "2025.01.29",
         "info": "Festivus for the rest of us. Add some special occasion or holiday decor to your site.",
         "author": "risingisland",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/archive/refs/heads/main.zip"
     },
     {
-        "id": "thememanagerce",
+        "id": "thememanagerCE",
         "name": "Theme Manager CE",
         "version": "1.0",
         "update": "2025.02.18",
         "info": "Upload, edit, and manage your themes files and folders directly, without the need for ftp.",
         "author": "CE Team",
         "tags": "tag-gsce",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/archive/refs/heads/main.zip"
     },
@@ -1212,7 +1212,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Uploadcare/archive/refs/heads/1.1.zip"
     },
     {
-        "id": "uploaderext",
+        "id": "uploaderExt",
         "name": "uploaderExt",
         "version": "3.1",
         "update": "2023.04.04",
@@ -1231,12 +1231,12 @@
         "info": "Update your current install to the latest version from within the admin.",
         "author": "risingisland",
         "tags": "tag-admin tag-gsce",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/1.1.zip"
     },
     {
-        "id": "uploadplugin&themes",
+        "id": "Upload-Plugin",
         "name": "Upload Plugin & Themes",
         "version": "1.0",
         "update": "2023.01.12",
@@ -1248,7 +1248,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
     },
     {
-        "id": "uriredirectplus",
+        "id": "uri_redirect_plus",
         "name": "URI Redirect Plus",
         "version": "0.2.4",
         "update": "2024.01.19",
@@ -1260,7 +1260,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/archive/refs/heads/master.zip"
     },
     {
-        "id": "wjnotepad",
+        "id": "wj_notepad",
         "name": "WJ Notepad",
         "version": "1.1",
         "update": "2024.12.27",
