@@ -710,14 +710,14 @@
     {
         "id": "massiveAdmin",
         "name": "Massive Admin Theme 🦸‍♂️",
-        "version": "6.0.1",
-        "update": "2025.04.11",
+        "version": "6.0.2",
+        "update": "2025.04.14",
         "info": "Admin theme with new function",
         "author": "Multicolor",
         "tags": "tag-admin  tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.2.zip"
     },
     {
         "id": "metaRobots",
