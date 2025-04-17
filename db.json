@@ -240,6 +240,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-debugCE/archive/refs/heads/main.zip"
     },
     {
+        "id": "DevSheets",
+        "name": "Dev Sheets",
+        "version": "1.0",
+        "update": "2025.04.17",
+        "info": "Cheat Sheets for devs. Small list of common placeholders and other miscellaneous code snippets and tools.",
+        "author": "risingisland",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DevSheets",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DevSheets/archive/refs/heads/main.zip"
+    },
+    {
         "id": "displayerror",
         "name": "Display errors log",
         "version": "1.0",
