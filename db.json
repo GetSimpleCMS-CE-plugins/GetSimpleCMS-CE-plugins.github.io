@@ -60,6 +60,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
     },
     {
+        "id": "backup2zip",
+        "name": "Backup2zip",
+        "version": "1.2",
+        "update": "2025.05.01",
+        "info": "Create a full site backup with all files and folders.",
+        "author": "risingisland",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Backup2zip/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Backup2zip/archive/refs/heads/main.zip"
+    },
+    {
         "id": "BetterSeo",
         "name": "BetterSEO 🌐",
         "version": "3.1",
