@@ -1104,6 +1104,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SafeEmail/archive/refs/heads/main.zip"
     },
     {
+        "id": "script-injector",
+        "name": "Script Injector",
+        "version": "0.3",
+        "update": "2025.05.04",
+        "info": "Place multiple Javascript or any other raw html code inside the body of the page.",
+        "author": "J Pretorius / CE Team",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Script_Injector/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Script_Injector/archive/refs/heads/main.zip"
+    },
+    {
         "id": "scrollup",
         "name": "Scrollup",
         "version": "2.0",
