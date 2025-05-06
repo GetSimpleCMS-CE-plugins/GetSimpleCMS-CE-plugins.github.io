@@ -156,6 +156,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
     },
     {
+        "id": "components-wysywig",
+        "name": "Components Wysywig",
+        "version": "1.2",
+        "update": "2025.05.06",
+        "info": "Adds ckEditor to Components textarea",
+        "author": "Multicolor",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Components_Wysywig/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Components_Wysywig/archive/refs/heads/main.zip"
+    },
+    {
         "id": "cookieMonster",
         "name": "Cookie Monster 🍪",
         "version": "1.0",
