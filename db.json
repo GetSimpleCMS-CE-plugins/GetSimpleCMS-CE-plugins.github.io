@@ -156,6 +156,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
     },
     {
+        "id": "compareSlider",
+        "name": "CompareSlider",
+        "version": "1.0",
+        "update": "2025.05.07",
+        "info": "A plugin for creating image comparison sliders (sqlite3 required)",
+        "author": "Multicolor",
+        "tags": "tag-gallery",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-compareSlider/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-compareSlider/archive/refs/heads/main.zip"
+    },
+    {
         "id": "components-wysywig",
         "name": "Components Wysywig",
         "version": "1.2",
