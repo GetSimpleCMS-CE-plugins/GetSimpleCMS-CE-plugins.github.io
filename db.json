@@ -840,18 +840,6 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-multiMenu/archive/refs/heads/4.0.zip"
     },
     {
-        "id": "myReviews",
-        "name": "myReviews",
-        "version": "1.0",
-        "update": "2025.05.14",
-        "info": "Display reviews from different platforms, no API is needed. (based on sqlite3)",
-        "author": "multicolor",
-        "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/",
-        "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/archive/refs/heads/main.zip"
-    },
-    {
         "id": "user-managment",
         "name": "Multi User",
         "version": "1.8.2",
@@ -862,6 +850,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Multi-User/archive/main.zip"
+    },
+    {
+        "id": "myReviews",
+        "name": "myReviews",
+        "version": "1.0",
+        "update": "2025.05.14",
+        "info": "Display reviews from different platforms, no API is needed. (based on sqlite3)",
+        "author": "multicolor",
+        "tags": "tag-social",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/archive/refs/heads/main.zip"
     },
     {
         "id": "my-smtp-contact",
