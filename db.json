@@ -1207,7 +1207,7 @@
         "info": "SimpleBlog for Simple CMS! Based on Sqlite3",
         "author": "Multicolor",
         "tags": "tag-content tag-blog",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/blob/main/readme.md",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/archive/refs/heads/2.0.zip"
     },
