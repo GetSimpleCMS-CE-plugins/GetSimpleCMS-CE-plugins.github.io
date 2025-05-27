@@ -540,6 +540,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-formCreator/archive/refs/heads/2.0.zip"
     },
     {
+        "id": "frontEditor",
+        "name": "frontEditor",
+        "version": "1.0",
+        "update": "2025.05.27",
+        "info": "Frontend Editor based on tinyMCE and Bootstrap",
+        "author": "Multicolor",
+        "tags": "tag-content",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-frontEditor",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-frontEditor/archive/refs/heads/main.zip"
+    },
+    {
         "id": "gallery_folder",
         "name": "gallery_folder",
         "version": "1.3",
