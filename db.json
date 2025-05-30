@@ -806,14 +806,14 @@
     {
         "id": "multiBlock",
         "name": "Multiblock 🧱",
-        "version": "5.6.1",
-        "update": "2025.04.08",
+        "version": "5.6.2",
+        "update": "2025.05.30",
         "info": "Create category blocks from templates and custom fields. (Catalogue, product listing, services, team, food menu, etc.)",
         "author": "multicolor",
         "tags": "tag-content",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.6.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiBlock/archive/refs/heads/5.6.2.zip"
     },
     {
         "id": "MultiBlockMigrator",
