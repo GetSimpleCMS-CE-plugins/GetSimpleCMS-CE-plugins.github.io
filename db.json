@@ -1354,5 +1354,17 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-WJ_Notepad/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-WJ_Notepad/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "XML_components",
+        "name": "XML Components",
+        "version": "1.0",
+        "update": "2025.06.06",
+        "info": "Custom XML components for Your templates. ",
+        "author": "Nonix",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components/archive/refs/heads/main.zip"
     }
 ]
