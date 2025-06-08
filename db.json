@@ -1212,6 +1212,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-ShareOn/archive/refs/heads/main.zip"
     },
     {
+        "id": "ShortCodes",
+        "name": "Short-Codes",
+        "version": "1.0",
+        "update": "2025.06.08",
+        "info": "Allows theme_functions to be used in Page main content area.",
+        "author": "CE Team",
+        "tags": "tag-content",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/archive/refs/heads/main.zip"
+    },
+    {
         "id": "simpleBlog",
         "name": "SimpleBlog",
         "version": "2.1",
