@@ -1214,7 +1214,7 @@
     {
         "id": "ShortCodes",
         "name": "Short-Codes",
-        "version": "2.5",
+        "version": "3.0",
         "update": "2025.06.17",
         "info": "Allows theme_functions and Components to be used in Page main content area.",
         "author": "CE Team",
