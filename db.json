@@ -1214,14 +1214,14 @@
     {
         "id": "ShortCodes",
         "name": "Short-Codes",
-        "version": "1.0",
-        "update": "2025.06.08",
-        "info": "Allows theme_functions to be used in Page main content area.",
+        "version": "2.0",
+        "update": "2025.06.17",
+        "info": "Allows theme_functions and Components to be used in Page main content area.",
         "author": "CE Team",
         "tags": "tag-content",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Short-Codes/archive/refs/heads/2.0.zip"
     },
     {
         "id": "simpleBlog",
