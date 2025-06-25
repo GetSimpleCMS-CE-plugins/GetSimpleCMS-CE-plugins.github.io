@@ -1272,6 +1272,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/archive/refs/heads/main.zip"
     },
     {
+        "id": "ThemeEngine",
+        "name": "ThemeEngine",
+        "version": "1.0",
+        "update": "2025.06.25",
+        "info": "Field settings for your themes. (based on sqlite3)",
+        "author": "CE Team",
+        "tags": "tag-content",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-themeEngine/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-themeEngine/archive/refs/heads/main.zip"
+    },
+    {
         "id": "thememanagerCE",
         "name": "Theme Manager CE",
         "version": "1.0",
