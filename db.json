@@ -74,14 +74,14 @@
     {
         "id": "BetterSeo",
         "name": "BetterSEO 🌐",
-        "version": "3.1",
-        "update": "2025.03.28",
+        "version": "3.2",
+        "update": "2025.07.17",
         "info": "Make Get Simple CMS SEO better!",
         "author": "Multicolor",
         "tags": "tag-seo tag-rec",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/refs/heads/3.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/refs/heads/3.2.zip"
     },
     {
         "id": "blockContent",
