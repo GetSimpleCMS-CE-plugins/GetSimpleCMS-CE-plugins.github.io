@@ -24,6 +24,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AdminRenamer/archive/refs/heads/1.1.zip"
     },
     {
+        "id": "AllinOneAccessibility",
+        "name": "All in One Accessibility®",
+        "version": "1.0",
+        "update": "2025.09.12",
+        "info": "Enhance Your Website's Accessibility with All in One Accessibility®",
+        "author": "Skynet Technologies",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-All_in_One_Accessibility",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-All_in_One_Accessibility/archive/refs/heads/main.zip"
+    },
+    {
         "id": "alterlang",
         "name": "AlterLang",
         "version": "2.0.4",
