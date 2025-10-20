@@ -158,14 +158,14 @@
     {
         "id": "companySlider",
         "name": "Company Slider 🏢",
-        "version": "1.1",
-        "update": "2023.04.20",
+        "version": "1.2",
+        "update": "2025.10.20",
         "info": "If you want to show the partners' logo in an effective way...",
         "author": "Multicolor",
         "tags": "tag-gallery",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CompanySlider/archive/refs/heads/1.2.zip"
     },
     {
         "id": "compareSlider",
@@ -1346,14 +1346,14 @@
     {
         "id": "uploaderExt",
         "name": "uploaderExt",
-        "version": "3.1",
-        "update": "2023.04.04",
-        "info": "Upload with compress photo and convert to webp",
+        "version": "3.2",
+        "update": "2025.10.20",
+        "info": "Resize or convert image to webp on Upload.",
         "author": "multicolor",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.2.zip"
     },
     {
         "id": "UpdateCE",
