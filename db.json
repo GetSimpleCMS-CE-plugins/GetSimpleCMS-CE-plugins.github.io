@@ -581,11 +581,23 @@
         "version": "1.0",
         "update": "2025.07.24",
         "info": "Preserves raw backslashes (\\) in content",
-        "author": "Team CE",
+        "author": "CE Team",
         "tags": "tag-content",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-BS/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-BS/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-BS/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "GS-Hide-Tabs",
+        "name": "GS Hide Tabs",
+        "version": "1.0",
+        "update": "2025.11.22",
+        "info": "Hide admin navigation tabs or sidebar elements per user.",
+        "author": "CE Team",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/archive/refs/heads/main.zip"
     },
     {
         "id": "harmony",
