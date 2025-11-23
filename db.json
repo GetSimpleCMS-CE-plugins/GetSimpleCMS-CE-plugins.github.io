@@ -866,8 +866,8 @@
     {
         "id": "multiField",
         "name": "MultiField 🏖️",
-        "version": "4.1",
-        "update": "2024.09.26",
+        "version": "4.2",
+        "update": "2024.11.23",
         "info": "Creator for Custom Fields for concrete page",
         "author": "multicolor",
         "tags": "tag-content  tag-rec",
