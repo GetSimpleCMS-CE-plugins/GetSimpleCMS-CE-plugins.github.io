@@ -1427,4 +1427,17 @@
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components/archive/refs/heads/main.zip"
     }
+
+    ,{
+        "id": "Headless_CMS",
+        "name": "Headless CMS API",
+        "version": "1.0",
+        "update": "2025.11.24",
+        "info": "REST API endpoint for using GetSimple as Headless CMS with SimpleBlog support",
+        "author": "multicolor",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI/archive/refs/heads/main.zip"
+    }
 ]
