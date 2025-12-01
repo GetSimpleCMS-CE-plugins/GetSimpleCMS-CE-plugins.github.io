@@ -612,6 +612,30 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-harmony/archive/refs/heads/v1.1.zip"
     },
     {
+        "id": "Headless_CMS",
+        "name": "Headless CMS API",
+        "version": "1.0",
+        "update": "2025.11.24",
+        "info": "REST API endpoint for using GetSimple as Headless CMS with SimpleBlog support",
+        "author": "multicolor",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "hitcount",
+        "name": "HitCount",
+        "version": "2.2.1",
+        "update": "2025.12.01",
+        "info": "Counts page hits and visitors",
+        "author": "Martin Vlcek",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HitCount/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HitCount/archive/refs/heads/main.zip"
+    },
+    {
         "id": "HelloWorld",
         "name": "HelloWorld",
         "version": "1.0",
@@ -1426,18 +1450,5 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-xml-components/archive/refs/heads/main.zip"
-    }
-
-    ,{
-        "id": "Headless_CMS",
-        "name": "Headless CMS API",
-        "version": "1.0",
-        "update": "2025.11.24",
-        "info": "REST API endpoint for using GetSimple as Headless CMS with SimpleBlog support",
-        "author": "multicolor",
-        "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI",
-        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-HeadlessCMSAPI/archive/refs/heads/main.zip"
     }
 ]
