@@ -156,6 +156,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Child_Menu/archive/refs/heads/main.zip"
     },
     {
+        "id": "Cleanup",
+        "name": "Plugin Cleanup",
+        "version": "2.1",
+        "update": "2025.12.03",
+        "info": "Find and safely delete inactive plugins with all their files and orphaned data",
+        "author": "Fahad4x4",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cleanup/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cleanup/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Cleanup/archive/refs/heads/2.1.zip"
+    },
+    {
         "id": "companySlider",
         "name": "Company Slider 🏢",
         "version": "1.2",
