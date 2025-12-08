@@ -604,7 +604,7 @@
         "name": "GS TinyMCE",
         "version": "1.0",
         "update": "2025.12.08",
-        "info": "Replace Pages CKEditor with TinyMCE.",
+        "info": "Replace Pages CKEditor 4 with TinyMCE 6.",
         "author": "CE Team",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE",
