@@ -600,16 +600,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-BS/archive/refs/heads/main.zip"
     },
     {
-        "id": "GS-Hide-Tabs",
-        "name": "GS Hide Tabs",
+        "id": "GS-TinyMCE",
+        "name": "GS TinyMCE",
         "version": "1.0",
-        "update": "2025.11.22",
-        "info": "Hide admin navigation tabs or sidebar elements per user.",
+        "update": "2025.12.08",
+        "info": "Replace Pages CKEditor with TinyMCE.",
         "author": "CE Team",
         "tags": "tag-admin",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs",
-        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/archive/refs/heads/main.zip"
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE/archive/refs/heads/main.zip"
     },
     {
         "id": "harmony",
