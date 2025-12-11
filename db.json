@@ -50,14 +50,14 @@
     {
         "id": "autoLightbox",
         "name": "autoLightbox",
-        "version": "1.0",
-        "update": "2025.01.13",
+        "version": "2.0",
+        "update": "2025.12.11",
         "info": "Automatically adds Lightbox to all images in content areas, gallery plugins not needed.",
-        "author": "Multicolor",
+        "author": "CE Team",
         "tags": "tag-gallery",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-autoLightbox/archive/refs/heads/2.0.zip"
     },
     {
         "id": "pageoptions_auto_open",
