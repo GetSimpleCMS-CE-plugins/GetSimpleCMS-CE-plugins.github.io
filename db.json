@@ -1392,6 +1392,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Translate/archive/refs/heads/main.zip"
     },
     {
+        "id": "twig-integration",
+        "name": "Twig Integration",
+        "version": "1.0",
+        "update": "2025.12.12",
+        "info": "Adds Twig template engine support to GetSimple CMS",
+        "author": "multicolor",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Twig_Integration",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Twig_Integration/archive/refs/heads/main.zip"
+    },
+    {
         "id": "uploadcare",
         "name": "Uploadcare",
         "version": "1.1",
