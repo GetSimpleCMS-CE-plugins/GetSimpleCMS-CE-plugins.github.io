@@ -614,14 +614,14 @@
     {
         "id": "GS-TinyMCE",
         "name": "GS TinyMCE",
-        "version": "1.1",
-        "update": "2025.12.12",
+        "version": "1.2",
+        "update": "2025.12.15",
         "info": "Replace Pages CKEditor 4 with TinyMCE 6.",
         "author": "CE Team",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE/archive/refs/heads/1.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS-TinyMCE/archive/refs/heads/1.2.zip"
     },
     {
         "id": "harmony",
