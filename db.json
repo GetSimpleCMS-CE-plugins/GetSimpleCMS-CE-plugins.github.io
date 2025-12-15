@@ -1236,6 +1236,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SafeEmail/archive/refs/heads/main.zip"
     },
     {
+        "id": "seomaster",
+        "name": "SEO Master",
+        "version": "1.0",
+        "update": "2025.12.15",
+        "info": "Complete SEO analysis with live editor scoring.",
+        "author": "multicolor",
+        "tags": "tag-seo",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SEO_Master",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SEO_Master/archive/refs/heads/main.zip"
+    },
+    {
         "id": "script-injector",
         "name": "Script Injector",
         "version": "0.3",
