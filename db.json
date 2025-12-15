@@ -602,7 +602,7 @@
     {
         "id": "GS-Hide-Tabs",
         "name": "GS Hide Tabs",
-        "version": "1.10",
+        "version": "1.1",
         "update": "2025.12.12",
         "info": "Hide admin navigation tabs or sidebar elements per user.",
         "author": "CE Team",
