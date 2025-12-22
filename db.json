@@ -612,6 +612,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-gallery_folder-edit-by-vixo/archive/refs/heads/main.zip"
     },
     {
+        "id": "googlefonts",
+        "name": "Google Fonts Selector",
+        "version": "1.0",
+        "update": "2025.12.22",
+        "info": "Select Google Fonts for your theme",
+        "author": "Multicolor",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Fonts_Selector",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Fonts_Selector/archive/refs/heads/main.zip"
+    },
+    {
         "id": "GS-BS",
         "name": "GS-BS",
         "version": "1.0",
