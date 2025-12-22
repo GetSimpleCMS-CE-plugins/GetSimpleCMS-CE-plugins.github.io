@@ -528,6 +528,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FBsidebar/archive/refs/heads/2.1.zip"
     },
     {
+        "id": "Festivus",
+        "name": "Festivus",
+        "version": "1.0",
+        "update": "2025.12.22",
+        "info": "Add some holiday decor to your site.",
+        "author": "CE Team",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Festivus",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Festivus/archive/refs/heads/main.zip"
+    },
+    {
         "id": "focusReminder",
         "name": "focusReminder",
         "version": "1.0",
