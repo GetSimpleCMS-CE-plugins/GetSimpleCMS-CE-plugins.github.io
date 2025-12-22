@@ -1394,9 +1394,9 @@
     {
         "id": "siteFX",
         "name": "siteFX",
-        "version": "1.0",
-        "update": "2025.01.29",
-        "info": "Festivus for the rest of us. Add some special occasion or holiday decor to your site.",
+        "version": "1.1",
+        "update": "2025.12.22",
+        "info": "Add some special occasion or holiday decor to your site.",
         "author": "risingisland",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/",
