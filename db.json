@@ -986,14 +986,14 @@
     {
         "id": "myReviews",
         "name": "myReviews",
-        "version": "1.0",
-        "update": "2025.05.14",
+        "version": "2.0",
+        "update": "2025.01.12",
         "info": "Display reviews from different platforms, no API is needed. (based on sqlite3)",
         "author": "multicolor",
         "tags": "tag-social",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-myReviews/archive/refs/heads/2.0.zip"
     },
     {
         "id": "my-smtp-contact",
