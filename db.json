@@ -1170,7 +1170,7 @@
         "update": "2026.01.18",
         "info": "Play animated GIFs on hover or click.",
         "author": "risingisland",
-        "tags": "",
+        "tags": "tag-gallery",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PlayGIF/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PlayGIF/archive/refs/heads/main.zip"
