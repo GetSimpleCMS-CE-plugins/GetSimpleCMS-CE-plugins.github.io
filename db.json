@@ -1164,6 +1164,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-photoGrabber/archive/refs/heads/1.2.zip"
     },
     {
+        "id": "PlayGIF",
+        "name": "PlayGIF",
+        "version": "1.0",
+        "update": "2026.01.18",
+        "info": "Play animated GIFs on hover or click.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PlayGIF/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PlayGIF/archive/refs/heads/main.zip"
+    },
+    {
         "id": "pluginManager",
         "name": "pluginManager 🔌",
         "version": "1.0",
