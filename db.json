@@ -950,14 +950,14 @@
     {
         "id": "multiField",
         "name": "MultiField 🏖️",
-        "version": "4.4",
-        "update": "2026.01.24",
+        "version": "4.5",
+        "update": "2026.01.29",
         "info": "Creator for Custom Fields for concrete page",
         "author": "multicolor",
         "tags": "tag-content  tag-rec",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/4.4.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MultiField/archive/refs/heads/4.5.zip"
     },
     {
         "id": "multiMenu",
