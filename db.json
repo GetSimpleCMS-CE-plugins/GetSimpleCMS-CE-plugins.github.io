@@ -288,6 +288,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_JS/archive/refs/heads/main.zip"
     },
     {
+        "id": "custom_shortcodes",
+        "name": "Custom Shortcodes",
+        "version": "1.0",
+        "update": "2026.01.29",
+        "info": "Create and manage custom shortcodes with parameters.",
+        "author": "multicolor",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_Shortcodes/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom_Shortcodes/archive/refs/heads/main.zip"
+    },
+    {
         "id": "custom_title",
         "name": "Custom Title",
         "version": "1.5",
@@ -1126,6 +1138,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-PageLock/archive/refs/heads/master.zip"
+    },
+    {
+        "id": "page_templates",
+        "name": "Page Templates",
+        "version": "1.0",
+        "update": "2026.01.29",
+        "info": "Create custom page templates with predefined content structure.",
+        "author": "multicolor",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Page_Templates/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Page_Templates/archive/refs/heads/main.zip"
     },
     {
         "id": "pagify",
