@@ -348,6 +348,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Display_errors_log/archive/refs/heads/main.zip"
     },
     {
+        "id": "DisplayOnDate",
+        "name": "Display On Date",
+        "version": "1.0",
+        "update": "2026.02.04",
+        "info": "Schedule content blocks to display during specified dates using shortcodes or PHP calls.",
+        "author": "risingisland",
+        "tags": "tag-content",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DisplayOnDate/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DisplayOnDate/archive/refs/heads/main.zip"
+    },
+    {
         "id": "dynpages",
         "name": "DynPages",
         "version": "0.7.2",
@@ -1438,6 +1450,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "theme-customizer",
+        "name": "Theme Customizer",
+        "version": "1.0.0",
+        "update": "2026.02.04",
+        "info": "Advanced template settings manager with WordPress-like Customizer API",
+        "author": "Multicolor",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Customizer/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Customizer/archive/refs/heads/main.zip"
     },
     {
         "id": "ThemeEngine",
