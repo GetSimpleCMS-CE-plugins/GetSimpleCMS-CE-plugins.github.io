@@ -938,14 +938,14 @@
     {
         "id": "monsterGallery",
         "name": "MonsterGallery 👹",
-        "version": "4.1",
+        "version": "4.2",
         "update": "2026.02.11",
         "info": "The Gallery plugin you will love to use!",
         "author": "multicolor",
         "tags": "tag-gallery tag-rec",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.2.zip"
     },
     {
         "id": "multiBlock",
