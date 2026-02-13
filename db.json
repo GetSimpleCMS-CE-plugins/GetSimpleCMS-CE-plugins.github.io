@@ -662,14 +662,14 @@
     {
         "id": "GS-Hide-Tabs",
         "name": "GS Hide Tabs",
-        "version": "1.2",
-        "update": "2026.02.11",
-        "info": "Hide admin navigation tabs or sidebar elements per user.",
-        "author": "CE Team",
+        "version": "2.0",
+        "update": "2026.02.13",
+        "info": "Hide admin navigation tabs and elements or modify their CSS properties per user.",
+        "author": "risingisland",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/archive/refs/heads/1.2.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/archive/refs/heads/2.0.zip"
     },
     {
         "id": "GS-TinyMCE",
