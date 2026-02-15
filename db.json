@@ -1526,14 +1526,14 @@
     {
         "id": "uploaderExt",
         "name": "uploaderExt",
-        "version": "3.2",
-        "update": "2025.10.20",
+        "version": "3.3",
+        "update": "2026.02.15",
         "info": "Resize or convert image to webp on Upload.",
         "author": "multicolor",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.2.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UploaderExt/archive/refs/heads/3.3.zip"
     },
     {
         "id": "UpdateCE",
