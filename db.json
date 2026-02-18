@@ -914,14 +914,14 @@
     {
         "id": "massiveAdmin",
         "name": "Massive Admin Theme 🦸‍♂️",
-        "version": "6.0.6",
+        "version": "6.0.7",
         "update": "2026.01.07",
-        "info": "Admin theme with new function",
+        "info": "Modern admin theme with advanced functions.",
         "author": "Multicolor",
         "tags": "tag-admin  tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.6.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.7.zip"
     },
     {
         "id": "metaRobots",
