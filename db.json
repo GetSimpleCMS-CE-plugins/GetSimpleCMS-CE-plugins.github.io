@@ -29,10 +29,10 @@
         "version": "1.0",
         "update": "2025.09.12",
         "info": "Enhance Your Website's Accessibility with All in One Accessibility®",
-        "author": "Skynet Technologies",
+        "author": "Skynet",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-All_in_One_Accessibility",
-        "wiki": "",
+        "wiki": "https://www.skynettechnologies.com/all-in-one-accessibility",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-All_in_One_Accessibility/archive/refs/heads/main.zip"
     },
     {
@@ -1450,6 +1450,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-siteFX/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "SkynetAccessibilityScanner",
+        "name": "SkynetAccessibility Scanner",
+        "version": "1.0",
+        "update": "2026.02.22",
+        "info": "Scan, monitor, and identify website accessibility issues across WCAG 2.0, 2.1, 2.2, ADA, and EAA.",
+        "author": "Skynet",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SkynetAccessibility-Scanner/blob/main/SkynetAccessibilityScanner.php",
+        "wiki": "https://www.skynettechnologies.com/all-in-one-accessibility",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-SkynetAccessibility-Scanner/archive/refs/heads/main.zip"
     },
     {
         "id": "theme-customizer",
