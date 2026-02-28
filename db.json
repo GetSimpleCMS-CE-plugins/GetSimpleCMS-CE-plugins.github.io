@@ -926,14 +926,14 @@
     {
         "id": "massiveAdmin",
         "name": "Massive Admin Theme 🦸‍♂️",
-        "version": "6.0.7",
-        "update": "2026.02.18",
+        "version": "6.0.8",
+        "update": "2026.02.28",
         "info": "Modern admin theme with advanced functions.",
         "author": "Multicolor",
         "tags": "tag-admin  tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.7.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.8.zip"
     },
     {
         "id": "metaRobots",
