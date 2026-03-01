@@ -458,14 +458,14 @@
     {
         "id": "easyStats",
         "name": "EasyStats 📊",
-        "version": "1.0",
-        "update": "2023.09.14",
-        "info": "this plugin shows statistics by counting only unique IP addresses on a website ",
-        "author": "multicolor",
+        "version": "2.0",
+        "update": "2026.03.01",
+        "info": "This plugin shows statistics by counting only unique IP addresses on a website.",
+        "author": "CE Team",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/archive/refs/heads/2.0.zip"
     },
     {
         "id": "easySMTPmail",
