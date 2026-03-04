@@ -1058,14 +1058,14 @@
     {
         "id": "news_manager",
         "name": "News Manager Updated",
-        "version": "3.6.1",
-        "update": "2022.12.17",
+        "version": "3.6.2",
+        "update": "2026.03.04",
         "info": "A blog/news plugin for GetSimple",
         "author": "Carlos Navarro",
         "tags": "tag-content tag-blog",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/",
         "wiki": "https://www.cyberiada.org/cnb/news-manager/",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/master.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_updated/archive/refs/heads/1.6.2.zip"
     },
     {
         "id": "news_manager",
