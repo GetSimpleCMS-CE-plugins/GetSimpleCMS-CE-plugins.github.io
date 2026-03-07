@@ -1,0 +1,22 @@
+[
+    {
+        "id": "recentpages",
+        "name": "Recent Pages",
+        "version": "1.0",
+        "info": "Shows the 10 most recently edited pages",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "time",
+        "name": "Time & Date",
+        "version": "1.0",
+        "info": "Displays the current local/server time and date",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Time_Date/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Time_Date/archive/refs/heads/main.zip"
+    }
+]
