@@ -1,22 +1,42 @@
 [
     {
-        "id": "recentpages",
-        "name": "Recent Pages",
+        "name": "Calendar",
+        "id": "simplecal",
         "version": "1.0",
-        "info": "Shows the 10 most recently edited pages",
+        "info": "Displays a localized calendar.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Calendar/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Calendar/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Calendar/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "Recent Pages",
+        "id": "recentpages",
+        "version": "1.0",
+        "info": "Lists the 10 most recently edited pages.",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/",
-        "wiki": "",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/archive/refs/heads/main.zip"
     },
     {
-        "id": "time",
-        "name": "Time & Date",
+        "name": "Server Time",
+        "id": "servtime",
         "version": "1.0",
-        "info": "Displays the current local/server time and date",
+        "info": "Displays current local and server time/date.",
         "author": "risingisland",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Time_Date/",
-        "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Time_Date/archive/refs/heads/main.zip"
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Server_Time/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Server_Time/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Server_Time/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "Site Overview",
+        "id": "siteoverview",
+        "version": "1.0",
+        "info": "Displays page, upload, and user count at a glance.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/archive/refs/heads/main.zip"
     }
 ]
