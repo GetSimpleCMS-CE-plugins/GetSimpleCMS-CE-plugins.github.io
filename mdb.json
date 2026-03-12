@@ -38,5 +38,15 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "Weather",
+        "id": "tinyweather",
+        "version": "1.0",
+        "info": "Display the current weather, based on IP",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Weather",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Weather/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Weather/archive/refs/heads/main.zip"
     }
 ]
