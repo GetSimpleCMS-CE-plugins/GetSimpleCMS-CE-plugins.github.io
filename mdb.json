@@ -10,6 +10,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Calendar/archive/refs/heads/main.zip"
     },
     {
+        "name": "Floppy GS",
+        "id": "floppygs",
+        "version": "1.0",
+        "info": "Floppy bird game.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Floppy_GS",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Floppy_GS/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Floppy_GS/archive/refs/heads/main.zip"
+    },
+    {
         "name": "Recent Pages",
         "id": "recentpages",
         "version": "1.0",
@@ -40,13 +50,23 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/archive/refs/heads/main.zip"
     },
     {
-        "name": "TinyWeather",
+        "name": "Tiny Calculator",
+        "id": "tinycalculator",
+        "version": "1.0",
+        "info": "Provides a calculator for simple mathematical functions.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyCalculator",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyCalculator/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyCalculator/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "Tiny Weather",
         "id": "tinyweather",
         "version": "1.0",
         "info": "Display the current weather, based on IP",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyWeather",
-        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyWeather",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyWeather/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyWeather/archive/refs/heads/main.zip"
     },
     {
