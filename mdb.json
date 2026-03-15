@@ -20,6 +20,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Floppy_GS/archive/refs/heads/main.zip"
     },
     {
+        "name": "i18n Galleries",
+        "id": "i18ngalleries",
+        "version": "1.0",
+        "info": "Lists i18n Gallery galleries with links to edit.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-i18n_Galleries",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-i18n_Galleries/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-i18n_Galleries/archive/refs/heads/main.zip"
+    },
+    {
         "name": "Monster Galleries",
         "id": "mgalleries",
         "version": "1.0",
@@ -28,6 +38,16 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Monster_Galleries",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Monster_Galleries/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Monster_Galleries/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "News Manager",
+        "id": "newsmanagerposts",
+        "version": "1.0",
+        "info": "Lists the 5 most recent News Manager posts with a link to add new.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-News_Manager",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-News_Manager/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-News_Manager/archive/refs/heads/main.zip"
     },
     {
         "name": "Recent Pages",
@@ -50,10 +70,20 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Server_Time/archive/refs/heads/main.zip"
     },
     {
+        "name": "Simple Blog",
+        "id": "simpleblogposts",
+        "version": "1.0",
+        "info": "Displays current local and server time/date.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Simple_Blog",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Simple_Blog/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Simple_Blog/archive/refs/heads/main.zip"
+    },
+    {
         "name": "Site Overview",
         "id": "siteoverview",
         "version": "1.0",
-        "info": "Displays page, upload, and user count at a glance.",
+        "info": "Lists the 5 most recent SimpleBlog posts with a link to add new.",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/wiki",
