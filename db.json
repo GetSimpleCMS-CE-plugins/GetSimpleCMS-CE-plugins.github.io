@@ -636,6 +636,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-gallery_folder-edit-by-vixo/archive/refs/heads/main.zip"
     },
     {
+        "id": "global_motion_banner",
+        "name": "Global Motion Banner",
+        "version": "2.1",
+        "update": "2026.03.17",
+        "info": "Multi-type banners with targeting and scheduling",
+        "author": "Fahad4x4",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-global_motion_banner",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-global_motion_banner/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-global_motion_banner/archive/refs/heads/main.zip"
+    },
+    {
         "id": "googlefonts",
         "name": "Google Fonts Selector",
         "version": "1.0",
