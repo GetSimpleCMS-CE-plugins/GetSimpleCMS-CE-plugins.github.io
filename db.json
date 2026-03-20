@@ -696,6 +696,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/archive/refs/heads/2.0.zip"
     },
     {
+        "id": "gs_tables",
+        "name": "GS Tables",
+        "version": "2.1.7",
+        "update": "2026.03.20",
+        "info": "Create and manage styled, responsive tables via shortcodes.",
+        "author": "Rusty Hill",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Tables",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Tables/archive/refs/heads/main.zip"
+    },
+    {
         "id": "GS-TinyMCE",
         "name": "GS TinyMCE",
         "version": "1.2",
