@@ -312,6 +312,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Custom-Title/archive/main.zip"
     },
     {
+        "id": "Dashboard",
+        "name": "Dashboard",
+        "version": "1.0",
+        "update": "2026.03.21",
+        "info": "Admin dashboard shown after login.",
+        "author": "risingisland",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/archive/refs/heads/main.zip"
+    },
+    {
         "id": "debugCE",
         "name": "debugCE 🐛",
         "version": "1.0",
