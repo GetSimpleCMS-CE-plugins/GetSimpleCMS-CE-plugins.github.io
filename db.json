@@ -696,6 +696,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Click-to-Mail/archive/refs/heads/main.zip"
     },
     {
+        "id": "gsConfigGUI",
+        "name": "GS Config GUI",
+        "version": "1.0",
+        "update": "2026.03.23",
+        "info": "Visual editor for gsconfig.php configuration settings.",
+        "author": "risingisland",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI/archive/refs/heads/main.zip"
+    },
+    {
         "id": "GS-Hide-Tabs",
         "name": "GS Hide Tabs",
         "version": "2.0",
