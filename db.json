@@ -316,7 +316,7 @@
         "name": "Dashboard",
         "version": "1.0",
         "update": "2026.03.21",
-        "info": "Admin dashboard shown after login.",
+        "info": "Customizable admin dashboard shown after login.",
         "author": "risingisland",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard",
