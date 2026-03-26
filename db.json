@@ -1646,14 +1646,14 @@
     {
         "id": "video-galleries",
         "name": "Video Galleries",
-        "version": "1.1",
-        "update": "2025.12.23",
-        "info": "Create and manage video galleries with shortcode or PHP function support. ",
-        "author": "multicolor",
+        "version": "1.2",
+        "update": "2026.03.26",
+        "info": "Create Local or YouTube video galleries with shortcode or PHP function support. ",
+        "author": "CE Team",
         "tags": "",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Galleries/tree/main",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Galleries",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Galleries/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Galleries/archive/refs/heads/v1.2.zip"
     },
     {
         "id": "wj_notepad",
