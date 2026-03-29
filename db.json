@@ -218,9 +218,9 @@
     {
         "id": "cookieMonster",
         "name": "Cookie Monster 🍪",
-        "version": "1.0",
-        "update": "2025.04.08",
-        "info": "Advanced cookieconsent plugin with GDPR options, styles and categories.",
+        "version": "2.0",
+        "update": "2026.03.26",
+        "info": "Advanced cookieconsent plugin with GDPR options, styles and categories compatible with Google Consent Mode v2",
         "author": "multicolor",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-cookieMonster/",
