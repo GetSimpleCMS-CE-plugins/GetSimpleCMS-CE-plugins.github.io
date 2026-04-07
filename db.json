@@ -479,6 +479,20 @@
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyStats/archive/refs/heads/2.0.zip"
     },
+
+       {
+        "id": "easyStatsEvo",
+        "name": "EasyStatsEvo 📊",
+        "version": "1.0",
+        "update": "2026.04.07",
+        "info": "This plugin shows statistics by counting only unique IP addresses on a website (Uses sqlite3 to store data) and provides export functionality.",
+        "author": "CE Team",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easyStatsEvo/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-easyStatsEvo/archive/refs/heads/main.zip"
+    },
+    
     {
         "id": "easySMTPmail",
         "name": "EasySMTPmail",
