@@ -60,6 +60,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AOSify/archive/refs/heads/main.zip"
     },
     {
+        "id": "appointment-system",
+        "name": "Appointment System",
+        "version": "1.0",
+        "update": "2026.04.22",
+        "info": "Add your appointments slots, manage emails notification, use shortcode in yours pages to display appointment form.",
+        "author": "Votre Nom",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Appointments_system/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Appointments_system/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Appointments_system/archive/refs/heads/main.zip"
+    },
+    {
         "id": "autoLightbox",
         "name": "autoLightbox",
         "version": "2.2",
