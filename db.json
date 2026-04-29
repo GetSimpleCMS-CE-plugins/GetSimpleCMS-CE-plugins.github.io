@@ -1120,14 +1120,14 @@
     {
         "id": "newsletter",
         "name": "Newsletter",
-        "version": "1.2",
-        "update": "2026.004.02",
-        "info": "plugin for create newsletter from website",
-        "author": "multicolor",
+        "version": "1.3",
+        "update": "2026.04.29",
+        "info": "Plugin for creating a newsletter via website",
+        "author": "CE Team",
         "tags": "tag-content",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/1.2.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Newsletter/archive/refs/heads/1.3.zip"
     },
     {
         "id": "news_manager",
