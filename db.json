@@ -2,7 +2,7 @@
     {
         "id": "2FAforGS",
         "name": "2FA for GS",
-        "version": "1.0.",
+        "version": "1.0",
         "update": "2026.05.18",
         "info": "Add Two-Factor Authentication (Google Authenticator, Authy or any TOTP app) to admin login page. (SQLite3 required).",
         "author": "risingisland",
