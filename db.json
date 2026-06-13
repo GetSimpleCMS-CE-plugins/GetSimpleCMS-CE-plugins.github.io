@@ -1688,7 +1688,7 @@
         "update": "2026.03.26",
         "info": "Create Local or YouTube video galleries with shortcode or PHP function support. ",
         "author": "CE Team",
-        "tags": "",
+        "tags": "tag-gallery",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Galleries",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Galleries/archive/refs/heads/v1.2.zip"
