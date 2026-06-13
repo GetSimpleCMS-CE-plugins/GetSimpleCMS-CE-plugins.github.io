@@ -1012,14 +1012,14 @@
     {
         "id": "massiveAdmin",
         "name": "Massive Admin Theme 🦸‍♂️",
-        "version": "6.0.9",
-        "update": "2026.03.01",
+        "version": "6.1",
+        "update": "2026.06.13",
         "info": "Modern admin theme with advanced functions.",
         "author": "Multicolor",
         "tags": "tag-admin  tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.0.9.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.1.zip"
     },
     {
         "id": "metaRobots",
@@ -1648,14 +1648,14 @@
     {
         "id": "UpdateCE",
         "name": "Update CE",
-        "version": "1.4",
-        "update": "2026.06.10",
+        "version": "1.5",
+        "update": "2026.06.13",
         "info": "Update your current install to the latest version from within the admin.",
         "author": "risingisland",
         "tags": "tag-admin tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/1.4.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-UpdateCE/archive/refs/heads/1.5.zip"
     },
     {
         "id": "Upload-Plugin",
