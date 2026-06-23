@@ -1,17 +1,5 @@
 [
     {
-        "id": "2FAforGS",
-        "name": "2FA for GS",
-        "version": "1.0",
-        "update": "2026.05.18",
-        "info": "Add Two-Factor Authentication (Google Authenticator, Authy or any TOTP app) to admin login page. (SQLite3 required).",
-        "author": "risingisland",
-        "tags": "tag-security",
-        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-2FA_for_GS",
-        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-2FA_for_GS/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-2FA_for_GS/archive/refs/heads/main.zip"
-    },
-    {
         "id": "accessibilitySidebar",
         "name": "Accessibility Sidebar 🗚",
         "version": "1.0.1",
