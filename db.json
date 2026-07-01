@@ -1372,14 +1372,14 @@
     {
         "id": "regenerate_thumbnails",
         "name": "Regenerate Thumbnails",
-        "version": "2.0",
-        "update": "2026.02.14",
+        "version": "3.0",
+        "update": "2026.07.01",
         "info": "Regenerate Thumbnails",
         "author": "jjancel / risingisland",
         "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/2.0.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/3.0.zip"
     },
     {
         "id": "sa_toc_anchors",
