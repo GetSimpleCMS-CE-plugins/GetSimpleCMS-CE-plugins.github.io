@@ -1492,14 +1492,14 @@
     {
         "id": "simpleBlog",
         "name": "SimpleBlog",
-        "version": "3.3",
+        "version": "3.4",
         "update": "2026.07.10",
         "info": "SimpleBlog for Simple CMS! Based on Sqlite3",
         "author": "Multicolor",
         "tags": "tag-content tag-blog",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/archive/refs/heads/3.3.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/archive/refs/heads/3.4.zip"
     },
     {
         "id": "simple_input_tabs",
