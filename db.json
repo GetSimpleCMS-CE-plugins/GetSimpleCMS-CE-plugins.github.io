@@ -326,8 +326,8 @@
     {
         "id": "Dashboard",
         "name": "Dashboard",
-        "version": "1.0",
-        "update": "2026.03.21",
+        "version": "1.1",
+        "update": "2026.08.10",
         "info": "Customizable admin dashboard shown after login.",
         "author": "risingisland",
         "tags": "tag-admin",
