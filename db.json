@@ -1144,8 +1144,8 @@
     {
         "id": "news_manager",
         "name": "News Manager Beta",
-        "version": "3.7 beta 2",
-        "update": "2022.02.01",
+        "version": "3.7 beta 3",
+        "update": "2026.08.15",
         "info": "A blog/news plugin for GetSimple (extended template placeholders)",
         "author": "Carlos Navarro",
         "tags": "tag-content tag-blog",
