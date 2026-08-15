@@ -1382,6 +1382,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Regenerate_Thumbnails/archive/refs/heads/3.0.zip"
     },
     {
+        "id": "Reorder_Plugins",
+        "name": "Reorder Plugins",
+        "version": "1.0",
+        "update": "2026.08.15",
+        "info": "Reorder the GetSimple plugin loading sequence.",
+        "author": "risingisland",
+        "tags": "tag-admin",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Reorder_Plugins/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Reorder_Plugins/archive/refs/heads/main.zip"
+    },
+    {
         "id": "sa_toc_anchors",
         "name": "SA Toc / Anchors Plugin ",
         "version": "0.3",
