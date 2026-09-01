@@ -264,7 +264,7 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-currentEvents/archive/refs/heads/3.2.zip"
     },
     {
-        "id": "current-events",
+        "id": "currentevents",
         "name": "Current Events (24h) 📅",
         "version": "3.2",
         "update": "2023.11.30",
