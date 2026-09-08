@@ -162,7 +162,7 @@
         "update": "2022.12.31",
         "info": "This plugin is to download plugins that supports php8.x",
         "author": "Multicolor",
-        "tags": "tag-admin  tag-gsce",
+        "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
@@ -330,7 +330,7 @@
         "update": "2026.08.10",
         "info": "Customizable admin dashboard shown after login.",
         "author": "risingisland",
-        "tags": "tag-admin",
+        "tags": "tag-admin tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/archive/refs/heads/1.1.zip"
@@ -728,7 +728,7 @@
         "update": "2026.03.28",
         "info": "Visual editor for gsconfig.php configuration settings.",
         "author": "risingisland",
-        "tags": "tag-admin",
+        "tags": "tag-admin tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI/archive/refs/heads/1.1.zip"
@@ -1004,7 +1004,7 @@
         "update": "2026.09.03",
         "info": "Modern admin theme with advanced functions.",
         "author": "Multicolor",
-        "tags": "tag-admin  tag-gsce",
+        "tags": "tag-admin tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Massive_Admin_Theme/archive/refs/heads/6.5.zip"
@@ -1304,7 +1304,7 @@
         "update": "2023.03.12",
         "info": " Plugin for download from ce repo/unistall plugins from system (grabbed options from MassiveAdmin theme) ",
         "author": "multicolor",
-        "tags": "tag-admin  tag-gsce",
+        "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-pluginManager/archive/refs/heads/main.zip"
@@ -1592,7 +1592,7 @@
         "update": "2025.02.18",
         "info": "Upload, edit, and manage your themes files and folders directly, without the need for ftp.",
         "author": "risingisland",
-        "tags": "tag-gsce",
+        "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/archive/refs/heads/main.zip"
@@ -1664,7 +1664,7 @@
         "update": "2023.01.12",
         "info": "Upload Plugin or Themes direct from CMS",
         "author": "multicolor",
-        "tags": "tag-admin tag-gsce",
+        "tags": "tag-admin",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Upload_Plugin/archive/main.zip"
