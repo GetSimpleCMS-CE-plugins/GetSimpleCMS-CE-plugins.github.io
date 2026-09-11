@@ -374,14 +374,14 @@
     {
         "id": "DisplayOnDate",
         "name": "Display On Date",
-        "version": "1.1",
-        "update": "2026.02.05",
+        "version": "1.2",
+        "update": "2026.09.11",
         "info": "Schedule content blocks to display during specified dates using shortcodes or PHP calls.",
         "author": "risingisland",
         "tags": "tag-content",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DisplayOnDate/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DisplayOnDate/archive/refs/heads/1.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-DisplayOnDate/archive/refs/heads/1.2.zip"
     },
     {
         "id": "dynpages",
