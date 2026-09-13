@@ -113,6 +113,7 @@
         "name": "Tiny Calculator",
         "id": "tinycalculator",
         "version": "1.0",
+        "update": "2026.09.01",
         "info": "Provides a calculator for simple mathematical functions.",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyCalculator",
