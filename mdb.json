@@ -10,6 +10,16 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Calendar/archive/refs/heads/main.zip"
     },
     {
+        "name": "Display On Date",
+        "id": "displayondate",
+        "version": "1.0",
+        "info": "Lists DisplayOnDate scheduled blocks with start/end dates and status.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-DisplayOnDate",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-DisplayOnDate/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-DisplayOnDate/archive/refs/heads/main.zip"
+    },
+    {
         "name": "Floppy GS",
         "id": "floppygs",
         "version": "1.0",
