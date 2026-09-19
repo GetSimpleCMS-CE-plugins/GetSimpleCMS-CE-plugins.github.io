@@ -48,6 +48,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/archive/refs/heads/2.0.4.zip"
     },
     {
+        "id": "AnyGal",
+        "name": "AnyGal",
+        "version": "1.0",
+        "update": "2026.09.19",
+        "info": "Build image galleries from your own HTML templates and show them with a shortcode or a PHP call.",
+        "author": "risingisland",
+        "tags": "tag-gallery",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AnyGal",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AnyGal/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AnyGal/archive/refs/heads/main.zip"
+    },
+    {
         "id": "aosify",
         "name": "AOSify",
         "version": "1.0",
