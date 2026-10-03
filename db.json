@@ -1046,6 +1046,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MonsterGallery/archive/refs/heads/4.4.zip"
     },
     {
+        "id": "gs-movie-db",
+        "name": "Movie Database Manager",
+        "version": "1.0",
+        "update": "2026.10.03",
+        "info": "Manage catalogue, ratings, trailers, and movie pages.",
+        "author": "Zeth",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/archive/refs/heads/main.zip"
+    },
+    {
         "id": "multiBlock",
         "name": "Multiblock 🧱",
         "version": "6.0",
