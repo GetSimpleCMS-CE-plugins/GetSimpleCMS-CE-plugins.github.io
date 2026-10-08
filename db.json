@@ -1048,14 +1048,14 @@
     {
         "id": "gs-movie-db",
         "name": "Movie Database Manager",
-        "version": "1.0",
-        "update": "2026.10.03",
+        "version": "1.1",
+        "update": "2026.10.08",
         "info": "Manage catalogue, ratings, trailers, and movie pages.",
         "author": "Zeth",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/archive/refs/heads/1.1.zip"
     },
     {
         "id": "multiBlock",
