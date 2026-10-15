@@ -48,6 +48,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-AlterLang/archive/refs/heads/2.0.4.zip"
     },
     {
+        "id": "gs_clock",
+        "name": "Analog Clock",
+        "version": "1.0",
+        "update": "2026.10.15",
+        "info": "Analog Clock Widget for GetSimple CE",
+        "author": "Zeth",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock/archive/refs/heads/main.zip"
+    },
+    {
         "id": "AnyGal",
         "name": "AnyGal",
         "version": "1.0",
@@ -1200,6 +1212,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Manager_Auto-open_Options/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "gs_news_scroller",
+        "name": "News Scroller",
+        "version": "1.0",
+        "update": "2026.10.15",
+        "info": "Manage and display multiple news ticker marquees.",
+        "author": "Zeth",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller/archive/refs/heads/main.zip"
     },
     {
         "id": "Non_Canonical_to_404",
