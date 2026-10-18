@@ -192,6 +192,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE-Downloader/archive/main.zip"
     },
     {
+        "id": "ce_translator",
+        "name": "CE-Translator",
+        "version": "1.0",
+        "update": "2026.10.18",
+        "info": "Allows you to edit and translate GS and Plugin i18n language files and keys.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE_Translator/",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-CE_Translator/archive/refs/heads/main.zip"
+    },
+    {
         "id": "child_menu",
         "name": "Child Menu",
         "version": "1.9",
