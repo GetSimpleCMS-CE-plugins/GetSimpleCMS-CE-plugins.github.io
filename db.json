@@ -1012,14 +1012,14 @@
     {
         "id": "mapCreator",
         "name": "MapCreator 📍",
-        "version": "5.0",
-        "update": "2024.08.08",
-        "info": "This plugin add maps to your website with MapCreator",
+        "version": "6.0",
+        "update": "2026.10.23",
+        "info": "This plugin adds maps to your website with MapCreator",
         "author": "Multicolor",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/5.0.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-MapCreator/archive/refs/heads/6.0.zip"
     },
     {
         "id": "mapFromGoogle",
