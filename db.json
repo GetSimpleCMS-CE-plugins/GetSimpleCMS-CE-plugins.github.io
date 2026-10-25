@@ -494,14 +494,14 @@
     {
         "id": "EasyContactButton",
         "name": "EasyContactButton 🛎️",
-        "version": "1.5",
-        "update": "2026.01.26",
+        "version": "1.8",
+        "update": "2026.10.25",
         "info": "Add a Contact or WhatsApp button to your theme",
         "author": "risingisland",
         "tags": "tag-social",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/",
         "wiki": "",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/1.5.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-EasyContactButton/archive/refs/heads/1.8.zip"
     },
     {
         "id": "EasyIcons",
