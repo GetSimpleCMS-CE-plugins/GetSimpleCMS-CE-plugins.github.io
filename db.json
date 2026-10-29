@@ -50,14 +50,14 @@
     {
         "id": "gs_clock",
         "name": "Analog Clock",
-        "version": "1.0",
-        "update": "2026.10.15",
+        "version": "1.1",
+        "update": "2026.10.29",
         "info": "Analog Clock Widget for GetSimple CE",
         "author": "Zeth",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Analog_Clock/archive/refs/heads/1.1.zip"
     },
     {
         "id": "AnyGal",
@@ -142,6 +142,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BetterSEO/archive/refs/heads/4.2.zip"
+    },
+    {
+        "id": "bigdeal_slider",
+        "name": "BigDeal Image Slider",
+        "version": "1.0",
+        "update": "2026.10.29",
+        "info": "Responsive image slider with customizable captions, transitions, and native image picker modal.",
+        "author": "Zeth",
+        "tags": "tag-gallery",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BigDeal_Slider/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BigDeal_Slider/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-BigDeal_Slider/archive/refs/heads/main.zip"
     },
     {
         "id": "blockContent",
@@ -782,6 +794,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Hide_Tabs/archive/refs/heads/3.0.zip"
     },
     {
+        "id": "gs_chat",
+        "name": "GS Live Chat",
+        "version": "1.0",
+        "update": "2026.10.29",
+        "info": "Live Chat Widget for GetSimple CE",
+        "author": "Zeth",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Live_Chat/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Live_Chat/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Live_Chat/archive/refs/heads/main.zip"
+    },
+    {
         "id": "gs_tables",
         "name": "GS Tables",
         "version": "2.1.7",
@@ -1072,14 +1096,14 @@
     {
         "id": "gs-movie-db",
         "name": "Movie Database Manager",
-        "version": "1.2",
-        "update": "2026.10.15",
+        "version": "1.3",
+        "update": "2026.10.29",
         "info": "Manage catalogue, ratings, trailers, and movie pages.",
         "author": "Zeth",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/archive/refs/heads/1.2.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Movie_Database_Manager/archive/refs/heads/1.3.zip"
     },
     {
         "id": "multiBlock",
@@ -1228,14 +1252,14 @@
     {
         "id": "gs_news_scroller",
         "name": "News Scroller",
-        "version": "1.0",
-        "update": "2026.10.15",
+        "version": "1.1",
+        "update": "2026.10.29",
         "info": "Manage and display multiple news ticker marquees.",
         "author": "Zeth",
         "tags": "",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-News_Scroller/archive/refs/heads/1.1.zip"
     },
     {
         "id": "Non_Canonical_to_404",
@@ -1572,6 +1596,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/wiki",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-simpleBlog/archive/refs/heads/3.5.zip"
+    },
+    {
+        "id": "simple_gallery",
+        "name": "Simple Gallery",
+        "version": "1.0",
+        "update": "2026.10.29",
+        "info": "A lightweight multiple-folder image gallery plugin for GetSimple CE.",
+        "author": "Zeth",
+        "tags": "tag-gallery",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Gallery/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Gallery/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Simple_Gallery/archive/refs/heads/main.zip"
     },
     {
         "id": "simple_input_tabs",
