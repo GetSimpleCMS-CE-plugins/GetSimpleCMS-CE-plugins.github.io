@@ -1,5 +1,17 @@
 [
     {
+        "id": "2FAforGS",
+        "name": "2FA for GS",
+        "version": "1.0",
+        "update": "2026.11.16",
+        "info": "Add Two-Factor Authentication (2FA) to your GetSimple CMS admin login using any TOTP-compatible app such as Google Authenticator, Authy, or 1Password.",
+        "author": "risingisland",
+        "tags": "tag-security",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-2FA_for_GS/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-2FA_for_GS/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-2FA_for_GS/archive/refs/heads/main.zip"
+    },
+    {
         "id": "accessibilitySidebar",
         "name": "Accessibility Sidebar 🗚",
         "version": "1.0.1",
@@ -744,6 +756,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Fonts_Selector",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Fonts_Selector/archive/refs/heads/main.zip"
+    },
+    {
+        "id": "GoogleLogin",
+        "name": "Google Login",
+        "version": "1.0",
+        "update": "2026.11.16",
+        "info": "Adds a 'Sign in with Google' option to the GetSimple admin login page",
+        "author": "risingisland",
+        "tags": "tag-security",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Login/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Login/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Google_Login/archive/refs/heads/main.zip"
     },
     {
         "id": "GS-BS",
