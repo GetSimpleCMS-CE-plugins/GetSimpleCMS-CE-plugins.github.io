@@ -1010,6 +1010,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-I18N-Special-Pages-extras/archive/refs/heads/main.zip"
     },
     {
+        "id": "ImageEditor",
+        "name": "Image Editor",
+        "version": "1.0",
+        "update": "2026.11.16",
+        "info": "Browse uploaded images and edit them with a canvas-based editor. Saves edits as new copies in data/uploads.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Image_Editor/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Image_Editor/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Image_Editor/archive/refs/heads/main.zip"
+    },
+    {
         "id": "info-pop",
         "name": "InfoPop",
         "version": "1.1",
