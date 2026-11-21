@@ -1754,6 +1754,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Theme_Manager_CE/archive/refs/heads/main.zip"
     },
     {
+        "id": "TrafficLens",
+        "name": "TrafficLens",
+        "version": "1.5",
+        "update": "2026.11.21",
+        "info": "Visitor analytics with country, browser, and referrer breakdowns.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-TrafficLens",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-TrafficLens/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-TrafficLens/archive/refs/heads/1.5.zip"
+    },
+    {
         "id": "translate",
         "name": "Translate",
         "version": "1.1",
