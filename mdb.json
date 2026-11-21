@@ -143,6 +143,17 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-TinyWeather/archive/refs/heads/main.zip"
     },
     {
+        "name": "TrafficLens ",
+        "id": "trafficlens",
+        "version": "1.0",
+        "update": "2026.11.21",
+        "info": "Shows the last 30 days of visitor traffic from TrafficLens, plus this week's page views and the current live visitor count.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-TrafficLens",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-TrafficLens/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-TrafficLens/archive/refs/heads/main.zip"
+    },
+    {
         "name": "Updates",
         "id": "updates",
         "version": "1.0",
