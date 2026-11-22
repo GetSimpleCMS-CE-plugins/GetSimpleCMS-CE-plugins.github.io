@@ -66,6 +66,17 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Monster_Galleries/archive/refs/heads/main.zip"
     },
     {
+        "name": "NewsCenter",
+        "id": "newscenter",
+        "version": "1.0",
+        "update": "2026.11.22",
+        "info": "Lists recent NewsCenter articles with status, author, and quick action links.",
+        "author": "risingisland",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-NewsCenter",
+        "wiki": "",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-NewsCenter/archive/refs/heads/main.zip"
+    },
+    {
         "name": "News Manager",
         "id": "newsmanagerposts",
         "version": "1.0",
