@@ -662,6 +662,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Festivus/archive/refs/heads/main.zip"
     },
     {
+        "id": "FlipBook",
+        "name": "FlipBook",
+        "version": "1.0",
+        "update": "2026.11.23",
+        "info": "Flip-book builder using PDFs, images, and image+text mixed pages in one reorderable flip-book.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FlipBook/",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FlipBook/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-FlipBook/archive/refs/heads/main.zip"
+    },
+    {
         "id": "focusReminder",
         "name": "focusReminder",
         "version": "1.0",
@@ -1860,6 +1872,18 @@
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/",
         "wiki": "",
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-URI_Redirect_Plus/archive/refs/heads/master.zip"
+    },
+    {
+        "id": "VideoBubble",
+        "name": "VideoBubble",
+        "version": "1.1",
+        "update": "2026.11.23",
+        "info": "Floating video greeting bubble (mp4 + YouTube) built with vanilla JS.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Bubble",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Bubble/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Video_Bubble/archive/refs/heads/1.1.zip"
     },
     {
         "id": "video-galleries",
