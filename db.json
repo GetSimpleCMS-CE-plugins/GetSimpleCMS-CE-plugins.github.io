@@ -614,6 +614,18 @@
         "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Easy_ContactForm/archive/refs/heads/5.0b.zip"
     },
     {
+        "id": "easy_contactform",
+        "name": "Events Calendar",
+        "version": "1.0",
+        "update": "2026.11.24",
+        "info": "Events Calendar with optional List/Grid view. Full event details are displayed in model popup.",
+        "author": "risingisland",
+        "tags": "",
+        "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Events_Calendar",
+        "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Events_Calendar/wiki",
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Events_Calendar/archive/refs/heads/main.zip"
+    },
+    {
         "id": "ExtraGallery",
         "name": "Extra Gallery ",
         "version": "1.09",
