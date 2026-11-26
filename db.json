@@ -386,14 +386,14 @@
     {
         "id": "Dashboard",
         "name": "Dashboard",
-        "version": "1.2",
-        "update": "2026.11.06",
+        "version": "1.3",
+        "update": "2026.11.26",
         "info": "Customizable admin dashboard shown after login.",
         "author": "risingisland",
         "tags": "tag-admin tag-gsce",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/archive/refs/heads/1.1.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/archive/refs/heads/1.3.zip"
     },
     {
         "id": "debugCE",
