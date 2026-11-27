@@ -90,13 +90,13 @@
     {
         "name": "Recent Pages",
         "id": "recentpages",
-        "version": "1.0",
-        "update": "2026.09.01",
+        "version": "1.1",
+        "update": "2026.11.27",
         "info": "Lists the 10 most recently edited pages.",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Recent_Pages/archive/refs/heads/1.1.zip"
     },
     {
         "name": "Server Time",
@@ -123,13 +123,13 @@
     {
         "name": "Site Overview",
         "id": "siteoverview",
-        "version": "1.0",
-        "update": "2026.09.01",
+        "version": "1.1",
+        "update": "2026.11.27",
         "info": "Displays Page, Upload, and User count at a glance.",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Site_Overview/archive/refs/heads/1.1.zip"
     },
     {
         "name": "Tiny Calculator",
@@ -167,12 +167,12 @@
     {
         "name": "Updates",
         "id": "updates",
-        "version": "1.0",
-        "update": "2026.09.01",
+        "version": "1.1",
+        "update": "2026.11.27",
         "info": "Shows available system and plugin updates",
         "author": "risingisland",
         "repo": "https://github.com/GetSimpleCMS-CE-plugins/module-Updates",
         "wiki": "https://github.com/GetSimpleCMS-CE-plugins/module-Updates/wiki",
-        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Updates/archive/refs/heads/main.zip"
+        "url": "https://github.com/GetSimpleCMS-CE-plugins/module-Updates/archive/refs/heads/1.1.zip"
     }
 ]
